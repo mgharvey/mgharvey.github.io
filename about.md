@@ -12,16 +12,16 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-I study the 
+I am generally interested in using comparative data from populations undergoing speciation to understand the factors responsible for diversity. My research focuses on birds from the Neotropics (Central and South America), home to the highest avian diversity on the planet. I use large comparative datasets, such as those that can be obtained from natural history collections, to understand broad patterns and to examine the deterministic factors underlying variation across species. 
 
-## Minimal Mistakes is all about:
+## My main research interests are:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments --- content first.
-* Large feature images for posts and pages.
-* Author sidebar to pimp your bio, photo[^2], and social media links.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
+* Comparative phylogeography
+* Avian phylogenetics
+* Population genomics
+* Developing tools for comparative analysis
+* Macroecology
+* Field ornithology
 
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
 
