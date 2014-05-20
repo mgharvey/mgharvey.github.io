@@ -26,9 +26,3 @@ I am generally interested in using comparative data from populations undergoing 
 ## My Background:
 
 Originally from New Hampshire, I developed a passion for birds early, and spent most of my teenage years trying to find new and rare birds everywhere I went. My first real research experiences were during my undergraduate career at Cornell University, where I benefitted from interaction with many great researchers with diverse interests at the Cornell Lab of Ornithology. Through some inspiring courses and professors, I fell in love with evolutionary biology and especially speciation and macroevolution. The drive to find new birds, however, led me deeper into the Neotropics, where the diversity and complexity of the avifauna captivated me. I am incredibly grateful that I am able to pursue my two passions - avian diversity and evolutionary biology - in my research career.
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
-
-[^1]: Since open sourcing this theme I have released a couple other Jekyll themes. My website [Made Mistakes](http://mademistakes.com) is currently using a modified version of my [So Simple Theme](http://mmistakes.github.io/so-simple-theme/).
-
-[^2]: Fancy avatars provided by [Brandon Mathis](http://brandonmathis.com/projects/fancy-avatars/demo/) under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
