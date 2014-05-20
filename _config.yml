@@ -1,12 +1,12 @@
-title:            Site Title
+title:            Michael G. Harvey
 description:      Describe your website.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://mgharvey.github.io
-disqus_shortname:
+relative_permalinks: false
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Michael G. Harvey
   avatar:         bio-photo.jpg
   bio:            "Describe your self."
   email:          your@email.com
