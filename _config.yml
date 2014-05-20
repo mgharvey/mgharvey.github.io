@@ -1,5 +1,5 @@
 title:            Michael G. Harvey
-description:      Describe your website.
+description:      Academic Website.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://mgharvey.github.io
 relative_permalinks: false
@@ -8,23 +8,11 @@ relative_permalinks: false
 owner:
   name:           Michael G. Harvey
   avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  bio:            "Graduate Student | LSU Museum of Natural Science"
+  email:          mharve9@lsu.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:
-  facebook:
-  github:
-  stackoverflow:
-  linkedin:
-  instagram:
-  lastfm:
-  tumblr:
-  pinterest:
-  foursquare:
-  steam:
-  dribbble:
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:
+  twitter: michaelgharvey
+  github: mgharvey
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
@@ -37,16 +25,16 @@ bing_verify:
 links:
   - title: About
     url: /about/
-  - title: Posts
-    url: /posts/
-  - title: Theme Setup
+  - title: Publications
+    url: /pubs/
+  - title: Field Work
     url: /theme-setup/
-  - title: Made Mistakes
+  - title: Software
     url: http://mademistakes.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Baton_Rouge
 future:      true
 highlighter: pygments
 markdown:    kramdown
