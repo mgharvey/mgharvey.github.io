@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /publications2/
 title: Publications
 tagline: Michael G. Harvey
 tags: [about, research, Michael G. Harvey]
