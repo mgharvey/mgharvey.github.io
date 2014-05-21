@@ -12,6 +12,10 @@ image:
 
 ***
 
+<a href="https://impactstory.org/MichaelHarvey"><img src="https://impactstory.org/logo/small" width="100" /></a>
+
+<a href="http://scholar.google.com/citations?hl=en&user=vV6SsisAAAAJ"><img src="images/scholar_logo_md_2011.gif" width="100" /></a>
+
 # In the works
 
 * Harvey MG, Smith BT, Glenn TC, Faircloth BC, Brumfield RT. **Sequence capture versus restriction site associated DNA sequencing for phylogeography**. (arXiv preprint)
