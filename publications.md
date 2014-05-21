@@ -14,9 +14,9 @@ image:
 
 ## In the works
 
-Harvey MG, Smith BT, Glenn TC, Faircloth BC, Brumfield RT (In review) **Sequence capture versus restriction site associated DNA sequencing for phylogeography**. (arXiv preprint)
+* Harvey MG, Smith BT, Glenn TC, Faircloth BC, Brumfield RT (In review) **Sequence capture versus restriction site associated DNA sequencing for phylogeography**. (arXiv preprint)
 
-## 2013
+## 2014
 
 * Harvey MG, Seeholzer GF, Cáceres Apaza D, Winger BM, Tello JG, Hernández Camacho F, Aponte Justiniano MA, Duffie CV, Figueroa Ramírez S, Terrill RS, Brown CE, Alza L, Bravo GA, Combe M, Custodio O, Quiñones Zumaeta A, Urbay Tello A, Garcia Bravo WA, Savit AS, Pezo Ruiz FW, Mauck WM III, Barden O (In press) . **Avian biogeography of an Amazonian headwater: the upper Ucayali River, Peru**. *Wilson Journal of Ornithology*.
 
@@ -26,24 +26,40 @@ Harvey MG, Smith BT, Glenn TC, Faircloth BC, Brumfield RT (In review) **Sequence
 
 * Smith BT, Harvey MG, Faircloth BC, Glenn TC, Brumfield RT (2014) **Target capture and massively parallel sequencing of ultraconserved elements (UCEs) for comparative studies at shallow evolutionary timescales**. *Systematic Biology* 63: 83-95. (arXiv preprint) - (pdf) - (frontispiece)
 
+## 2013
+
 * Carstens BC, Brennan RS, Chua V, Duffie CV, Harvey MG, Koch RA, McMahan CD, Nelson BJ, Newman CE, Satler JD, Seeholzer GF, Posbic K, Tank DC, Sullivan J (2013) **Model selection as a tool for phylogeographic inference: An example from the willow Salix melanopsis**. *Molecular Ecology* 22: 4014-4028. (pdf)
 
 * McCormack JE, Harvey MG, Faircloth BC, Crawford NG, Glenn TC, Brumfield RT (2013) **A phylogeny of birds based on over 1,500 loci collected by target enrichment and high-throughput sequencing**. *PLoS One* 8: e54848. (html) - (pdf)
+
+## 2012
 
 * Seeholzer GF, Winger BM, Harvey MG, Cáceres Apaza D, Weckstein JD (2012) **A new species of barbet (Capitonidae: *Capito*) from the southern Cerros del Sira, Ucayali, Peru**. *Auk* 129: 551-559. (pdf) - (frontispiece) by Larry McQueen
 
 * Faircloth BC, McCormack JE, Crawford NG, Harvey MG, Brumfield RT, Glenn TC (2012) **Ultraconserved elements anchor thousands of genetic markers for target enrichment spanning multiple evolutionary timescales**. *Systematic Biology* 61: 717-726. (pdf)
 
+## 2011
+
 * Harvey MG, Winger BM, Seeholzer GF, Cáceres Apaza D (2011) **Avifauna of the Gran Pajonal and southern Cerros del Sira, Peru**. *Wilson Journal of Ornithology* 123: 289-315. (pdf)
+
+## 2009
 
 * Harvey MG (2009) **Sira Tanager (Tangara phillipsi)**. *Neotropical Birds Online* (T. S. Schulenberg, Editor). Ithaca: Cornell Lab of Ornithology. (link)
 
 * Harvey M (2009) **Splotlight on Sabine's Gull (Xema sabini)**. *New Hampshire Bird Records* 28: 47-49.
 
+## 2008
+
 * Bonter DN, Harvey MG (2008) **Winter survey data reveal range-wide decline in Evening Grosbeak populations**. *Condor* 110: 376-381. (pdf)
+
+## 2007
 
 * Lebbin DJ, Harvey MG, Lenz TC, Andersen MJ, Ellis JM (2007) **Nocturnal migrants foraging at night by artificial light**. *Wilson Journal of Ornithology* 119: 506-508. (pdf)
 
-* Harvey MG, Bonter DN, Stenzler LM, Lovette IJ (2006) **A comparison of plucked feathers versus blood samples as DNA sources for molecular sexing**. *Journal of Field Ornithology* 77: 136-140. (pdf)
+## 2006
 
-* Harvey M (2004) **New Hampshire’s first record of Little Stint (Calidris minuta)**. *New Hampshire Bird Records* 22: 46-47.v
+* Harvey MG, Bonter DN, Stenzler LM, Lovette IJ **A comparison of plucked feathers versus blood samples as DNA sources for molecular sexing**. *Journal of Field Ornithology* 77: 136-140. (pdf)
+
+## 2004
+
+* Harvey M **New Hampshire’s first record of Little Stint (Calidris minuta)**. *New Hampshire Bird Records* 22: 46-47.v
