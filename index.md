@@ -8,7 +8,7 @@ image:
 
 I am a graduate student studying avian diversity in the lab of <a href="http://www.museum.lsu.edu/brumfield.html" target="_blank">Robb Brumfield</a> at the <a href="http://appl003.lsu.edu/natsci/lmns.nsf/index" target="_blank">LSU Museum of Natural Science</a>.
 
-<a markdown="0" href="{{ docs/Harvey_CV_2.28.14.pdf }}/theme-setup" class="btn">Curriculum Vitae</a>
+<a markdown="0" href="{{ http://mgharvey.github.io/docs/Harvey_CV_2.28.14.pdf }}/theme-setup" class="btn">Curriculum Vitae</a>
 
 ## Contact:
 
