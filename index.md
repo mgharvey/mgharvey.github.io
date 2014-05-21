@@ -14,5 +14,5 @@ I am a graduate student studying avian diversity in the lab of [Robb Brumfield](
 * Michael G. Harvey
 * 119 Foster Hall
 * Baton Rouge, LA
-* mharve9@lsu.edu
+* [mharve9@lsu.edu](mailto:mharve9@lsu.edu)
 * 225-578-5393
