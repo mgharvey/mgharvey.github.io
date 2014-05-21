@@ -8,7 +8,7 @@ relative_permalinks: false
 owner:
   name:           Michael G. Harvey
   avatar:         bio-photo.jpg
-  bio:            "Graduate Student | LSU Museum of Natural Science"
+  bio:            "Graduate Student | Brumfield Lab | LSU Museum of Natural Science"
   email:          mharve9@lsu.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: michaelgharvey
@@ -28,10 +28,9 @@ links:
   - title: Publications
     url: /pubs/
   - title: Field Work
-    url: /theme-setup/
+    url: /fieldwork/
   - title: Software/Data
-    url: /softwaredata
-    external: true
+    url: /softwaredata/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Baton_Rouge

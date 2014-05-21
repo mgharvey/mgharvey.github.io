@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /research/
-title: Research
+permalink: /publications/
+title: Publications
 tagline: Michael G. Harvey
 tags: [about, research, Michael G. Harvey]
 modified: 5-20-14
@@ -14,7 +14,7 @@ image:
 
 I am generally interested in using comparative data from populations undergoing speciation to understand the factors responsible for diversity. My research focuses on birds from the Neotropics (Central and South America), home to the highest avian diversity on the planet. I use large comparative datasets, such as those that can be obtained from natural history collections, to understand broad patterns and to examine the deterministic factors underlying variation in the speciation process across many species. 
 
-## My main research interests are:
+## My research interests are in:
 
 * Comparative phylogeography
 * Avian phylogenetics
