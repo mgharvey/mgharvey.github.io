@@ -20,7 +20,7 @@ image:
 
 # 2014
 
-* Harvey MG, Seeholzer GF, Cáceres Apaza D, Winger BM, Tello JG, Hernández Camacho F, Aponte Justiniano MA, Duffie CV, Figueroa Ramírez S, Terrill RS, Brown CE, Alza L, Bravo GA, Combe M, Custodio O, Quiñones Zumaeta A, Urbay Tello A, Garcia Bravo WA, Savit AS, Pezo Ruiz FW, Mauck WM III, Barden O. **Avian biogeography of an Amazonian headwater: the upper Ucayali River, Peru**. *Wilson Journal of Ornithology*.
+* Harvey MG, Seeholzer GF, Cáceres Apaza D, Winger BM, Tello JG, Hernández Camacho F, Aponte Justiniano MA, Duffie CV, Figueroa Ramírez S, Terrill RS, Brown CE, Alza L, Bravo GA, Combe M, Custodio O, Quiñones Zumaeta A, Urbay Tello A, Garcia Bravo WA, Savit AS, Pezo Ruiz FW, Mauck WM III, Barden O. **Avian biogeography of an Amazonian headwater: The upper Ucayali River, Peru**. *Wilson Journal of Ornithology*.
 
 * Terrill RS, Aponte Justiniano MA, Harvey MG, Seeholzer GF, Strem RI. **Notes on the avifauna of the floodplain forest of the Río Mamoré, Beni, Bolivia, with a description of the juvenile plumage of Unicolored Thrush (*Turdus haplochrous*)(Aves: Turdidae)**. *Occasional Papers of the LSU Museum of Natural Science* 81: 1-21. <a href="http://mgharvey.github.io/docs/Terrilletal2014.pdf" target="_blank">(pdf)</a>
 
@@ -46,7 +46,7 @@ image:
 
 # 2009
 
-* Harvey MG. **Sira Tanager (*Tangara phillipsi*)**. *Neotropical Birds Online* (T. S. Schulenberg, Editor). Ithaca: Cornell Lab of Ornithology. <a href="http://neotropical.birds.cornell.edu/portal/species/overview?p_p_spp=606796" target="_blank">(pdf)</a>
+* Harvey MG. **Sira Tanager (*Tangara phillipsi*)**. *Neotropical Birds Online* (T. S. Schulenberg, Editor). Ithaca: Cornell Lab of Ornithology. <a href="http://neotropical.birds.cornell.edu/portal/species/overview?p_p_spp=606796" target="_blank">(link)</a>
 
 * Harvey M (2009) **Splotlight on Sabine's Gull (*Xema sabini*)**. *New Hampshire Bird Records* 28: 47-49.
 
