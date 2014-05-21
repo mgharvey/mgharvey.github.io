@@ -12,7 +12,7 @@ I am a graduate student studying avian diversity in the lab of Robb Brumfield at
 
 ## Contact:
 
-	Michael G. Harvey
+	    Michael G. Harvey
 
 	119 Foster Hall
 
