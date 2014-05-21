@@ -21,7 +21,7 @@ I study the origins of avian diversity, primarily by examining populations in th
 
 * **The use of genomic data in systematics**
 
-New DNA sequencing technologies are able to produce massive amounts of genetic data, but their application to systematics research is in its infancy. I have been working to develop and test approaches for obtaining data appropriate for systematics. The method I have focused on is sequence capture of ultraconserved elements. Ultraconserved elements are parts of the genome shared by widely divergent species - this conservation facilitates alignment of homologous sequences and adjacent variable regions provide information for comparative study. I have also been working with RAD-Seq datasets and have been developing bioinformatics pipelines and analytical tools for dealing with the massive amount of genetic data obtained using these methods.
+New DNA sequencing technologies are able to produce massive amounts of genetic data, but their application to systematics research is in its infancy. I have been working to develop and test approaches for obtaining data appropriate for systematics. The method I have focused on is sequence capture of ultraconserved elements. <a href="http://www.ultraconserved.org" target="_blank">Ultraconserved elements</a> are parts of the genome shared by widely divergent species - this conservation facilitates alignment of homologous sequences and adjacent variable regions provide information for comparative study. I have also been working with RAD-Seq datasets and have been developing bioinformatics pipelines and analytical tools for dealing with the massive amount of genetic data obtained using these methods.
 
 * **Examining causes of phylogeographic discordance across species**
 
