@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /research/
-title: Research
+permalink: /field/
+title: Field Work
 tagline: Michael G. Harvey
 tags: [about, research, Michael G. Harvey]
 modified: 5-20-14
