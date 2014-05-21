@@ -12,7 +12,7 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-I study the origins of avian diversity, primarily by examining populations in the early stages of speciation. Most of my research takes advantage of large comparative datasets, such as those that are available at natural history collections. Examining many species simultaneously reveals concordance indicating the importance of shared events, but also reveals discordance that might tell us about how species-specific traits shape their responses to the same events. I use new technologies to obtain genetic data from across the genome and also examine morphological, ecological, and distributional data.
+I study the origins of avian diversity, primarily by examining populations in the early stages of speciation. Most of my research takes advantage of large comparative datasets, such as those that are available at natural history collections. Examining many species simultaneously reveals concordance indicating the importance of shared events, but also reveals discordance that might tell us about how species-specific traits shape their responses to the same events. I am always looking for new types of data and tools - currently, I use emerging technologies to obtain genetic data from across the genome and also examine morphological, ecological, and distributional data.
 
 *Key words: Comparative phylogeography, avian phylogenetics, population genomics, macroecology, field ornithology*
 
@@ -20,9 +20,21 @@ I study the origins of avian diversity, primarily by examining populations in th
 
 * The use of genomic data in systematics
 
+<images>
+
+New DNA sequencing technologies are able to produce massive amounts of genetic data, but their application to systematics research is in its infancy. I have been working to develop and test approaches for obtaining data appropriate for systematics. The method I have focused on is sequence capture of ultraconserved elements. Ultraconserved elements are parts of the genome shared by widely divergent species - this conservation facilitates alignment of homologous sequences and adjacent variable regions provide information for comparative study. I have also been working with RAD-Seq datasets and have been developing bioinformatics pipelines and analytical tools for dealing with the massive amount of genetic data obtained using these methods.
+
 * Examining causes of phylogeographic discordance across species
 
+<images>
+
+Comparative phylogeographic studies have traditionally looked at shared aspects of species histories to infer unified responses to historical events. There may also be useful information in the rampant discordance observed across species. Deterministic processes, such as species-specific ecological traits, may be driving some of the discordance and could be examined in a comparative framework. These approaches may reveal new links between ecology and speciation. Frameworks for explicitly examining concordance and especially discordance across species, however, are not well developed. I am using comparative phylogeographic data to examine discordance across species and working to develop new analytical frameworks for comparative phylogeography.
+
 * Relating phylogeography to macroevolution
+
+<images>
+
+Phylogeographers, and researchers studying microevolution in general, like to think that the results they obtain have some bearing on the long-term evolution of diversity. Tying microevolution to macroevolution, however, has been surprisingly challenging. New theory suggests that most phylogeographic divergence and microevolutionary change is ephemeral, and that microevolutionary patterns may not be good predictors of macroevolutionary trends. I am working to evaluate this theory using comparative datasets containing species that differ in traits and histories in ways that might indicate they are are evolving under different macroevolutionary regimes.
 
 ## My Background:
 
