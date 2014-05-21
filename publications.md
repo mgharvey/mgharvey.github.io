@@ -20,15 +20,15 @@ image:
 
 * Harvey MG, Seeholzer GF, Cáceres Apaza D, Winger BM, Tello JG, Hernández Camacho F, Aponte Justiniano MA, Duffie CV, Figueroa Ramírez S, Terrill RS, Brown CE, Alza L, Bravo GA, Combe M, Custodio O, Quiñones Zumaeta A, Urbay Tello A, Garcia Bravo WA, Savit AS, Pezo Ruiz FW, Mauck WM III, Barden O. **Avian biogeography of an Amazonian headwater: the upper Ucayali River, Peru**. *Wilson Journal of Ornithology*.
 
-* Terrill RS, Aponte Justiniano MA, Harvey MG, Seeholzer GF, Strem RI. **Notes on the avifauna of the floodplain forest of the Río Mamoré, Beni, Bolivia, with a description of the juvenile plumage of Unicolored Thrush (Turdus haplochrous)(Aves: Turdidae)**. *Occasional Papers of the LSU Museum of Natural Science* 81: 1-21. (pdf)
+* Terrill RS, Aponte Justiniano MA, Harvey MG, Seeholzer GF, Strem RI. **Notes on the avifauna of the floodplain forest of the Río Mamoré, Beni, Bolivia, with a description of the juvenile plumage of Unicolored Thrush (*Turdus haplochrous*)(Aves: Turdidae)**. *Occasional Papers of the LSU Museum of Natural Science* 81: 1-21. (pdf)
 
-* Harvey MG, Lane DF, Hite J, Terrill RS, Figueroa Ramírez S, Smith BT, Klicka J, Vargas Campos W. **Notes on bird species in bamboo in northern Madre de Dios, Peru including the first Peruvian record of Acre Tody-Tyrant (Hemitriccus cohnhafti)**. *Occasional Papers of the LSU Museum of Natural Science* 81: 1-38. (pdf)
+* Harvey MG, Lane DF, Hite J, Terrill RS, Figueroa Ramírez S, Smith BT, Klicka J, Vargas Campos W. **Notes on bird species in bamboo in northern Madre de Dios, Peru including the first Peruvian record of Acre Tody-Tyrant (*Hemitriccus cohnhafti*)**. *Occasional Papers of the LSU Museum of Natural Science* 81: 1-38. (pdf)
 
 * Smith BT, Harvey MG, Faircloth BC, Glenn TC, Brumfield RT. **Target capture and massively parallel sequencing of ultraconserved elements (UCEs) for comparative studies at shallow evolutionary timescales**. *Systematic Biology* 63: 83-95. (arXiv preprint) - (pdf) - (frontispiece)
 
 # 2013
 
-* Carstens BC, Brennan RS, Chua V, Duffie CV, Harvey MG, Koch RA, McMahan CD, Nelson BJ, Newman CE, Satler JD, Seeholzer GF, Posbic K, Tank DC, Sullivan J. **Model selection as a tool for phylogeographic inference: An example from the willow Salix melanopsis**. *Molecular Ecology* 22: 4014-4028. (pdf)
+* Carstens BC, Brennan RS, Chua V, Duffie CV, Harvey MG, Koch RA, McMahan CD, Nelson BJ, Newman CE, Satler JD, Seeholzer GF, Posbic K, Tank DC, Sullivan J. **Model selection as a tool for phylogeographic inference: An example from the willow *Salix melanopsis***. *Molecular Ecology* 22: 4014-4028. (pdf)
 
 * McCormack JE, Harvey MG, Faircloth BC, Crawford NG, Glenn TC, Brumfield RT. **A phylogeny of birds based on over 1,500 loci collected by target enrichment and high-throughput sequencing**. *PLoS One* 8: e54848. (html) - (pdf)
 
@@ -44,9 +44,9 @@ image:
 
 # 2009
 
-* Harvey MG. **Sira Tanager (Tangara phillipsi)**. *Neotropical Birds Online* (T. S. Schulenberg, Editor). Ithaca: Cornell Lab of Ornithology. (link)
+* Harvey MG. **Sira Tanager (*Tangara phillipsi*)**. *Neotropical Birds Online* (T. S. Schulenberg, Editor). Ithaca: Cornell Lab of Ornithology. (link)
 
-* Harvey M (2009) **Splotlight on Sabine's Gull (Xema sabini)**. *New Hampshire Bird Records* 28: 47-49.
+* Harvey M (2009) **Splotlight on Sabine's Gull (*Xema sabini*)**. *New Hampshire Bird Records* 28: 47-49.
 
 # 2008
 
@@ -62,4 +62,4 @@ image:
 
 # 2004
 
-* Harvey M. **New Hampshire’s first record of Little Stint (Calidris minuta)**. *New Hampshire Bird Records* 22: 46-47.v
+* Harvey M. **New Hampshire’s first record of Little Stint (*Calidris minuta*)**. *New Hampshire Bird Records* 22: 46-47.v
