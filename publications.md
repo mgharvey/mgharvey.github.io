@@ -8,7 +8,6 @@ modified: 5-20-14
 comments: true
 image:
   feature: tapajos.jpg
-  Rio Tapajós at dawn, Brazilian Amazon
 ---
 
 ***

@@ -4,7 +4,6 @@ description: "A responsive Jekyll theme with editorial tendencies by designer Mi
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: tapajos.jpg
-  Rio Tapajós at dawn, Brazilian Amazon
 ---
 
 I am a graduate student studying avian diversity in the lab of [Robb Brumfield](http://www.museum.lsu.edu/brumfield.html) at the [LSU Museum of Natural Science](http://appl003.lsu.edu/natsci/lmns.nsf/index).

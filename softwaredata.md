@@ -8,7 +8,6 @@ modified: 5-20-14
 comments: true
 image:
   feature: siberia.jpg
-  Looking down the east slope of the Andes at Siberia, Bolivia
 ---
 
 ***
