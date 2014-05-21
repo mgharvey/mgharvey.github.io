@@ -26,13 +26,13 @@ New DNA sequencing technologies are able to produce massive amounts of genetic d
 
 * Examining causes of phylogeographic discordance across species
 
-<images>
+# images
 
 Comparative phylogeographic studies have traditionally looked at shared aspects of species histories to infer unified responses to historical events. There may also be useful information in the rampant discordance observed across species. Deterministic processes, such as species-specific ecological traits, may be driving some of the discordance and could be examined in a comparative framework. These approaches may reveal new links between ecology and speciation. Frameworks for explicitly examining concordance and especially discordance across species, however, are not well developed. I am using comparative phylogeographic data to examine discordance across species and working to develop new analytical frameworks for comparative phylogeography.
 
 * Relating phylogeography to macroevolution
 
-<images>
+# images
 
 Phylogeographers, and researchers studying microevolution in general, like to think that the results they obtain have some bearing on the long-term evolution of diversity. Tying microevolution to macroevolution, however, has been surprisingly challenging. New theory suggests that most phylogeographic divergence and microevolutionary change is ephemeral, and that microevolutionary patterns may not be good predictors of macroevolutionary trends. I am working to evaluate this theory using comparative datasets containing species that differ in traits and histories in ways that might indicate they are are evolving under different macroevolutionary regimes.
 
