@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications/
-title: Publications
+permalink: /softwaredata/
+title: Software/Data
 tagline: Michael G. Harvey
 tags: [about, research, Michael G. Harvey]
 modified: 5-20-14
@@ -13,5 +13,7 @@ image:
 ---
 
 
+## Software
 
-## 2013
+
+## Data
