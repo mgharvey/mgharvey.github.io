@@ -16,7 +16,7 @@ image:
 
 # In the works
 
-* Harvey MG, Smith BT, Glenn TC, Faircloth BC, Brumfield RT. **Sequence capture versus restriction site associated DNA sequencing for phylogeography**. (arXiv preprint)
+* Harvey MG, Smith BT, Glenn TC, Faircloth BC, Brumfield RT. **Sequence capture versus restriction site associated DNA sequencing for phylogeography**. <a href="http://arxiv.org/pdf/1312.6439v1.pdf" target="_blank">(arXiv preprint)</a>
 
 # 2014
 
