@@ -10,9 +10,11 @@ image:
   feature: tapajos.jpg
 ---
 
-***
-
 I try to make all my data and software freely available and easily accessible. Scripts are generally available from Github, and data from Dryad or elsewhere. If you notice something I've neglected to post, please <a href="mailto:mharve9@lsu.edu" target="_blank">contact me</a>.
+
+# Software
+
+***
 
 # <a href="https://github.com/mgharvey/mps-sim" target="_blank">mps-sim</a>
 
@@ -37,6 +39,10 @@ Miscellaneous Python code, mostly for processing and manipulating genetic data. 
 Miscellaneous R code, mostly for analyzing and visualizing data, including scripts for:
 
 * Visualizing rough distributions of gene trees in "cloudograms"
+
+# Data
+
+***
 
 * UCE alignments from 48 Neoavian birds (McCormack et al. 2013)
 
