@@ -39,7 +39,9 @@ Miscellaneous Python code, mostly for processing and manipulating genetic data. 
 Miscellaneous R code, mostly for analyzing and visualizing data, including scripts for:
 
 * Visualizing rough distributions of gene trees in "cloudograms"
+
 <br />
+
 # Data
 
 ***
