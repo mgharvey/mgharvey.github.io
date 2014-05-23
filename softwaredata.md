@@ -39,8 +39,7 @@ Miscellaneous R code, mostly for analyzing and visualizing data, including scrip
 
 * Visualizing rough distributions of gene trees in "cloudograms"
 
-# Data
-***
+# Data ***
 
 * UCE alignments from 48 Neoavian birds (McCormack et al. 2013)
 
