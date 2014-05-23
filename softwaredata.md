@@ -12,7 +12,7 @@ image:
 
 ***
 
-I try to make all my data and software freely available and easily accessible. If you notice something I've neglected to post, please <a href="mailto:mharve9@lsu.edu" target="_blank">contact me</a>.
+I try to make all my data and software freely available and easily accessible. Scripts are generally available from Github, and data from Dryad or elsewhere. If you notice something I've neglected to post, please <a href="mailto:mharve9@lsu.edu" target="_blank">contact me</a>.
 
 ## Software
 
@@ -44,4 +44,10 @@ Miscellaneous R code, mostly for analyzing and visualizing data, including scrip
 
 ## Data
 
-* 
+***
+
+* UCE alignments from 48 Neoavian birds (McCormack et al. 2013)
+
+* UCE alignments from multiple individuals within 5 Neotropical birds (Smith et al. 2014)
+
+* RAD-Seq data from 72 individuals of *Xenops minutus*
