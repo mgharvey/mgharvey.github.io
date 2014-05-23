@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /softwaredata/
-title: Software/Data
+title: 
 tagline: Michael G. Harvey
 tags: [about, research, Michael G. Harvey]
 modified: 5-20-14
