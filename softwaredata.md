@@ -16,9 +16,7 @@ I try to make all my data and software freely available and easily accessible. S
 
 ***
 
-## Software
-
-# *<a href="https://github.com/mgharvey/mps-sim" target="_blank">mps-sim</a>*
+# <a href="https://github.com/mgharvey/mps-sim" target="_blank">mps-sim</a>
 
 A program for simulating large sets of alignments resembling those obtained from massively parallel sequencing approaches like RAD-Seq and sequence capture of ultraconserved elements.
 
