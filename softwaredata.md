@@ -26,15 +26,15 @@ A program for simulating large sets of alignments resembling those obtained from
 
 Miscellaneous Python code, mostly for processing and manipulating genetic data. Many of these are scripts for formatting input files for different phylogenetic and population genetics programs. Included are scripts for:
 
-* Formatting input files for Treemix (Pickrell and Pritchard 2012) and bootstrapping Treemix trees. See blog post.
+* Formatting input files for Treemix (Pickrell and Pritchard 2012) and bootstrapping Treemix trees. See blog post
 
 * Formatting input files for BUCKy (Larget ) and running MrBayes () and mbsum iteratively on many loci
 
 * Formatting input files for dadi and also some example scripts for demographic models, running dadi, obtaining summary statistics, reformatting output, etc.
 
-* Detecting missing taxa in alignments (in a directory with many alignments) and adding in missing data for those taxa.
+* Detecting missing taxa in alignments (in a directory with many alignments) and adding in missing data for those taxa
 
-* Splitting hapolotypes with ambiguity codes at heterozygous sites into diplotypes.
+* Splitting hapolotypes with ambiguity codes at heterozygous sites into diplotypes
 
 # <a href="https://github.com/mgharvey/misc_R" target="_blank">misc_R</a>
 
