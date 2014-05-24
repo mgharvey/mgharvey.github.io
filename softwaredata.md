@@ -24,7 +24,7 @@ A program for simulating large sets of alignments resembling those obtained from
 
 # <a href="https://github.com/mgharvey/misc_python" target="_blank">misc_python</a>
 
-Miscellaneous Python code, mostly for processing and manipulating genetic data. Many of these are scripts for formatting input files for different phylogenetic and population genetics programs. Included are scripts for:
+A repository of miscellaneous Python code, mostly for processing and manipulating genetic data. Many of these are scripts for formatting input files for different phylogenetic and population genetics programs. Included are scripts for:
 
 * Formatting input files for Treemix (Pickrell and Pritchard 2012) and bootstrapping Treemix trees. See blog post
 
@@ -38,7 +38,7 @@ Miscellaneous Python code, mostly for processing and manipulating genetic data. 
 
 # <a href="https://github.com/mgharvey/misc_R" target="_blank">misc_R</a>
 
-Miscellaneous R code, mostly for analyzing and visualizing data, including scripts for:
+A repository of miscellaneous R code, mostly for analyzing and visualizing data, including scripts for:
 
 * Visualizing rough distributions of gene trees in "cloudograms"
 
