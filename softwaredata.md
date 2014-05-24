@@ -48,8 +48,28 @@ Miscellaneous R code, mostly for analyzing and visualizing data, including scrip
 
 ***
 
-* UCE alignments from 48 Neoavian birds (McCormack et al. 2013)
+* <a href="http://datadryad.org/resource/doi:10.5061/dryad.sd080" target="_blank">UCE alignments from 32 Neoavian birds</a> (McCormack et al. 2013)
 
-* UCE alignments from multiple individuals within 5 Neotropical birds (Smith et al. 2014)
+* <a href="http://datadryad.org/resource/doi:10.5061/dryad.qm4j1" target="_blank">UCE alignments from multiple individuals within 5 Neotropical birds</a> (Smith et al. 2014)
 
 * RAD-Seq data from 72 individuals of *Xenops minutus*
+
+* Field observational data are available from the <a href="http://www.avianknowledge.net/" target="_blank">Avian Knowledge Network</a>
+
+* Audio recordings from the field are available from the <a href="http://macaulaylibrary.org/search?recordist=harvey+michael&recordist_id=1450" target="_blank">Macaulay Library</a>
+
+* Specimens from field work are deposited at the following institutions:
+
+    - <a href="http://appl003.lsu.edu/natsci/lmns.nsf/index" target="_blank">Louisiana State University Museum of Natural Science</a>
+   
+    - <a href="http://www.cumv.cornell.edu/" target="_blank">Cornell University Museum of Vertebrates</a>
+    
+    - <a href="http://www.mz.usp.br/" target="_blank">Museu de Zoologia da Universidade de São Paulo</a>
+    
+    - <a href="http://www.corbidi.org/" target="_blank">Centro de Ornitología y Biodiversidad</a>
+    
+    - <a href="http://museonoelkempff.org/sitio/index.html" target="_blank">Museo de Historia Natural Noel Kempff Mercado</a>
+
+    - <a href="http://museo.biologia.ucr.ac.cr/" target="_blank">Museo de Zoología de la Universidad de Costa Rica</a>
+    
+    - <a href="http://naturalhistory.ku.edu/" target="_blank">University of Kansas Natural History Museum</a>
