@@ -59,7 +59,6 @@ A repository of miscellaneous R code, mostly for analyzing and visualizing data,
 * Audio recordings from the field are available from the <a href="http://macaulaylibrary.org/search?recordist=harvey+michael&recordist_id=1450" target="_blank">Macaulay Library</a>
 
 * Specimens from field work are deposited at the following institutions:
-
     - <a href="http://appl003.lsu.edu/natsci/lmns.nsf/index" target="_blank">Louisiana State University Museum of Natural Science</a>   
     - <a href="http://www.cumv.cornell.edu/" target="_blank">Cornell University Museum of Vertebrates</a>   
     - <a href="http://www.mz.usp.br/" target="_blank">Museu de Zoologia da Universidade de São Paulo</a>  
