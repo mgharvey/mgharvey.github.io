@@ -60,16 +60,10 @@ A repository of miscellaneous R code, mostly for analyzing and visualizing data,
 
 * Specimens from field work are deposited at the following institutions:
 
-    - <a href="http://appl003.lsu.edu/natsci/lmns.nsf/index" target="_blank">Louisiana State University Museum of Natural Science</a>
-   
-    - <a href="http://www.cumv.cornell.edu/" target="_blank">Cornell University Museum of Vertebrates</a>
-    
-    - <a href="http://www.mz.usp.br/" target="_blank">Museu de Zoologia da Universidade de São Paulo</a>
-    
+    - <a href="http://appl003.lsu.edu/natsci/lmns.nsf/index" target="_blank">Louisiana State University Museum of Natural Science</a>   
+    - <a href="http://www.cumv.cornell.edu/" target="_blank">Cornell University Museum of Vertebrates</a>   
+    - <a href="http://www.mz.usp.br/" target="_blank">Museu de Zoologia da Universidade de São Paulo</a>  
     - <a href="http://www.corbidi.org/" target="_blank">Centro de Ornitología y Biodiversidad</a>
-    
     - <a href="http://museonoelkempff.org/sitio/index.html" target="_blank">Museo de Historia Natural Noel Kempff Mercado</a>
-
-    - <a href="http://museo.biologia.ucr.ac.cr/" target="_blank">Museo de Zoología de la Universidad de Costa Rica</a>
-    
+    - <a href="http://museo.biologia.ucr.ac.cr/" target="_blank">Museo de Zoología de la Universidad de Costa Rica</a>  
     - <a href="http://naturalhistory.ku.edu/" target="_blank">University of Kansas Natural History Museum</a>
