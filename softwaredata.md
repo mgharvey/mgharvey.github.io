@@ -52,7 +52,7 @@ A repository of miscellaneous R code, mostly for analyzing and visualizing data,
 
 * <a href="http://datadryad.org/resource/doi:10.5061/dryad.qm4j1" target="_blank">UCE alignments from multiple individuals within 5 Neotropical birds</a> (Smith et al. 2014)
 
-* RAD-Seq data from 72 individuals of *Xenops minutus*
+* RAD-Seq data from 72 individuals of *Xenops minutus* (Harvey and Brumfield in review)
 
 * Field observational data are available from the <a href="http://www.avianknowledge.net/" target="_blank">Avian Knowledge Network</a>
 
