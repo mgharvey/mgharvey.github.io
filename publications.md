@@ -16,7 +16,7 @@ image:
 
 # In the works
 
-* Harvey MG, Brumfield RT. **Genomic variation in a widespread Neotropical bird (*Xenops minutus*) reveals divergence, population expansion, and gene flow**. <a href="" target="_blank"></a>
+* Harvey MG, Brumfield RT. **Genomic variation in a widespread Neotropical bird (*Xenops minutus*) reveals divergence, population expansion, and gene flow**. <a href="http://arxiv.org/abs/1405.6571" target="_blank">(arXiv preprint)</a>
 
 * Harvey MG, Smith BT, Glenn TC, Faircloth BC, Brumfield RT. **Sequence capture versus restriction site associated DNA sequencing for phylogeography**. <a href="http://arxiv.org/pdf/1312.6439v1.pdf" target="_blank">(arXiv preprint)</a>
 
