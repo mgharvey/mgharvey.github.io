@@ -12,8 +12,7 @@ image:
 
 ***
 
-I study the origins of avian diversity, primarily by examining populations in the early stages of speciation. Most of my research takes advantage of large comparative datasets, such as those that are available at natural history collections. Examining many species simultaneously reveals concordance indicating the importance of shared events, but also reveals discordance that might tell us about how species-specific traits shape different responses to the same events. I am always looking for new types of data and tools - currently, I use emerging technologies to obtain genetic data from across the genome and also examine morphological, ecological, and distributional data.
-
+I study the origins of avian diversity, primarily by examining populations in the early stages of speciation. Most of my research takes advantage of large comparative datasets, such as those that are available at natural history collections. I am always looking for new types of data and tools - currently, I use emerging technologies to obtain genetic data from across the genome and also examine morphological, ecological, and distributional data.
 
 *Key words: Comparative phylogeography, avian phylogenetics, population genomics, macroecology, field ornithology*
 
