@@ -1,6 +1,1 @@
- 
-dig mgharvey.github.io +nostats +nocomments +nocmd
-
-;www.mgharvey.github.io.     IN          A
-www.mgharvey.github.io. 1549    IN          CNAME mharvey.org.
-mharvey.org.    30      IN          A     65.254.248.198
+mharvey.org
