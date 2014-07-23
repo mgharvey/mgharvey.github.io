@@ -26,6 +26,8 @@ A program for simulating large sets of alignments resembling those obtained from
 
 A repository of miscellaneous Python code, mostly for processing and manipulating genetic data. Many of these are scripts for formatting input files for different phylogenetic and population genetics programs. Included are scripts for:
 
+* <a href="https://github.com/mgharvey/misc_python/blob/master/bin/mean_distances_from_alignments.py" target="_blank">Calculating pairwise genetic distances</a> between individuals using many alignments of sequence data (loci)
+
 * <a href="https://github.com/mgharvey/misc_python/tree/master/bin/TreeMix" target="_blank">Formatting input files for Treemix</a> (Pickrell and Pritchard 2012) and bootstrapping Treemix trees
 
 * <a href="https://github.com/mgharvey/misc_python/tree/master/bin/BUCKy" target="_blank">Formatting input files for BUCKy</a> (Larget 2010) and running MrBayes (Huelsenbeck and Ronquist 2001) and mbsum iteratively on many loci
