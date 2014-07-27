@@ -32,7 +32,7 @@ A repository of miscellaneous Python code, mostly for processing and manipulatin
 
 * <a href="https://github.com/mgharvey/misc_python/tree/master/bin/BUCKy" target="_blank">Formatting input files for BUCKy</a> (Larget 2010) and running MrBayes (Huelsenbeck and Ronquist 2001) and mbsum iteratively on many loci
 
-* <a href="https://github.com/mgharvey/misc_python/tree/master/bin/dadi" target="_blank">Formatting input files for ∂a∂i</a> (Gutenkunst 2009) and also some example scripts for demographic models, running dadi, obtaining summary statistics, reformatting output, etc.
+* <a href="https://github.com/mgharvey/misc_python/tree/master/bin/dadi" target="_blank">Formatting input files for ∂a∂i</a> (Gutenkunst 2009) and also some example scripts for demographic models, running ∂a∂i, obtaining summary statistics, reformatting output, etc.
 
 * <a href="https://github.com/mgharvey/misc_python/blob/master/bin/fill_in_missing_taxa.py" target="_blank">Detecting missing taxa in alignments</a> (in a directory with many alignments) and adding in missing data for those taxa
 
