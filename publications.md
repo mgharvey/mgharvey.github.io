@@ -12,7 +12,7 @@ image:
 
 ***
 
-<a href="https://impactstory.org/MichaelHarvey" target="_blank"><img src="http://mgharvey.github.io/images/impactstory-logo-sideways.png" width="100" /></a>&nbsp;&nbsp;&nbsp;<a href="http://scholar.google.com/citations?hl=en&user=vV6SsisAAAAJ" target="_blank"><img src="http://mgharvey.github.io/images/scholar_logo_md_2011.gif" width="100" /></a>
+<a href="http://scholar.google.com/citations?hl=en&user=vV6SsisAAAAJ" target="_blank"><img src="http://mgharvey.github.io/images/scholar_logo_md_2011.gif" width="100" /></a>
 
 # In the works
 
