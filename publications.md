@@ -22,7 +22,7 @@ image:
 
 # 2014
 
-* Smith BT, McCormack JE, Cuervo AM, Hickerson MJ, Aleixo A, Cadena CD, Pérez Eman JE, Burney CW, Xie X, Harvey MG, Faircloth BC, Glenn TC, Derryberry EP, Prejean J, Fields S, Brumfield RT. **The drivers of tropical speciation**. *Nature*. In press. <a href="http://mgharvey.github.io/docs/Smithetal2014b.pdf" target="_blank">(pdf)</a>
+* Smith BT, McCormack JE, Cuervo AM, Hickerson MJ, Aleixo A, Cadena CD, Pérez Eman JE, Burney CW, Xie X, Harvey MG, Faircloth BC, Glenn TC, Derryberry EP, Prejean J, Fields S, Brumfield RT. **The drivers of tropical speciation**. *Nature* doi:10.1038/nature13687. <a href="http://mgharvey.github.io/docs/Smithetal2014b.pdf" target="_blank">(pdf)</a>
 
 * Harvey MG, Seeholzer GF, Cáceres Apaza D, Winger BM, Tello JG, Hernández Camacho F, Aponte Justiniano MA, Duffie CV, Figueroa Ramírez S, Terrill RS, Brown CE, Alza L, Bravo GA, Combe M, Custodio O, Quiñones Zumaeta A, Urbay Tello A, Garcia Bravo WA, Savit AS, Pezo Ruiz FW, Mauck WM III, Barden O. **Avian biogeography of an Amazonian headwater: The upper Ucayali River, Peru**. *Wilson Journal of Ornithology* 126: 179-191. <a href="http://mgharvey.github.io/docs/Harveyetal2014b.pdf" target="_blank">(pdf)</a> - <a href="http://mgharvey.github.io/docs/13-135_appendices.docx" target="_blank">(appendices)</a>
 
