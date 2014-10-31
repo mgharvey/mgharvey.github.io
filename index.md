@@ -1,7 +1,7 @@
 ---
 layout: page
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+description: "Professional website for Michael G. Harvey, ornithologist and evolutionary biologist."
+tags: [ornithology, evolution, genomics, systematics]
 image:
   feature: tapajos.jpg
 ---
