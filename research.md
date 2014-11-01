@@ -20,7 +20,7 @@ I study the origins of avian diversity, primarily by examining populations in th
 
 * **Examining causes of phylogeographic discordance across species**
 
-*image of many phylogeographic trees*
+![trees](/images/trees.png)
 
 Comparative phylogeographic studies have traditionally looked at shared aspects of species histories to infer unified responses to historical events. There may also be useful information in the rampant discordance observed across species. Deterministic processes, such as species-specific ecological traits, may be driving some of the discordance and could be examined in a comparative framework. These approaches may reveal new links between ecology and speciation. Frameworks for explicitly examining concordance and especially discordance across species, however, are not well developed. I am using comparative phylogeographic data to examine discordance across species and working to develop new analytical frameworks for comparative phylogeography.
 
