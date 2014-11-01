@@ -26,7 +26,7 @@ Comparative phylogeographic studies have traditionally looked at shared aspects 
 
 * **Relating phylogeography to macroevolution**
 
-*image of tree with splits at tips*
+![bamm!](/images/bamm.png)
 
 Phylogeographers, and researchers studying microevolution in general, like to think that the results they obtain have some bearing on the long-term evolution of diversity. Tying microevolution to macroevolution, however, has been surprisingly challenging. New theory suggests that most phylogeographic divergence and microevolutionary change is ephemeral, and that microevolutionary patterns may not be good predictors of macroevolutionary trends. I am working to evaluate this theory using comparative datasets containing species that differ in traits and histories in ways that might indicate they are are evolving under different macroevolutionary regimes.
 
