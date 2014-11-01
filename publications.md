@@ -7,7 +7,7 @@ tags: [about, research, Michael G. Harvey]
 modified: 5-20-14
 comments: true
 image:
-  feature: tapajos.jpg
+  feature: hummer.jpg
 ---
 
 ***
