@@ -12,7 +12,7 @@ image:
 
 ***
 
-I study the origins of avian diversity, primarily by examining populations in the early stages of speciation. Most of my research takes advantage of large comparative datasets, such as those that are available at natural history collections. I am always looking for new types of data and tools - currently, I use emerging technologies to obtain genetic data from across the genome and also examine morphological, ecological, and distributional data.
+I study the origins of avian diversity, primarily by examining populations in the early stages of speciation. Most of my research takes advantage of large comparative datasets, such as those that available at natural history collections. I am always looking for new types of data and tools - currently, I use emerging technologies to obtain genetic data from across the genome and also examine morphological, ecological, and distributional data.
 
 *Key words: Comparative phylogeography, avian phylogenetics, population genomics, macroecology, field ornithology*
 
@@ -28,13 +28,13 @@ Comparative phylogeographic studies have traditionally looked at shared aspects 
 
 ![bamm!](/images/bamm.png)
 
-Phylogeographers, and researchers studying microevolution in general, like to think that the results they obtain have some bearing on the long-term evolution of diversity. Tying microevolution to macroevolution, however, has been surprisingly challenging. New theory suggests that most phylogeographic divergence and microevolutionary change is ephemeral, and that microevolutionary patterns may not be good predictors of macroevolutionary trends. I am working to evaluate this theory using comparative datasets containing species that differ in traits and histories in ways that might indicate they are are evolving under different macroevolutionary regimes.
+Phylogeographers, and researchers studying microevolution in general, like to think that the results they obtain have some bearing on the long-term evolution of diversity. Tying microevolution to macroevolution, however, has been surprisingly challenging. New theory suggests that most geographic variation and other microevolutionary change is ephemeral, and that microevolutionary patterns may not be good predictors of macroevolutionary trends. I am working to evaluate this theory using comparative datasets containing species varying in traits that might impact both microevolutionary divergence and macroevolutionary diversification.
 
 * **The use of genomic data in systematics**
 
 ![genomics!](/images/genomics.png)
 
-New DNA sequencing technologies are able to produce massive amounts of genetic data, but their application to systematics research is in its infancy. I have been working to develop and test approaches for obtaining data appropriate for systematics. The method I have focused on is sequence capture of ultraconserved elements. <a href="http://www.ultraconserved.org" target="_blank">Ultraconserved elements</a> are parts of the genome shared by widely divergent species - this conservation facilitates alignment of homologous sequences and adjacent variable regions provide information for comparative study. I have also been working with RAD-Seq datasets and have been developing bioinformatics pipelines and analytical tools for dealing with the massive amount of genetic data obtained using these methods.
+New DNA sequencing technologies are able to produce massive amounts of genetic data, but their application to research in systematics is in its infancy. I have been working to develop and test approaches for obtaining data appropriate for systematics. The method I have focused on is sequence capture of ultraconserved elements. <a href="http://www.ultraconserved.org" target="_blank">Ultraconserved elements</a> are parts of the genome shared by widely divergent species - this conservation facilitates alignment of homologous sequences and adjacent variable regions provide information for comparative study. I have also been working with RAD-Seq datasets and have been developing bioinformatics pipelines and analytical tools for dealing with the massive amount of genetic data obtained using these methods.
 
 ## My Background:
 
