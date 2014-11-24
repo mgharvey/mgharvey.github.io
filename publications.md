@@ -52,7 +52,7 @@ image:
 
 * Harvey MG. **Sira Tanager (*Tangara phillipsi*)**. *Neotropical Birds Online* (T. S. Schulenberg, Editor). Ithaca: Cornell Lab of Ornithology. <a href="http://neotropical.birds.cornell.edu/portal/species/overview?p_p_spp=606796" target="_blank">(link)</a>
 
-* Harvey M (2009) **Spotlight on Sabine's Gull (*Xema sabini*)**. *New Hampshire Bird Records* 28: 47-49.
+* Harvey M **Spotlight on Sabine's Gull (*Xema sabini*)**. *New Hampshire Bird Records* 28: 47-49.
 
 # 2008
 
