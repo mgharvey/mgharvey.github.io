@@ -18,6 +18,8 @@ image:
 
 * Harvey MG, Smith BT, Glenn TC, Faircloth BC, Brumfield RT. **Sequence capture versus restriction site associated DNA sequencing for phylogeography**. <a href="http://arxiv.org/abs/1312.6439" target="_blank">(arXiv preprint)</a>
 
+* Harvey MG, Judy CD, Graves GR, Seeholzer GF, Maley JM, Brumfield RT. **Similarity thresholds used in sequence assembly impact inferences in comparative studies**.
+
 # 2014
 
 * Harvey MG, Brumfield RT. **Genomic variation in a widespread Neotropical bird (*Xenops minutus*) reveals divergence, population expansion, and gene flow**. *Molecular Phylogenetics and Evolution* doi:10.1016/j.ympev.2014.10.023. <a href="http://mgharvey.github.io/docs/HarveyBrumfield2014.pdf" target="_blank">(pdf)</a> 
