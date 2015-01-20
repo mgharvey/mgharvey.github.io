@@ -16,7 +16,7 @@ image:
 
 # Evolution and Genomics
 
-* Harvey MG, Smith BT, Glenn TC, Faircloth BC, Brumfield RT. In prep. **Sequence capture versus restriction site associated DNA sequencing for phylogeography**. <a href="http://arxiv.org/abs/1312.6439" target="_blank">(arXiv preprint)</a>
+* Harvey MG, Smith BT, Glenn TC, Faircloth BC, Brumfield RT. In review. **Sequence capture versus restriction site associated DNA sequencing for phylogeography**. <a href="http://arxiv.org/abs/1312.6439" target="_blank">(arXiv preprint)</a>
 
 * Harvey MG, Judy CD, Graves GR, Seeholzer GF, Maley JM, Brumfield RT. In review. **Similarity thresholds used in sequence assembly impact inferences in comparative studies**.
 
