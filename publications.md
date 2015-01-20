@@ -20,9 +20,11 @@ image:
 
 * Harvey MG, Judy CD, Graves GR, Seeholzer GF, Maley JM, Brumfield RT. **Similarity thresholds used in sequence assembly impact inferences in comparative studies**.
 
-# 2014
+# 2015
 
 * Harvey MG, Brumfield RT. **Genomic variation in a widespread Neotropical bird (*Xenops minutus*) reveals divergence, population expansion, and gene flow**. *Molecular Phylogenetics and Evolution* 83: 305-316. <a href="http://mgharvey.github.io/docs/HarveyBrumfield2014.pdf" target="_blank">(pdf)</a> 
+
+# 2014
 
 * Smith BT, McCormack JE, Cuervo AM, Hickerson MJ, Aleixo A, Cadena CD, Pérez Eman JE, Burney CW, Xie X, Harvey MG, Faircloth BC, Glenn TC, Derryberry EP, Prejean J, Fields S, Brumfield RT. **The drivers of tropical speciation**. *Nature* 515: 406-409. <a href="http://mgharvey.github.io/docs/Smithetal2014b.pdf" target="_blank">(pdf)</a> - <a href="http://mgharvey.github.io/docs/Smithetal2014b_supplemental.pdf" target="_blank">(supplemental)</a>
 
