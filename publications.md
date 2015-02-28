@@ -18,7 +18,7 @@ image:
 
 * Harvey MG, Smith BT, Glenn TC, Faircloth BC, Brumfield RT. In review. **Sequence capture versus restriction site associated DNA sequencing for phylogeography**. <a href="http://arxiv.org/abs/1312.6439" target="_blank">(arXiv preprint)</a>
 
-* Harvey MG, Judy CD, Graves GR, Seeholzer GF, Maley JM, Brumfield RT. In review. **Similarity thresholds used in short read assembly reduce the comparability of population historie across species**. <a href="https://peerj.com/preprints/864/" target="_blank">(PeerJ preprint)</a>
+* Harvey MG, Judy CD, Graves GR, Seeholzer GF, Maley JM, Brumfield RT. In review. **Similarity thresholds used in short read assembly reduce the comparability of population histories across species**. <a href="https://peerj.com/preprints/864/" target="_blank">(PeerJ preprint)</a>
 
 * Harvey MG, Brumfield RT. 2015. **Genomic variation in a widespread Neotropical bird (*Xenops minutus*) reveals divergence, population expansion, and gene flow**. *Molecular Phylogenetics and Evolution* 83: 305-316. <a href="http://mgharvey.github.io/docs/HarveyBrumfield2014.pdf" target="_blank">(pdf)</a> 
 
