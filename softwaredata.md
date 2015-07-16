@@ -54,11 +54,13 @@ A repository of miscellaneous R code, mostly for analyzing and visualizing data,
 
 ***
 
-* <a href="http://datadryad.org/resource/doi:10.5061/dryad.sd080" target="_blank">UCE alignments from 32 Neoavian birds</a> (McCormack et al. 2013)
+* <a href="http://www.ncbi.nlm.nih.gov/sra?term=SRX977439&cmd=DetailsSearch" target="_blank">Short read data from 8 individuals of 4 bird species (*Rallus crepitans/obsoletus, Trochilus polytmus, Cranioleuca antisiensis,* and *Xenops minutus*)</a> (Harvey et al. 2015)
+
+* <a href="http://datadryad.org/resource/doi:10.5061/dryad.3j0b1" target="_blank">RAD-Seq genotypes from 72 individuals of *Xenops minutus* </a>(Harvey and Brumfield 2015)
 
 * <a href="http://datadryad.org/resource/doi:10.5061/dryad.qm4j1" target="_blank">UCE alignments from multiple individuals within 5 Neotropical birds</a> (Smith et al. 2014)
 
-* <a href="http://datadryad.org/resource/doi:10.5061/dryad.3j0b1" target="_blank">RAD-Seq genotypes from 72 individuals of *Xenops minutus* </a>(Harvey and Brumfield in press)
+* <a href="http://datadryad.org/resource/doi:10.5061/dryad.sd080" target="_blank">UCE alignments from 32 Neoavian birds</a> (McCormack et al. 2013)
 
 * Field observational data are available from the <a href="http://www.avianknowledge.net/" target="_blank">Avian Knowledge Network</a>
 
