@@ -54,7 +54,7 @@ A repository of miscellaneous R code, mostly for analyzing and visualizing data,
 
 ***
 
-* <a href="http://www.ncbi.nlm.nih.gov/sra?term=SRX977439&cmd=DetailsSearch" target="_blank">Short read data from 8 individuals of 4 bird species (*Rallus crepitans/obsoletus, Trochilus polytmus, Cranioleuca antisiensis,* and *Xenops minutus*)</a> (Harvey et al. 2015)
+* <a href="http://www.ncbi.nlm.nih.gov/sra?term=SRX977439&cmd=DetailsSearch" target="_blank">Short read data from RAD-Seq of 8 individuals in each of 4 bird species (*Rallus crepitans/obsoletus*, *Trochilus polytmus*, *Cranioleuca antisiensis*, and *Xenops minutus*)</a> (Harvey et al. 2015)
 
 * <a href="http://datadryad.org/resource/doi:10.5061/dryad.3j0b1" target="_blank">RAD-Seq genotypes from 72 individuals of *Xenops minutus* </a>(Harvey and Brumfield 2015)
 
