@@ -18,7 +18,7 @@ image:
 
 * Harvey MG, Smith BT, Glenn TC, Faircloth BC, Brumfield RT. In review. **Sequence capture versus restriction site associated DNA sequencing for phylogeography**. <a href="http://arxiv.org/abs/1312.6439" target="_blank">(arXiv preprint)</a>
 
-* Toews DP, Campagna L, Taylor S, Balakrishnan C, Baldassarre D, Deane-Coe P, Harvey M, Hooper D, Irwin D, Judy C, Mason N, McCormack J, McCracken K, Oliveros C, Safran R, Scordato E, Stryjewski K, Tigano A, Uy A, Winger B. In press. **Genomic approaches to understanding population divergence and speciation in birds**. *Auk*
+* Toews DP, Campagna L, Taylor S, Balakrishnan C, Baldassarre D, Deane-Coe P, Harvey M, Hooper D, Irwin D, Judy C, Mason N, McCormack J, McCracken K, Oliveros C, Safran R, Scordato E, Stryjewski K, Tigano A, Uy A, Winger B. 2016. **Genomic approaches to understanding population divergence and speciation in birds**. *Auk* 133: 13-30 <a href="http://mgharvey.github.io/docs/Toewsetal2016.pdf" target="_blank">(pdf)</a>
 
 * Harvey MG, Judy CD, Seeholzer GF, Maley JM, Graves GR, Brumfield RT. 2015. **Similarity thresholds used in DNA sequence assembly from short reads can reduce the comparability of population histories across species**. *PeerJ* 3: e895. <a href="https://peerj.com/articles/895/" target="_blank">(html)</a> - <a href="https://peerj.com/articles/895.pdf" target="_blank">(pdf)</a>
 
