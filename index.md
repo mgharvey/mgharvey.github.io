@@ -13,8 +13,8 @@ Welcome to my website. I am a postdoctoral fellow studying avian diversity in th
 ## Contact:
 
 * Michael G. Harvey
-* Department of Biological Sciences
 * Museum of Zoology
+* Department of Biological Sciences
 * 2039 Ruthven Hall
 * Ann Arbor, MI 48109
 * <a href="mailto:mharve9@lsu.edu" target="_blank">mgh272@gmail.com</a>
