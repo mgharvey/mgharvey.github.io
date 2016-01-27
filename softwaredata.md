@@ -10,7 +10,7 @@ image:
   feature: mauritia.jpg
 ---
 
-I try to make all my data and software freely available and easily accessible. Scripts are generally available from Github, and data from Dryad or elsewhere. If you notice something I've neglected to post, please <a href="mailto:mharve9@lsu.edu" target="_blank">contact me</a>.
+I try to make all my data and software freely available and easily accessible. Scripts are generally available from Github, and data from Dryad or elsewhere. If you notice something I've neglected to post, please <a href="mailto:mgh272@gmail.com" target="_blank">contact me</a>.
 
 <br />
 

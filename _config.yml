@@ -8,8 +8,8 @@ relative_permalinks: false
 owner:
   name:           Michael G. Harvey
   avatar:         bio-photo.jpg
-  bio:            "Graduate Student <br /> Brumfield Lab <br /> Mus. of Natural Science <br /> Louisiana State University <br /> mharve9@lsu.edu"
-  email:          mharve9@lsu.edu
+  bio:            "Postdoctoral Fellow <br /> Rabosky Lab <br /> Museum of Zoology <br /> University of Michigan <br /> mgh272@gmail.com"
+  email:          mgh272@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: michaelgharvey
   github: mgharvey
@@ -33,7 +33,7 @@ links:
     url: /softwaredata/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Baton_Rouge
+timezone:    America/Ann_Arbor
 future:      true
 highlighter: pygments
 markdown:    kramdown

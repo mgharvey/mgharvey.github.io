@@ -6,14 +6,15 @@ image:
   feature: tapajos.jpg
 ---
 
-Welcome to my website. I am a graduate student studying avian diversity in the lab of <a href="http://www.museum.lsu.edu/brumfield.html" target="_blank">Robb Brumfield</a> at the <a href="http://museum.lsu.edu" target="_blank">LSU Museum of Natural Science</a>.
+Welcome to my website. I am a postdoctoral fellow studying avian diversity in the lab of <a href="http://www-personal.umich.edu/~drabosky/Home.html" target="_blank">Dan Rabosky</a> at the <a href="http://www.lsa.umich.edu/ummz/" target="_blank">University of Michigan Museum of Zoology</a>.
 
-<div markdown="0"><a href="http://mgharvey.github.io/docs/Harvey_CV_8.4.15.pdf" class="btn">Curriculum Vitae</a></div>
+<div markdown="0"><a href="http://mgharvey.github.io/docs/Harvey_CV_1.25.16.pdf" class="btn">Curriculum Vitae</a></div>
 
 ## Contact:
 
 * Michael G. Harvey
-* 119 Foster Hall
-* Baton Rouge, LA
-* <a href="mailto:mharve9@lsu.edu" target="_blank">mharve9@lsu.edu</a>
-* 225-578-5393
+* Department of Biological Sciences
+* Museum of Zoology
+* 2039 Ruthven Hall
+* Ann Arbor, MI 48109
+* <a href="mailto:mharve9@lsu.edu" target="_blank">mgh272@gmail.com</a>
