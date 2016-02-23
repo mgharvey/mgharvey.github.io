@@ -38,7 +38,7 @@ image:
 
 # Biogeography, Natural History, Taxonomy 
 
-* Seeholzer GF, Aponte Justiniano MA, Harvey MG, Smith BT. In press. **Ornithological inventory along an elevational gradient in the Río Cotacajes Valley, deptos. La Paz and Cochabamba, Bolivia**. *Cotinga*. 
+* Seeholzer GF, Aponte Justiniano MA, Harvey MG, Smith BT. 2015. **Ornithological inventory along an elevational gradient in the Río Cotacajes Valley, deptos. La Paz and Cochabamba, Bolivia**. *Cotinga*. 37: 87-101. <a href="http://mgharvey.github.io/docs/Seeholzeretal2015.pdf" target="_blank">(pdf)</a>
 
 * Harvey MG, Seeholzer GF, Cáceres Apaza D, Winger BM, Tello JG, Hernández Camacho F, Aponte Justiniano MA, Duffie CV, Figueroa Ramírez S, Terrill RS, Brown CE, Alza L, Bravo GA, Combe M, Custodio O, Quiñones Zumaeta A, Urbay Tello A, Garcia Bravo WA, Savit AS, Pezo Ruiz FW, Mauck WM III, Barden O. 2014. **Avian biogeography of an Amazonian headwater: The upper Ucayali River, Peru**. *Wilson Journal of Ornithology* 126: 179-191. <a href="http://mgharvey.github.io/docs/Harveyetal2014b.pdf" target="_blank">(pdf)</a> - <a href="http://mgharvey.github.io/docs/13-135_appendices.docx" target="_blank">(appendices)</a>
 
