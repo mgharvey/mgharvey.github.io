@@ -12,7 +12,7 @@ image:
 
 ***
 
-I study the origins of avian diversity, primarily by examining populations in the early stages of speciation. Most of my research takes advantage of large comparative datasets, such as those available at natural history collections. I am always looking for new types of data and tools - currently, I use emerging technologies to obtain genetic data from across the genome and also examine morphological, ecological, and distributional data.
+I study the origins of avian diversity, primarily by examining populations in the early stages of speciation. Most of my research takes advantage of large comparative datasets, such as those that can be collected from natural history collections. I am always looking for new types of data and tools - currently, I use emerging technologies to obtain genetic data from across the genome and also examine morphological, ecological, and distributional data.
 
 *Key words: Comparative phylogeography, avian phylogenetics, population genomics, macroecology, field ornithology*
 
@@ -24,17 +24,17 @@ I study the origins of avian diversity, primarily by examining populations in th
 
 Birds have varied and spectacular plumages, but the source of this diversity is still largely unknown. Do plumage differences between species originate from variation within species? At what rates do different plumage characters, such as color or pattern, change through evolutionary time? I am addressing these questions by applying digital imagery and computer vision technologies to specimens housed at natural history collections. 
 
-* **Examining causes of phylogeographic discordance across species**
+* **Comparative analyses of population genetic structure**
 
 ![trees!](/images/trees.png)
 
-Comparative phylogeographic studies have traditionally looked at shared aspects of species histories to infer unified responses to historical events. There may also be useful information in the rampant discordance observed across species. Deterministic processes, such as species-specific ecological traits, may be driving some of the discordance and could be examined in a comparative framework. These approaches may reveal new links between ecology and speciation. Frameworks for explicitly examining concordance and especially discordance across species, however, are not well developed. I am using comparative phylogeographic data to examine discordance across species and working to develop new analytical frameworks for comparative phylogeography.
+Some species contain remarkable variation across their distributions, whereas others are similar from place to place. The extent to which these differences are random or are a result of differences among species in traits is largely unknown. I am examining trait-dependence in geographic variation using population genetic data combined with ecological trait data. Population genetic data allow us to examine not only patterns of geographic variation, but also to estimate the impact of traits on the processes responsible for geographic differentiation, such as gene flow and natural selection. I am particularly interested in how the habitat associations of species impact differentiation.
 
-* **Relating phylogeography to macroevolution**
+* **Relating population-level patterns to macroevolution**
 
 ![bamm!](/images/bamm.png)
 
-Phylogeographers, and researchers studying microevolution in general, like to think that the results they obtain have some bearing on the long-term evolution of diversity. Tying microevolution to macroevolution, however, has been surprisingly challenging. New theory suggests that most geographic variation and other microevolutionary change is ephemeral, and that microevolutionary patterns may not be good predictors of macroevolutionary trends. I am working to evaluate this theory using comparative datasets containing species varying in traits that might impact both microevolutionary divergence and macroevolutionary diversification.
+Although diversity within species varies widely, this variation may or may not persist over long evolutionary timescales to impact trends in species diversity. I combine population genetic data on intraspecific diversity with phylogenetic data on species diversity through time to assess links between diversity across timescales. If population-level patterns persist to macroevolutionary timescales, this supports the potential importance of processes at work within species in shaping organismal diversity across space and time. 
 
 * **The use of genomic data in systematics**
 
