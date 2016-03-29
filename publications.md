@@ -35,6 +35,7 @@ image:
 * Faircloth BC, McCormack JE, Crawford NG, Harvey MG, Brumfield RT, Glenn TC. 2012. **Ultraconserved elements anchor thousands of genetic markers for target enrichment spanning multiple evolutionary timescales**. *Systematic Biology* 61: 717-726. <a href="http://mgharvey.github.io/docs/Fairclothetal2012.pdf" target="_blank">(pdf)</a>
 
 * Harvey MG, Bonter DN, Stenzler LM, Lovette IJ. 2006. **A comparison of plucked feathers versus blood samples as DNA sources for molecular sexing**. *Journal of Field Ornithology* 77: 136-140. <a href="http://mgharvey.github.io/docs/Harveyetal2006.pdf" target="_blank">(pdf)</a>
+<br>
 
 # Biogeography, Natural History, Taxonomy 
 
