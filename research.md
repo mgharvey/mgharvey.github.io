@@ -19,12 +19,11 @@ I study the origins of avian diversity, primarily by examining populations in th
 ## Avian plumage evolution within and among species
 
 ![trees!](/images/barbets.png)
-
 Birds have varied and spectacular plumages, but the source of this diversity is still largely unknown. Do plumage differences between species originate from variation within species? At what rates do different plumage characters, such as color or pattern, change through evolutionary time? I am addressing these questions by applying digital imagery and computer vision technologies to specimens housed at natural history collections. 
 
 ## Comparative analyses of population genetic structure
 
-![trees!](/images/trees.png)
+![trees!](/images/trees.png)  
 
 Some species contain remarkable variation across their distributions, whereas others are similar from place to place. The extent to which these differences are random or are a result of differences among species in traits is largely unknown. I am examining trait-dependence in geographic variation using population genetic data combined with ecological trait data. Population genetic data allow us to examine not only patterns of geographic variation, but also to estimate the impact of traits on the processes responsible for geographic differentiation, such as gene flow and natural selection. I am particularly interested in how the habitat associations of species impact differentiation.
 
