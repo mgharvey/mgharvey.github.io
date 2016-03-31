@@ -16,7 +16,7 @@ image:
 
 # Evolution and Genomics
 
-* Zucker MR, Harvey MG, Oswald JA, Cuervo A, Derryberry E, Brumfield RT. In review. **The Mouse-colored Tyrannulet (*Phaeomyias murina*) is a species complex that includes the Cocos Flycatcher (*Nesotriccus ridgwayi*), an island forma that underwent a population bottleneck**. 
+* Zucker MR, Harvey MG, Oswald JA, Cuervo A, Derryberry E, Brumfield RT. In review. **The Mouse-colored Tyrannulet (*Phaeomyias murina*) is a species complex that includes the Cocos Flycatcher (*Nesotriccus ridgwayi*), an island form that underwent a population bottleneck**. 
 
 * Oswald JA, Harvey MG, Remsen RC, Foxworth DU, Cardiff SW, Dittmann DL, Megna LC, Carling MD, Brumfield RT. In review. **Willet be one species or two?: A genomic view of the evolutionary history of *Tringa semipalmata***. 
 
