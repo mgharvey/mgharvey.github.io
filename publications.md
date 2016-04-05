@@ -18,6 +18,8 @@ image:
 
 * Harvey MG, Seeholzer GF, Smith BT, Rabosky DL, Cuervo AM, Klicka JT, Brumfield RT. In review. **The rate of population differentiation predicts speciation rate in New World birds**. 
 
+* Smith BT, Seeholzer GF, Harvey MG, Klicka JT, Cuervo AM, Brumfield RT. In review. **A latitudinal intraspecific diversity gradient in birds**. 
+
 * Harvey MG, Smith BT, Glenn TC, Faircloth BC, Brumfield RT. In review. **Sequence capture versus restriction site associated DNA sequencing for shallow systematics**. <a href="http://arxiv.org/abs/1312.6439" target="_blank">(arXiv preprint)</a>
 
 * Zucker MR, Harvey MG, Oswald JA, Cuervo A, Derryberry E, Brumfield RT. In review. **The Mouse-colored Tyrannulet (*Phaeomyias murina*) is a species complex that includes the Cocos Flycatcher (*Nesotriccus ridgwayi*), an island form that underwent a population bottleneck**. 
