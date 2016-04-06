@@ -24,9 +24,9 @@ image:
 
 * Oswald JA, Harvey MG, Remsen RC, Foxworth DU, Cardiff SW, Dittmann DL, Megna LC, Carling MD, Brumfield RT. In review. **Willet be one species or two?: A genomic view of the evolutionary history of *Tringa semipalmata***. 
 
-* Harvey MG, Smith BT, Glenn TC, Faircloth BC, Brumfield RT. In press. **Sequence capture versus restriction site associated DNA sequencing for shallow systematics**. *Systematic Biology* <a href="http://arxiv.org/abs/1312.6439" target="_blank">(arXiv preprint)</a>
+* Harvey MG, Smith BT, Glenn TC, Faircloth BC, Brumfield RT. In press. **Sequence capture versus restriction site associated DNA sequencing for shallow systematics**. *Systematic Biology*. <a href="http://arxiv.org/abs/1312.6439" target="_blank">(arXiv preprint)</a>
 
-* Toews DP, Campagna L, Taylor S, Balakrishnan C, Baldassarre D, Deane-Coe P, Harvey M, Hooper D, Irwin D, Judy C, Mason N, McCormack J, McCracken K, Oliveros C, Safran R, Scordato E, Stryjewski K, Tigano A, Uy A, Winger B. 2016. **Genomic approaches to understanding population divergence and speciation in birds**. *Auk* 133: 13-30 <a href="http://mgharvey.github.io/docs/Toewsetal2016.pdf" target="_blank">(pdf)</a>
+* Toews DP, Campagna L, Taylor S, Balakrishnan C, Baldassarre D, Deane-Coe P, Harvey M, Hooper D, Irwin D, Judy C, Mason N, McCormack J, McCracken K, Oliveros C, Safran R, Scordato E, Stryjewski K, Tigano A, Uy A, Winger B. 2016. **Genomic approaches to understanding population divergence and speciation in birds**. *Auk* 133: 13-30. <a href="http://mgharvey.github.io/docs/Toewsetal2016.pdf" target="_blank">(pdf)</a>
 
 * Harvey MG, Judy CD, Seeholzer GF, Maley JM, Graves GR, Brumfield RT. 2015. **Similarity thresholds used in DNA sequence assembly from short reads can reduce the comparability of population histories across species**. *PeerJ* 3: e895. <a href="https://peerj.com/articles/895/" target="_blank">(html)</a> - <a href="https://peerj.com/articles/895.pdf" target="_blank">(pdf)</a>
 
