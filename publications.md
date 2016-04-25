@@ -22,7 +22,7 @@ image:
 
 * Oswald JA, Harvey MG, Remsen RC, Foxworth DU, Cardiff SW, Dittmann DL, Megna LC, Carling MD, Brumfield RT. In review. **Willet be one species or two?: A genomic view of the evolutionary history of *Tringa semipalmata***. 
 
-* Zucker MR, Harvey MG, Oswald JA, Cuervo A, Derryberry E, Brumfield RT. In press. **The Mouse-colored Tyrannulet (*Phaeomyias murina*) is a species complex that includes the Cocos Flycatcher (*Nesotriccus ridgwayi*), an island form that underwent a population bottleneck**. <a href="http://mgharvey.github.io/docs/Zuckeretal.pdf" target="_blank">(pre-pub version)</a>
+* Zucker MR, Harvey MG, Oswald JA, Cuervo A, Derryberry E, Brumfield RT. In press. **The Mouse-colored Tyrannulet (*Phaeomyias murina*) is a species complex that includes the Cocos Flycatcher (*Nesotriccus ridgwayi*), an island form that underwent a population bottleneck**. *Molecular Phylogenetics and Evolution*. <a href="http://mgharvey.github.io/docs/Zuckeretal.pdf" target="_blank">(pre-pub version)</a>
 
 * Harvey MG, Smith BT, Glenn TC, Faircloth BC, Brumfield RT. In press. **Sequence capture versus restriction site associated DNA sequencing for shallow systematics**. *Systematic Biology*. <a href="http://arxiv.org/abs/1312.6439" target="_blank">(arXiv preprint)</a>
 
