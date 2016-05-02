@@ -20,7 +20,7 @@ image:
 
 * Smith BT, Seeholzer GF, Harvey MG, Klicka JT, Cuervo AM, Brumfield RT. In review. **A latitudinal intraspecific diversity gradient in birds**. 
 
-* Oswald JA, Harvey MG, Remsen RC, Foxworth DU, Cardiff SW, Dittmann DL, Megna LC, Carling MD, Brumfield RT. In review. **Willet be one species or two?: A genomic view of the evolutionary history of *Tringa semipalmata***. 
+* Oswald JA, Harvey MG, Remsen RC, Foxworth DU, Cardiff SW, Dittmann DL, Megna LC, Carling MD, Brumfield RT. In press. **Willet be one species or two?: A genomic view of the evolutionary history of *Tringa semipalmata***. *Auk*
 
 * Zucker MR, Harvey MG, Oswald JA, Cuervo A, Derryberry E, Brumfield RT. In press. **The Mouse-colored Tyrannulet (*Phaeomyias murina*) is a species complex that includes the Cocos Flycatcher (*Nesotriccus ridgwayi*), an island form that underwent a population bottleneck**. *Molecular Phylogenetics and Evolution*. <a href="http://mgharvey.github.io/docs/Zuckeretal.pdf" target="_blank">(pre-pub version)</a>
 
