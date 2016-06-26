@@ -24,9 +24,9 @@ image:
 
 * Oswald JA, Harvey MG, Remsen RC, Foxworth DU, Cardiff SW, Dittmann DL, Megna LC, Carling MD, Brumfield RT. In press. **Willet be one species or two?: A genomic view of the evolutionary history of *Tringa semipalmata***. *Auk*
 
-* Zucker MR, Harvey MG, Oswald JA, Cuervo A, Derryberry E, Brumfield RT. In press. **The Mouse-colored Tyrannulet (*Phaeomyias murina*) is a species complex that includes the Cocos Flycatcher (*Nesotriccus ridgwayi*), an island form that underwent a population bottleneck**. *Molecular Phylogenetics and Evolution*. <a href="http://mgharvey.github.io/docs/Zuckeretal.pdf" target="_blank">(pre-pub version)</a>
+* Harvey MG, Smith BT, Glenn TC, Faircloth BC, Brumfield RT. In press. **Sequence capture versus restriction site associated DNA sequencing for shallow systematics**. *Systematic Biology*. <a href="http://mgharvey.github.io/docs/Harveyetal2016.pdf" target="_blank">(early view pdf)</a>
 
-* Harvey MG, Smith BT, Glenn TC, Faircloth BC, Brumfield RT. In press. **Sequence capture versus restriction site associated DNA sequencing for shallow systematics**. *Systematic Biology*. <a href="http://mgharvey.github.io/docs/Harveyetal2016.pdf" target="_blank">(pdf)</a>
+* Zucker MR, Harvey MG, Oswald JA, Cuervo A, Derryberry E, Brumfield RT. 2016. **The Mouse-colored Tyrannulet (*Phaeomyias murina*) is a species complex that includes the Cocos Flycatcher (*Nesotriccus ridgwayi*), an island form that underwent a population bottleneck**. *Molecular Phylogenetics and Evolution* 101: 294-302. <a href="http://mgharvey.github.io/docs/Zuckeretal2016.pdf" target="_blank">(pdf)</a>
 
 * Toews DP, Campagna L, Taylor S, Balakrishnan C, Baldassarre D, Deane-Coe P, Harvey M, Hooper D, Irwin D, Judy C, Mason N, McCormack J, McCracken K, Oliveros C, Safran R, Scordato E, Stryjewski K, Tigano A, Uy A, Winger B. 2016. **Genomic approaches to understanding population divergence and speciation in birds**. *Auk* 133: 13-30. <a href="http://mgharvey.github.io/docs/Toewsetal2016.pdf" target="_blank">(pdf)</a>
 
