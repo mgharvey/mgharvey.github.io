@@ -22,7 +22,7 @@ image:
 
 * Lim HC, Shakya S, Harvey MG, Rahman M, Sheldon FH. In review. **Sundaland's east-west rainforest population structure: Variable manifestations in four polytypic bird species examined using RAD-Seq and plumage analysis.** 
 
-* Oswald JA, Harvey MG, Remsen RC, Foxworth DU, Cardiff SW, Dittmann DL, Megna LC, Carling MD, Brumfield RT. In press. **Willet be one species or two?: A genomic view of the evolutionary history of *Tringa semipalmata***. *Auk*
+* Oswald JA, Harvey MG, Remsen RC, Foxworth DU, Cardiff SW, Dittmann DL, Megna LC, Carling MD, Brumfield RT. In press. **Willet be one species or two?: A genomic view of the evolutionary history of *Tringa semipalmata***. *Auk*.
 
 * Harvey MG, Smith BT, Glenn TC, Faircloth BC, Brumfield RT. In press. **Sequence capture versus restriction site associated DNA sequencing for shallow systematics**. *Systematic Biology*. <a href="http://mgharvey.github.io/docs/Harveyetal2016.pdf" target="_blank">(early view pdf)</a>
 
