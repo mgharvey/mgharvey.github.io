@@ -26,7 +26,7 @@ image:
 
 * Zucker MR, Harvey MG, Oswald JA, Cuervo A, Derryberry E, Brumfield RT. In press. **The Mouse-colored Tyrannulet (*Phaeomyias murina*) is a species complex that includes the Cocos Flycatcher (*Nesotriccus ridgwayi*), an island form that underwent a population bottleneck**. *Molecular Phylogenetics and Evolution*. <a href="http://mgharvey.github.io/docs/Zuckeretal.pdf" target="_blank">(pre-pub version)</a>
 
-* Harvey MG, Smith BT, Glenn TC, Faircloth BC, Brumfield RT. In press. **Sequence capture versus restriction site associated DNA sequencing for shallow systematics**. *Systematic Biology*. <a href="http://arxiv.org/abs/1312.6439" target="_blank">(arXiv preprint)</a>
+* Harvey MG, Smith BT, Glenn TC, Faircloth BC, Brumfield RT. In press. **Sequence capture versus restriction site associated DNA sequencing for shallow systematics**. *Systematic Biology*. <a href="http://mgharvey.github.io/docs/Harveyetal2016.pdf" target="_blank">(pdf)</a>
 
 * Toews DP, Campagna L, Taylor S, Balakrishnan C, Baldassarre D, Deane-Coe P, Harvey M, Hooper D, Irwin D, Judy C, Mason N, McCormack J, McCracken K, Oliveros C, Safran R, Scordato E, Stryjewski K, Tigano A, Uy A, Winger B. 2016. **Genomic approaches to understanding population divergence and speciation in birds**. *Auk* 133: 13-30. <a href="http://mgharvey.github.io/docs/Toewsetal2016.pdf" target="_blank">(pdf)</a>
 
