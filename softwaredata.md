@@ -48,6 +48,8 @@ A repository of miscellaneous R code, mostly for analyzing and visualizing data,
 
 * <a href="https://github.com/mgharvey/misc_R/blob/master/R/cloudogram.R" target="_blank">Visualizing rough distributions of gene trees</a> as "cloudograms"
 
+* <a href="https://github.com/mgharvey/misc_R/blob/master/R/map_results_plot.R" target="_blank">Plotting Blastn results on a reference</a>
+
 <br />
 
 # Data
