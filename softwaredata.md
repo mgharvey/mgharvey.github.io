@@ -14,9 +14,9 @@ I try to make all my data and software freely available and easily accessible. S
 
 <br />
 
-***
 
-# Software:
+# Software
+***
 
 # <a href="https://github.com/mgharvey/seqcap_pop" target="_blank">seqcap_pop</a>
 
@@ -52,9 +52,8 @@ A repository of miscellaneous R code, mostly for analyzing and visualizing data,
 
 <br />
 
+# Data
 ***
-
-# Data:
 
 * <a href="http://datadryad.org/resource/doi:10.5061/dryad.604b8" target="_blank">Raw reads from sequence capture and RAD-Seq of 8 individuals of *Xenops minutus* </a>(Harvey et al. 2016)
 
