@@ -25,7 +25,7 @@ Birds have varied and spectacular plumages, but the source of this diversity is 
 
 ![trees!](/images/trees.png)
 Some species contain remarkable variation across their distributions, whereas others are similar from place to place. The extent to which these differences are random or are a result of differences among species in specific traits is largely unknown. I am examining trait dependence in geographic variation using population genetic data combined with ecological trait data. Population genetic data allow us to examine not only patterns of geographic variation, but also to estimate the impact of traits on the processes responsible for geographic differentiation, such as gene flow and natural selection. I am particularly interested in how the habitat preferences of species impact their propensity to differentiate.
-
+<br><br>
 Papers: Smith et al. in review, Lim et al. in review, <a href="http://mgharvey.github.io/docs/Smithetal2014b.pdf" target="_blank">Smith et al. 2014</a>
 <br><br>
 
