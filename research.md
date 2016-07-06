@@ -31,7 +31,7 @@ Some species contain remarkable variation across their distributions, whereas ot
 Papers: Smith et al. in review, Lim et al. in review, <a href="http://mgharvey.github.io/docs/Smithetal2014b.pdf" target="_blank">Smith et al. 2014</a>
 <br><br>
 
-## Relating population-level patterns to macroevolution
+## Population-level patterns vs. macroevolution
 ***
 
 ![bamm!](/images/bamm.png)
