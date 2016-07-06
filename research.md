@@ -19,7 +19,7 @@ I study the origins of avian diversity, primarily by examining populations in th
 ***
 
 ![trees!](/images/barbets.png)
-<br>
+<br><br>
 Birds have varied and spectacular plumages, but the source of this diversity is still largely unknown. Do plumage differences between species originate from variation within species? At what rates do different plumage characters, such as color or pattern, change through evolutionary time? I am addressing these questions by applying digital imagery and computer vision technologies to specimens housed at natural history collections. 
 <br><br>
 
