@@ -18,7 +18,7 @@ I study the origins of avian diversity, primarily by examining populations in th
 ## Avian plumage evolution within and among species
 ***
 
-![trees!](/images/barbets.png)
+![trees!](/images/photoscan.png)
 <br><br>
 **Main collaborators:** Dan Rabosky (UMich)
 <br><br>
