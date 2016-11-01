@@ -16,6 +16,8 @@ image:
 
 # Evolution and Genomics
 
+* Harvey MG, Aleixo A, Ribas CC, Brumfield RT. In review. **Habitat preference predicts genetic diversity and population divergence in Amazonian birds**.
+
 * Harvey MG, Rabosky DL. In review. **Studying trait-dependent diversification using comparative population genetics**.
 
 * Harvey MG, Seeholzer GF, Smith BT, Rabosky DL, Cuervo AM, Klicka JT, Brumfield RT. In review. **The rate of population differentiation predicts speciation rate in New World birds**. 

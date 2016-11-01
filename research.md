@@ -25,16 +25,16 @@ I study the origins of avian diversity, primarily by examining populations in th
 Birds have varied and spectacular plumages, but the source of this diversity is still largely unknown. Do plumage differences between species originate from variation within species? At what rates do different plumage characters, such as color or pattern, change through evolutionary time? I am addressing these questions by applying digital imagery and computer vision technologies to specimens housed at natural history collections. 
 <br><br>
 
-## Comparative analyses of geographic variation
+## Causes of population divergence
 ***
 
-![trees!](/images/trees.png)
+![trees!](/images/structure.png)
 <br><br>
-**Main collaborators:** Brian Tilston Smith (AMNH), Glenn Seeholzer (LSU), Haw Chuan Lim (USNM), Robb Brumfield (LSU)
+**Main collaborators:** Brian Tilston Smith (AMNH), Glenn Seeholzer (LSU), Haw Chuan Lim (USNM), Alex Aleixo (MPEG), Camila Ribas (INPA), Robb Brumfield (LSU)
 <br><br>
-Some species contain remarkable variation across their distributions, whereas others are similar from place to place. The extent to which these differences are random or are a result of differences among species in specific traits is largely unknown. I am examining trait dependence in geographic variation using population genetic data combined with ecological trait data. Population genetic data allow us to examine not only patterns of geographic variation, but also to estimate the impact of traits on the processes responsible for geographic differentiation, such as gene flow and natural selection. I am particularly interested in how the habitat preferences of species impact their propensity to differentiate.
+Some species contain remarkable variation across their distributions, whereas others are similar from place to place. The extent to which these differences are random or are a result of differences among species in ecological or life history traits is largely unknown. I am examining trait dependence in geographic variation using population genetic data combined with ecological trait data. Comparative analyses of population genetic data allow us to examine the impact of species-specific traits on population divergence.
 <br><br>
-**Papers:** Smith et al. in review, Lim et al. in review, <a href="http://mgharvey.github.io/docs/Smithetal2014b.pdf" target="_blank">Smith et al. 2014</a>
+**Papers:** Harvey et al. in review, Smith et al. in review, Lim et al. in review, <a href="http://mgharvey.github.io/docs/Smithetal2014b.pdf" target="_blank">Smith et al. 2014</a>
 <br><br>
 
 ## Population-level patterns vs. macroevolution
@@ -46,7 +46,7 @@ Some species contain remarkable variation across their distributions, whereas ot
 <br><br>
 Although diversity within species varies widely, this variation may or may not persist over long evolutionary timescales to impact trends in species diversity. I combine population genetic data on intraspecific diversity with phylogenetic data on species diversity through time to assess links between diversity across timescales. If population-level patterns persist to macroevolutionary timescales, this supports the potential importance of processes at work within species in shaping organismal diversity across space and time. 
 <br><br>
-**Papers:** Harvey et al. in review
+**Papers:** Harvey et al. in review, Harvey and Rabosky in review
 <br><br>
 
 ## The use of genomic data in systematics
