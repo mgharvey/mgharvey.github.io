@@ -20,7 +20,7 @@ image:
 
 * Harvey MG, Rabosky DL. In review. **Studying trait-dependent diversification using comparative population genetics**. 
 
-* Harvey MG, Seeholzer GF, Smith BT, Rabosky DL, Cuervo AM, Klicka JT, Brumfield RT. In review. **The rate of population differentiation predicts speciation rate in New World birds**. <a href="http://dx.doi.org/10.1101/085134" target="_blank">(bioRxiv preprint)</a>
+* Harvey MG, Seeholzer GF, Smith BT, Rabosky DL, Cuervo AM, Klicka JT, Brumfield RT. In review. **A positive association between population genetic differentiation and speciation rates in New World birds**. <a href="http://dx.doi.org/10.1101/085134" target="_blank">(bioRxiv preprint)</a>
 
 * Smith BT, Seeholzer GF, Harvey MG, Klicka JT, Cuervo AM, Brumfield RT. In review. **A latitudinal intraspecific diversity gradient in birds**. 
 
