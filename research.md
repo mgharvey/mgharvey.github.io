@@ -18,7 +18,7 @@ I study the origins of avian diversity, primarily by examining populations in th
 ## Avian plumage evolution within and among species
 ***
 
-![trees!](/images/photoscan.png)
+![plumage!](/images/meadowlark.pdf)
 <br><br>
 **Main collaborators:** Dan Rabosky (UMich)
 <br><br>
@@ -28,7 +28,7 @@ Birds have varied and spectacular plumages, but the source of this diversity is 
 ## Causes of population divergence
 ***
 
-![trees!](/images/structure.png)
+![structure!](/images/structure.png)
 <br><br>
 **Main collaborators:** Brian Tilston Smith (AMNH), Glenn Seeholzer (LSU), Haw Chuan Lim (USNM), Alex Aleixo (MPEG), Camila Ribas (INPA), Robb Brumfield (LSU)
 <br><br>
