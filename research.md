@@ -18,7 +18,7 @@ I study the origins of avian diversity, primarily by examining populations in th
 ## Avian plumage evolution within and among species
 ***
 
-<embed src="http://mgharvey.github.io/images/meadowlark.pdf" width="550" height="400">
+![plumage!](/images/meadowlark.pdf)
 <br><br>
 **Main collaborators:** Dan Rabosky (UMich)
 <br><br>
