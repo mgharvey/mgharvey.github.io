@@ -18,7 +18,129 @@ I study the origins of avian diversity, primarily by examining populations in th
 ## Avian plumage evolution within and among species
 ***
 
-![plumage!](/images/photoscan.png)
+<script src="../js/three.js"></script>
+		<script src="js/OrbitControls.js"></script>
+		<script src="js/Detector.js"></script>
+		<script src="js/OBJLoader.js"></script>
+		<script src="js/MTLLoader.js"></script>
+		<script>
+
+			if ( ! Detector.webgl ) Detector.addGetWebGLMessage();
+
+			var container, stats, controls;
+			var camera, scene, renderer;
+
+			var clock = new THREE.Clock();
+
+			var mixers = [];
+
+			init();
+
+			function init() {
+
+				container = document.createElement( 'div' );
+				document.body.appendChild( container );
+
+				//setting the camera setting, second parameter sets width and height
+
+				camera = new THREE.PerspectiveCamera( 45, 500 / 300, 1, 2000 );
+
+				// scene
+				scene = new THREE.Scene();
+
+				var ambient = new THREE.AmbientLight( 0xffffff, .6 );
+				scene.add( ambient );
+
+				var directionalLight = new THREE.DirectionalLight( 0xfff1f1, .5 );
+				directionalLight.position.set( -1, .5, 1 );
+				scene.add( directionalLight );
+
+				var directionalLight2 = new THREE.DirectionalLight( 0xe6f2ff, .5);
+				directionalLight2.position.set( 1, .75, -1 );
+				scene.add( directionalLight2 );
+
+				// // grid
+				// var gridHelper = new THREE.GridHelper( 14, 1, 0xb0b0b0, 0xb0b0b0 );
+				// gridHelper.position.set( 0, - 0.04, 0 );
+				// scene.add( gridHelper );
+
+				// texture
+
+				var manager = new THREE.LoadingManager();
+				manager.onProgress = function ( item, loaded, total ) {
+
+					console.log( item, loaded, total );
+
+				};
+
+				var texture = new THREE.Texture();
+
+				var onProgress = function ( xhr ) {
+					if ( xhr.lengthComputable ) {
+						var percentComplete = xhr.loaded / xhr.total * 100;
+						console.log( Math.round(percentComplete, 2) + '% downloaded' );
+					}
+				};
+
+				var onError = function ( xhr ) {
+				};
+
+
+				var mtlLoader = new THREE.MTLLoader();
+				mtlLoader.setPath( 'obj/' );
+				mtlLoader.load( 'example.mtl', function( materials ) {
+					materials.preload();
+					var objLoader = new THREE.OBJLoader();
+					objLoader.setMaterials( materials );
+					objLoader.setPath( 'obj/' );
+					objLoader.load( 'example.obj', function ( object ) {
+						object.position.y = 0;
+						scene.add( object );
+					}, onProgress, onError );
+				});
+
+				renderer = new THREE.WebGLRenderer();
+				renderer.setPixelRatio( window.devicePixelRatio );
+				renderer.setSize( 500, 300 );
+				renderer.setClearColor( 0xd0d2d9 );
+
+				container.appendChild( renderer.domElement );
+
+				// controls, camera
+				controls = new THREE.OrbitControls( camera, renderer.domElement );
+				controls.target.set( 0, -2, 0 );
+				camera.position.set( 10, 14, 5 );
+				controls.update();
+
+				animate();
+			}
+
+
+			function animate() {
+
+				requestAnimationFrame( animate );
+
+				if ( mixers.length > 0 ) {
+
+					for ( var i = 0; i < mixers.length; i ++ ) {
+
+						mixers[ i ].update( clock.getDelta() );
+
+					}
+
+				}
+
+				render();
+
+			}
+
+			function render() {
+
+				renderer.render( scene, camera );
+
+			}
+
+		</script>
 <br><br>
 **Main collaborators:** Dan Rabosky (UMich)
 <br><br>
