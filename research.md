@@ -18,7 +18,7 @@ I study the origins of avian diversity, primarily by examining populations in th
 ## Avian plumage evolution within and among species
 ***
 
-<script src="../js/three.js"></script>
+<script src="js/three.js"></script>
 		<script src="js/OrbitControls.js"></script>
 		<script src="js/Detector.js"></script>
 		<script src="js/OBJLoader.js"></script>
