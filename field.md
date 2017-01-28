@@ -16,7 +16,7 @@ Field work is one of my passions. There are few feelings comparable to that of v
 
 # The Neotropics
 
-Since 2006, I have worked extensively in the Neotropics, focusing on exploring poorly known corners of the lowland Amazon. 
+Since 2006, I have worked extensively in the Neotropics, focusing on exploring poorly known corners of the Amazon Basin. 
 
 <iframe src="https://mapsengine.google.com/map/embed?mid=zFcp-_sToDi4.kFz2Ba3aay4Q" width="560" height="400" frameborder="0"> </iframe>
 *A map of my research sites in the Neotropics. Museum collection localities are indicated with pointer icons, other sites with push pins.* 
