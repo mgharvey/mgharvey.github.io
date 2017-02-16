@@ -46,7 +46,7 @@ Although diversity within species varies widely, this variation may or may not p
 <br><br>
 **Main collaborators:** Dan Rabosky (UMich)
 <br><br>
-Birds have varied and spectacular plumages, but the source of this diversity is still largely unknown. Do plumage differences between species originate from variation within species? At what rates do different plumage characters, such as color or pattern, change through evolutionary time? I am addressing these questions by applying digital imagery and computer vision technologies to specimens housed at natural history collections. 
+Birds have varied and spectacular plumages, but the source of this diversity is still largely unknown. Do plumage differences between species originate from variation within species? At what rates do different plumage characters, such as color or pattern, change through evolutionary time? In order to address these questions, I am developing high-throughput methods to quantify plumage from museum specimens using full-spectrum digital imagery, photogrammetry, and computer vision and machine learning. 
 <br><br>
 
 ## Applications of genomic data to comparative studies of non-model organisms
