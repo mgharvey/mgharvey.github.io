@@ -16,13 +16,13 @@ image:
 
 # Evolution and Genomics
 
-* Harvey MG, Aleixo A, Ribas CC, Brumfield RT. In revision. **Habitat preference predicts genetic diversity and population divergence in Amazonian birds**. <a href="http://dx.doi.org/10.1101/085126" target="_blank">(bioRxiv preprint)</a>
+* Harvey MG, Aleixo A, Ribas CC, Brumfield RT. In revision at *PNAS*. **Habitat preference predicts genetic diversity and population divergence in Amazonian birds**. <a href="http://dx.doi.org/10.1101/085126" target="_blank">(bioRxiv preprint)</a>
+
+* Harvey MG, Seeholzer GF, Smith BT, Rabosky DL, Cuervo AM, Brumfield RT. In revision at *American Naturalist*. **A positive association between population genetic differentiation and speciation rates in New World birds**. <a href="http://dx.doi.org/10.1101/085134" target="_blank">(bioRxiv preprint)</a>
+
+* Smith BT, Seeholzer GF, Harvey MG, Cuervo AM, Brumfield RT. In revision at *PLoS Biology*. **A latitudinal intraspecific diversity gradient in birds**. 
 
 * Harvey MG, Rabosky DL. In review. **Studying trait-dependent diversification using comparative population genetics**. 
-
-* Harvey MG, Seeholzer GF, Smith BT, Rabosky DL, Cuervo AM, Brumfield RT. In revision. **A positive association between population genetic differentiation and speciation rates in New World birds**. <a href="http://dx.doi.org/10.1101/085134" target="_blank">(bioRxiv preprint)</a>
-
-* Smith BT, Seeholzer GF, Harvey MG, Cuervo AM, Brumfield RT. In revision. **A latitudinal intraspecific diversity gradient in birds**. 
 
 * Lim HC, Shakya S, Harvey MG, Rahman M, Sheldon FH. In review. **Sundaland's east-west rainforest population structure: Variable manifestations in four polytypic bird species examined using RAD-Seq and plumage analysis.** 
 
