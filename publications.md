@@ -24,7 +24,7 @@ image:
 
 * Harvey MG, Seeholzer GF, Smith BT, Rabosky DL, Cuervo AM, Brumfield RT. In revision for *PNAS*. **A positive association between population genetic differentiation and speciation rates in New World birds**. <a href="http://dx.doi.org/10.1101/085134" target="_blank">(bioRxiv preprint)</a>
 
-* Smith BT, Seeholzer GF, Harvey MG, Cuervo AM, Brumfield RT. In press. **A latitudinal intraspecific diversity gradient in birds**. *PLoS Biology*
+* Smith BT, Seeholzer GF, Harvey MG, Cuervo AM, Brumfield RT. In press. **A latitudinal intraspecific diversity gradient in birds**. *PLoS Biology*.
 
 * Oswald JA, Harvey MG, Remsen RC, Foxworth DU, Cardiff SW, Dittmann DL, Megna LC, Carling MD, Brumfield RT. 2016. **Willet be one species or two?: A genomic view of the evolutionary history of *Tringa semipalmata***. *Auk*. 133: 593-614. <a href="http://mgharvey.github.io/docs/Oswaldetal2016.pdf" target="_blank">(pdf)</a>
 
