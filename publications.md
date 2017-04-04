@@ -18,13 +18,13 @@ image:
 
 * Harvey MG, Rabosky DL. In review. **Studying trait-dependent diversification using comparative population genetics**. 
 
-* Lim HC, Shakya S, Harvey MG, Rahman M, Sheldon FH. In review. **Sundaland's east-west rainforest population structure: Variable manifestations in four polytypic bird species examined using RAD-Seq and plumage analysis.** 
-
 * Harvey MG, Aleixo A, Ribas CC, Brumfield RT. In revision for *American Naturalist*. **Habitat preference predicts genetic diversity and population divergence in Amazonian birds**. <a href="http://dx.doi.org/10.1101/085126" target="_blank">(bioRxiv preprint)</a>
 
 * Harvey MG, Seeholzer GF, Smith BT, Rabosky DL, Cuervo AM, Brumfield RT. In revision for *PNAS*. **A positive association between population genetic differentiation and speciation rates in New World birds**. <a href="http://dx.doi.org/10.1101/085134" target="_blank">(bioRxiv preprint)</a>
 
-* Smith BT, Seeholzer GF, Harvey MG, Cuervo AM, Brumfield RT. In press. **A latitudinal intraspecific diversity gradient in birds**. *PLoS Biology*.
+* Smith BT, Seeholzer GF, Harvey MG, Cuervo AM, Brumfield RT. 2017. **A latitudinal phylogeographic diversity gradient in birds**. *PLoS Biology* 15: e2001073.
+
+* Lim HC, Shakya S, Harvey MG, Rahman M, Sheldon FH. In press. **Sundaland's east-west rainforest population structure: Variable manifestations in four polytypic bird species examined using RAD-Seq and plumage analysis**. *Journal of Biogeography*.
 
 * Oswald JA, Harvey MG, Remsen RC, Foxworth DU, Cardiff SW, Dittmann DL, Megna LC, Carling MD, Brumfield RT. 2016. **Willet be one species or two?: A genomic view of the evolutionary history of *Tringa semipalmata***. *Auk*. 133: 593-614. <a href="http://mgharvey.github.io/docs/Oswaldetal2016.pdf" target="_blank">(pdf)</a>
 
