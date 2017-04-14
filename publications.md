@@ -22,7 +22,7 @@ image:
 
 * Harvey MG, Seeholzer GF, Smith BT, Rabosky DL, Cuervo AM, Brumfield RT. In revision for *PNAS*. **A positive association between population genetic differentiation and speciation rates in New World birds**. <a href="http://dx.doi.org/10.1101/085134" target="_blank">(bioRxiv preprint)</a>
 
-* Smith BT, Seeholzer GF, Harvey MG, Cuervo AM, Brumfield RT. 2017. **A latitudinal phylogeographic diversity gradient in birds**. *PLoS Biology* 15: e2001073.
+* Smith BT, Seeholzer GF, Harvey MG, Cuervo AM, Brumfield RT. 2017. **A latitudinal phylogeographic diversity gradient in birds**. *PLoS Biology* 15: e2001073. <a href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2001073" target="_blank">(html)</a> <a href="http://mgharvey.github.io/docs/Smithetal2017.pdf" target="_blank">(pdf)</a>
 
 * Lim HC, Shakya S, Harvey MG, Rahman M, Sheldon FH. In press. **Sundaland's east-west rainforest population structure: Variable manifestations in four polytypic bird species examined using RAD-Seq and plumage analysis**. *Journal of Biogeography*.
 
