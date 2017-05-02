@@ -8,7 +8,7 @@ image:
 
 Welcome to my website. I am a postdoctoral researcher studying avian diversity in the lab of <a href="http://www-personal.umich.edu/~drabosky/Home.html" target="_blank">Dan Rabosky</a> at the <a href="http://www.lsa.umich.edu/ummz/" target="_blank">University of Michigan Museum of Zoology</a>.
 
-<div markdown="0"><a href="http://mgharvey.github.io/docs/Harvey_CV_4.4.17.pdf" class="btn">Curriculum Vitae</a></div>
+<div markdown="0"><a href="http://mgharvey.github.io/docs/Harvey_CV_5.1.17.pdf" class="btn">Curriculum Vitae</a></div>
 
 ## Contact:
 
