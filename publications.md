@@ -20,7 +20,7 @@ image:
 
 * Harvey MG, Aleixo A, Ribas CC, Brumfield RT. In revision for *American Naturalist*. **Habitat preference predicts genetic diversity and population divergence in Amazonian birds**. <a href="http://dx.doi.org/10.1101/085126" target="_blank">(bioRxiv preprint)</a>
 
-* Harvey MG, Seeholzer GF, Smith BT, Rabosky DL, Cuervo AM, Brumfield RT. In press. **A positive association between population genetic differentiation and speciation rates in New World birds**. *Proceedings of the National Academy of Sciences* <a href="http://dx.doi.org/10.1101/085134" target="_blank">(bioRxiv preprint)</a>
+* Harvey MG, Seeholzer GF, Smith BT, Rabosky DL, Cuervo AM, Brumfield RT. In press. **A positive association between population genetic differentiation and speciation rates in New World birds**. *Proceedings of the National Academy of Sciences*. <a href="http://dx.doi.org/10.1101/085134" target="_blank">(bioRxiv preprint)</a>
 
 * Smith BT, Seeholzer GF, Harvey MG, Cuervo AM, Brumfield RT. 2017. **A latitudinal phylogeographic diversity gradient in birds**. *PLoS Biology* 15: e2001073. <a href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2001073" target="_blank">(html)</a> <a href="http://mgharvey.github.io/docs/Smithetal2017.pdf" target="_blank">(pdf)</a>
 
