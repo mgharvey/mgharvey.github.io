@@ -56,6 +56,8 @@ A repository of miscellaneous R code, mostly for analyzing and visualizing data,
 # Data
 ***
 
+* <a href="https://github.com/mgharvey/differentiation_speciation" target="_blank">Curated code and data used to compare population differentiation to speciation rates in New World birds </a>(Harvey et al. 2017)
+
 * <a href="http://datadryad.org/resource/doi:10.5061/dryad.604b8" target="_blank">Raw reads from sequence capture and RAD-Seq of 8 individuals of *Xenops minutus* </a>(Harvey et al. 2016)
 
 * <a href="http://www.ncbi.nlm.nih.gov/bioproject/PRJNA280209" target="_blank">Short read data from RAD-Seq of 8 individuals in each of 4 bird species (*Rallus crepitans/obsoletus*, *Trochilus polytmus*, *Cranioleuca antisiensis*, and *Xenops minutus*)</a> (Harvey et al. 2015)
