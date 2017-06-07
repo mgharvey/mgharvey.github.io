@@ -24,7 +24,7 @@ I study the origins of avian diversity, primarily by examining populations in th
 <br><br>
 Some species contain remarkable variation across their distributions, whereas others are similar from place to place. The extent to which these differences are random or are a result of differences among species in ecological or life history traits is largely unknown. I am examining trait dependence in geographic variation using population genetic data combined with ecological trait data. Comparative analyses of population genetic data allow us to examine the impact of species-specific traits on population divergence.
 <br><br>
-**Papers:** <a href="http://dx.doi.org/10.1101/085126" target="_blank">Harvey et al. in revision</a>, Lim et al. in press, <a href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2001073" target="_blank">Smith et al. 2017</a>, <a href="http://mgharvey.github.io/docs/Smithetal2014b.pdf" target="_blank">Smith et al. 2014</a>
+**Papers:** <a href="http://dx.doi.org/10.1101/085126" target="_blank">Harvey et al. in revision</a>, <a href="http://mgharvey.github.io/docs/Limetal2017.pdf" target="_blank">Lim et al. 2017</a>, <a href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2001073" target="_blank">Smith et al. 2017</a>, <a href="http://mgharvey.github.io/docs/Smithetal2014b.pdf" target="_blank">Smith et al. 2014</a>
 <br><br>
 
 ## Population-level processes vs. macroevolution
@@ -36,7 +36,7 @@ Some species contain remarkable variation across their distributions, whereas ot
 <br><br>
 Although diversity within species varies widely, this variation may or may not persist over long evolutionary timescales to impact trends in species diversity. I combine population genetic data on intraspecific diversity with phylogenetic data on species diversity through time to assess links between diversity across timescales. If population-level patterns persist to macroevolutionary timescales, this supports the potential importance of processes at work within species in shaping organismal diversity across space and time. 
 <br><br>
-**Papers:** Harvey and Rabosky in review, <a href="http://dx.doi.org/10.1101/085134" target="_blank">Harvey et al. in press</a>
+**Papers:** Harvey and Rabosky in review, <a href="http://mgharvey.github.io/docs/Harveyetal2017.pdf" target="_blank">Harvey et al. 2017</a>
 <br><br>
 
 ## Avian plumage evolution within and among species
