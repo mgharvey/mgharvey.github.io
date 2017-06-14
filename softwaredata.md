@@ -56,7 +56,7 @@ A repository of miscellaneous R code, mostly for analyzing and visualizing data,
 # Data
 ***
 
-* <a href="https://www.ncbi.nlm.nih.gov//bioproject/389814" target="_blank">Raw sequence reads from sequence capture in 464 Amazonian birds used for comparative phylogeography of upland and floodplain habitats </a>(Harvey et al. 2017, Am. Nat.)
+* <a href="https://www.ncbi.nlm.nih.gov//bioproject/389814" target="_blank">Raw reads from sequence capture in 464 Amazonian birds used for comparative phylogeography of upland and floodplain habitats </a>(Harvey et al. 2017, Am. Nat.)
 
 * <a href="https://github.com/mgharvey/differentiation_speciation" target="_blank">Curated code and data used to compare population differentiation to speciation rates in New World birds </a>(Harvey et al. 2017, PNAS)
 
