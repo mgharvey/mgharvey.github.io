@@ -20,7 +20,7 @@ image:
 
 * Harvey MG, Aleixo A, Ribas CC, Brumfield RT. In press. **Habitat association predicts genetic diversity and population divergence in Amazonian birds**. *American Naturalist*. <a href="http://dx.doi.org/10.1101/085126" target="_blank">(bioRxiv preprint)</a>
 
-* Harvey MG, Seeholzer GF, Smith BT, Rabosky DL, Cuervo AM, Brumfield RT. 2017. **Positive association between population genetic differentiation and speciation rates in New World birds**. *Proceedings of the National Academy of Sciences* doi:10.1073/pnas.1617397114. <a href="http://mgharvey.github.io/docs/Harveyetal2017.pdf" target="_blank">(pdf)</a> <a href="https://github.com/mgharvey/differentiation_speciation" target="_blank">(code/data)</a>
+* Harvey MG, Seeholzer GF, Smith BT, Rabosky DL, Cuervo AM, Brumfield RT. 2017. **Positive association between population genetic differentiation and speciation rates in New World birds**. *Proceedings of the National Academy of Sciences* 114: 6328-6333. <a href="http://mgharvey.github.io/docs/Harveyetal2017.pdf" target="_blank">(pdf)</a> <a href="https://github.com/mgharvey/differentiation_speciation" target="_blank">(code/data)</a>
 
 * Smith BT, Seeholzer GF, Harvey MG, Cuervo AM, Brumfield RT. 2017. **A latitudinal phylogeographic diversity gradient in birds**. *PLoS Biology* 15: e2001073. <a href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2001073" target="_blank">(html)</a> <a href="http://mgharvey.github.io/docs/Smithetal2017.pdf" target="_blank">(pdf)</a>
 
