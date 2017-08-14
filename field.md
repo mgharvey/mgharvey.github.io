@@ -18,9 +18,14 @@ Field work is one of my passions. There are few feelings comparable to that of v
 
 Since 2006, I have worked extensively in the Neotropics, focusing on exploring poorly known corners of the Amazon Basin. 
 
-<iframe src="https://mapsengine.google.com/map/embed?mid=zFcp-_sToDi4.kFz2Ba3aay4Q" width="560" height="400" frameborder="0"> </iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1Q0_-90Yl2RTtB02xY5rCVObyGeo&hl=en" width="560" height="400" frameborder="0"> </iframe>
+
 *A map of my research sites in the Neotropics. Museum collection localities are indicated with pointer icons, other sites with push pins.* 
 
 # Central Asia
 
-Beginning in 2017, I will also be conducting field work in the mountains of central Asia, initially in Kyrgyzstan. The distributions and natural histories of central Asian birds are surprisingly poorly known. I will be seeking to fill these gaps while gathering material to conduct comparative population genetics analyses of forest birds distributed across the myriad mountain ranges in the region.
+I began working in central Asia, in Kyrgyzstan, in 2017. The distributions and natural histories of central Asian birds are surprisingly poorly known. I am seeking to fill these gaps while gathering material to conduct comparative population genetics analyses of forest birds distributed across the myriad mountain ranges in the region.
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1Y7MzunbdYm-rvOfcyUVmwPoIksM&hl=en" width="560" height="400" frameborder="0"> </iframe>
+
+*A map of my research sites in central Asia.* 
