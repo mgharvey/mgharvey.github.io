@@ -20,7 +20,7 @@ image:
 
 * Harvey MG, Rabosky DL. In revision. **Studying trait-dependent diversification using comparative population genetics**.
 
-* Harvey MG, Aleixo A, Ribas CC, Brumfield RT. In press. **Habitat association predicts genetic diversity and population divergence in Amazonian birds**. *American Naturalist*. <a href="http://dx.doi.org/10.1101/085126" target="_blank">(bioRxiv preprint)</a>
+* Harvey MG, Aleixo A, Ribas CC, Brumfield RT. In press. **Habitat association predicts genetic diversity and population divergence in Amazonian birds**. *American Naturalist*. <a href="http://www.journals.uchicago.edu/doi/abs/10.1086/693856" target="_blank">(published online ahead-of-print)</a>
 
 * Harvey MG, Seeholzer GF, Smith BT, Rabosky DL, Cuervo AM, Brumfield RT. 2017. **Positive association between population genetic differentiation and speciation rates in New World birds**. *Proceedings of the National Academy of Sciences* 114: 6328-6333. <a href="http://mgharvey.github.io/docs/Harveyetal2017.pdf" target="_blank">(pdf)</a> <a href="https://github.com/mgharvey/differentiation_speciation" target="_blank">(code/data)</a>
 
