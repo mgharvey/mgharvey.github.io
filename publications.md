@@ -16,7 +16,7 @@ image:
 
 # Evolution and Genomics
 
-* Harvey MG, Rabosky DL. In review. **Continuous traits and speciation rates: Alternatives to state-dependent diversification models**. 
+* Harvey MG, Rabosky DL. In revision. **Continuous traits and speciation rates: Alternatives to state-dependent diversification models**. 
 
 * Harvey MG, Rabosky DL. In revision. **Studying trait-dependent diversification using comparative population genetics**.
 
