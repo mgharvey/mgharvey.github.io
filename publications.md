@@ -16,9 +16,9 @@ image:
 
 # Evolution and Genomics
 
-* Harvey MG, Rabosky DL. In revision. **Continuous traits and speciation rates: Alternatives to state-dependent diversification models**. 
-
 * Harvey MG, Rabosky DL. In revision. **Studying trait-dependent diversification using comparative population genetics**.
+
+* Harvey MG, Rabosky DL. In press. **Continuous traits and speciation rates: Alternatives to state-dependent diversification models**. *Methods in Ecology and Evolution*. 
 
 * Harvey MG, Aleixo A, Ribas CC, Brumfield RT. 2017. **Habitat association predicts genetic diversity and population divergence in Amazonian birds**. *American Naturalist*. 190: 631-648. <a href="http://mgharvey.github.io/docs/Harveyetal2017b.pdf" target="_blank">(pdf)</a> <a href="https://www.ncbi.nlm.nih.gov//bioproject/389814" target="_blank">(data)</a>
 
