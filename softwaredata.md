@@ -19,6 +19,10 @@ I try to make all my data and software freely available and easily accessible. S
 # Software
 ***
 
+# <a href="https://github.com/mgharvey/ES-sim" target="_blank">ES-sim</a>
+
+A simple, simulation-based test for trait-dependent diversification.
+
 # <a href="https://github.com/mgharvey/seqcap_pop" target="_blank">seqcap_pop</a>
 
 A pipeline for de novo assembly of population-level sequence capture datasets.
