@@ -21,11 +21,11 @@ I try to make all my data and software freely available and easily accessible. S
 
 # <a href="https://github.com/mgharvey/ES-sim" target="_blank">ES-sim</a>
 
-A simple, simulation-based test for trait-dependent diversification.
+A simple, simulation-based test for trait-dependent diversification (Harvey and Rabosky 2017).
 
 # <a href="https://github.com/mgharvey/seqcap_pop" target="_blank">seqcap_pop</a>
 
-A pipeline for de novo assembly of population-level sequence capture datasets.
+A pipeline for *de novo* assembly of population-level sequence capture datasets (Harvey et al. 2017, Am. Nat.).
 
 # <a href="https://github.com/mgharvey/mps-sim" target="_blank">mps-sim</a>
 
