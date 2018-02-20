@@ -6,9 +6,9 @@ image:
   feature: tapajos.jpg
 ---
 
-Welcome to my website. I am a US National Science Foundation postdoctoral fellow studying avian diversity in the lab of <a href="http://www-personal.umich.edu/~drabosky/Home.html" target="_blank">Dan Rabosky</a> at the <a href="http://www.lsa.umich.edu/ummz/" target="_blank">University of Michigan Museum of Zoology</a>.
+Welcome to my website. I am a postdoctoral researcher studying avian diversity in the lab of <a href="https://derryberrylab.wordpress.com/people/" target="_blank">Liz Derryberry</a> at the University of Tennessee - Knoxville.
 
-<div markdown="0"><a href="http://mgharvey.github.io/docs/Harvey_CV_1.26.18.pdf" class="btn">Curriculum Vitae</a></div>
+<div markdown="0"><a href="http://mgharvey.github.io/docs/Harvey_CV_2.20.18.pdf" class="btn">Curriculum Vitae</a></div>
 
 ## Contact:
 
