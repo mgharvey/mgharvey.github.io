@@ -8,8 +8,8 @@ relative_permalinks: false
 owner:
   name:           Michael G. Harvey
   avatar:         bio-photo.jpg
-  bio:            "Postdoctoral Fellow <br /> Rabosky Lab <br /> Museum of Zoology <br /> University of Michigan <br /> mgh272@gmail.com"
-  email:          mgh272@gmail.com
+  bio:            ""
+  email: mgh272@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: michaelgharvey
   github: mgharvey
