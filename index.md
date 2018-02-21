@@ -12,9 +12,7 @@ Welcome to my website. I am a postdoctoral researcher studying avian diversity i
 
 ## Contact:
 
-* Michael G. Harvey
 * Dept. of Ecology and Evolutionary Biology
 * 430 Hesler Hall
 * University of Tennessee
 * Knoxville, TN 37996
-* <a href="mailto:mgh272@gmail.com" target="_blank">mgh272@gmail.com</a>
