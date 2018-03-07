@@ -86,3 +86,5 @@ A repository of miscellaneous R code, mostly for analyzing and visualizing data,
     - <a href="http://museonoelkempff.org/sitio/index.html" target="_blank">Museo de Historia Natural Noel Kempff Mercado</a>
     - <a href="http://museo.biologia.ucr.ac.cr/" target="_blank">Museo de Zoología de la Universidad de Costa Rica</a>  
     - <a href="http://naturalhistory.ku.edu/" target="_blank">University of Kansas Natural History Museum</a>
+    - <a href="https://lsa.umich.edu/ummz" target="_blank">University of Michigan Museum of Zoology</a>
+    - <a href="http://asbf16.manas.edu.kg/index.php/en/" target="_blank">Kyrgyz Turkish Manas University</a>
