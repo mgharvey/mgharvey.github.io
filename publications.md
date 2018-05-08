@@ -16,9 +16,11 @@ image:
 
 # Evolution and Genomics
 
+* Oswald JA, Harvey MG, Remsen RC, Foxworth DU, Dittmann DL, Cardiff SW, Brumfield RT. In review. **Trans-oceanic colonization and introgressive hybridization in a genus of vagile waterbirds (Aves; *Plegadis*)**.
+
 * Harvey MG, Rabosky DL. In revision. **Studying trait-dependent diversification using comparative population genetics**.
 
-* Harvey MG, Rabosky DL. In press. **Continuous traits and speciation rates: Alternatives to state-dependent diversification models**. *Methods in Ecology and Evolution*. doi: 10.1111/2041-210X.12949 <a href="http://mgharvey.github.io/docs/HarveyRabosky2017.pdf" target="_blank">(online early pdf)</a> <a href="https://github.com/mgharvey/ES-sim/tree/1.1" target="_blank">(code/data)</a>
+* Harvey MG, Rabosky DL. In press. **Continuous traits and speciation rates: Alternatives to state-dependent diversification models**. *Methods in Ecology and Evolution*. 9: 984-993. <a href="http://mgharvey.github.io/docs/HarveyRabosky2017.pdf" target="_blank">(online early pdf)</a> <a href="https://github.com/mgharvey/ES-sim/tree/1.1" target="_blank">(code/data)</a>
 
 * Harvey MG, Aleixo A, Ribas CC, Brumfield RT. 2017. **Habitat association predicts genetic diversity and population divergence in Amazonian birds**. *American Naturalist*. 190: 631-648. <a href="http://mgharvey.github.io/docs/Harveyetal2017b.pdf" target="_blank">(pdf)</a> <a href="https://www.ncbi.nlm.nih.gov//bioproject/389814" target="_blank">(data)</a>
 
