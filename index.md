@@ -8,7 +8,7 @@ image:
 
 Welcome to my website. I am a postdoctoral researcher studying avian diversity in the lab of <a href="https://derryberrylab.wordpress.com/people/" target="_blank">Liz Derryberry</a> at the University of Tennessee - Knoxville.
 
-<div markdown="0"><a href="http://mgharvey.github.io/docs/Harvey_CV_3.31.18.pdf" class="btn">Curriculum Vitae</a></div>
+<div markdown="0"><a href="http://mgharvey.github.io/docs/Harvey_CV_5.16.18.pdf" class="btn">Curriculum Vitae</a></div>
 
 ## Contact:
 
