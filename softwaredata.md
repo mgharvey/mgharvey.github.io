@@ -25,7 +25,7 @@ A simple, simulation-based test for trait-dependent diversification (Harvey and 
 
 # <a href="https://github.com/mgharvey/seqcap_pop" target="_blank">seqcap_pop</a>
 
-A pipeline for *de novo* assembly of population-level sequence capture datasets (Harvey et al. 2017, Am. Nat.).
+A pipeline for *de novo* assembly of population-level sequence capture datasets (Harvey et al. 2016, Syst. Biol.).
 
 # <a href="https://github.com/mgharvey/mps-sim" target="_blank">mps-sim</a>
 
