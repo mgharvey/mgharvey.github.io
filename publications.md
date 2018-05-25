@@ -16,7 +16,7 @@ image:
 
 # Evolution and Genomics
 
-* Oswald JA, Harvey MG, Remsen RC, Foxworth DU, Dittmann DL, Cardiff SW, Brumfield RT. In review. **Trans-oceanic colonization and introgressive hybridization in a genus of vagile waterbirds (Aves; *Plegadis*)**.
+* Oswald JA, Harvey MG, Remsen RC, Foxworth DU, Dittmann DL, Cardiff SW, Brumfield RT. In revision. **Trans-oceanic colonization and introgressive hybridization in a genus of vagile waterbirds (Aves; *Plegadis*)**.
 
 * Harvey MG, Rabosky DL. In revision. **Studying trait-dependent diversification using comparative population genetics**.
 
@@ -58,6 +58,8 @@ image:
 <br><br>
 
 # Biogeography, Natural History, Taxonomy 
+
+* Moncrieff AE, Johnson O, Lane DF, Álvarez Alono J, Balta K, Eckhardt K, Armenta J, Valqui T, Hernández Camacho F, Soto Huaira M, Mur C, Harvey MG, Verde-Guerra K, Figueroa Ramírez S. In review. **Avifaunal surveys along the lower Huallaga River, Region of Loreto, Peru: new distributional records, collection of topotypes, and taxonomic implications**.
 
 * Costa TVV, Piacentini VQ, Oliveira DMM, Schunck F, Whitney BM, Rêgo MA, Rubio TC, Oliveira F, Freitas B, Del-Rio G, Seeholzer GF, Harvey MG, Terrill RS, Correa AG, Arantes F, Silveira LF. 2017. **New records of the enigmatic *Clytoctantes atrogularis* (Thamnophilidae) in Amazonian Brazil, with remarks on plumage, natural history, and distribution**. *Wilson Journal of Ornithology* 129: 1-12. <a href="http://mgharvey.github.io/docs/Costaetal2017.pdf" target="_blank">(pdf)</a>
 
