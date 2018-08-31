@@ -22,7 +22,7 @@ image:
 
 * Harvey MG, Rabosky DL. 2018. **Continuous traits and speciation rates: Alternatives to state-dependent diversification models**. *Methods in Ecology and Evolution*. 9: 984-993. <a href="http://mgharvey.github.io/docs/HarveyRabosky2018.pdf" target="_blank">(pdf)</a> <a href="https://github.com/mgharvey/ES-sim/tree/1.1" target="_blank">(code/data)</a>
 
-* Harvey MG, Aleixo A, Ribas CC, Brumfield RT. 2017. **Habitat association predicts genetic diversity and population divergence in Amazonian birds**. *American Naturalist*. 190: 631-648. <a href="http://mgharvey.github.io/docs/Harveyetal2017b.pdf" target="_blank">(pdf)</a> <a href="https://www.ncbi.nlm.nih.gov//bioproject/389814" target="_blank">(data)</a>
+* Harvey MG, Aleixo A, Ribas CC, Brumfield RT. 2017. **Habitat association predicts genetic diversity and population divergence in Amazonian birds**. *American Naturalist*. 190: 631-648. <a href="http://mgharvey.github.io/docs/Harveyetal2017b.pdf" target="_blank">(pdf)</a> <a href="http://mgharvey.github.io/docs/Harveyetal2017b_supplement.zip" target="_blank"> (supplement)</a> <a href="https://www.ncbi.nlm.nih.gov//bioproject/389814" target="_blank">(data)</a> 
 
 * Harvey MG, Seeholzer GF, Smith BT, Rabosky DL, Cuervo AM, Brumfield RT. 2017. **Positive association between population genetic differentiation and speciation rates in New World birds**. *Proceedings of the National Academy of Sciences* 114: 6328-6333. <a href="http://mgharvey.github.io/docs/Harveyetal2017.pdf" target="_blank">(pdf)</a> <a href="https://github.com/mgharvey/differentiation_speciation" target="_blank">(code/data)</a>
 
