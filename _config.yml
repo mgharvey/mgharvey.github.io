@@ -6,7 +6,7 @@ relative_permalinks: false
 
 # Owner/author information
 owner:
-  name:           Michael G. Harvey
+  name:           Contact:
   avatar:         bio-photo.jpg
   bio:            ""
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -35,7 +35,7 @@ links:
     url: /softwaredata/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Ann_Arbor
+timezone:    America/Louisville
 future:      true
 highlighter: rouge
 markdown:    kramdown
