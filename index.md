@@ -1,6 +1,6 @@
 ---
 layout: page
-description: "Professional website for Michael G. Harvey, ornithologist and evolutionary biologist."
+description: "Professional website for Michael G. Harvey detailing research into speciation and diversification and Neotropical ornithology."
 tags: [ornithology, evolution, genomics, systematics]
 image:
   feature: tapajos.jpg
