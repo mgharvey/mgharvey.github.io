@@ -12,7 +12,7 @@ image:
 
 ***
 
-I study the origins of avian diversity, primarily by examining populations in the early stages of speciation. Most of my research takes advantage of large comparative datasets, such as those that can be collected from natural history collections. I am always looking for new types of data and tools - currently these include genomic sampling strategies for obtaining genetic data and photogrammetry for plumage information, which I combine with ecological, behavioral, and distributional data. Some examples of specific research projects are below. 
+The unifying themes of my research program are a focus on birds, the use of large comparative datasets generated using genomic or high-throughput phenotyping tools, and an enduring focus on integrating insights across temporal, spatial, and taxonomic scales.
 <br><br>
 
 ## Causes of population divergence
