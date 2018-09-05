@@ -1,7 +1,7 @@
 ---
 layout: page
-description: "Professional website for Michael G. Harvey detailing research into speciation and diversification of Neotropical birds."
-tags: [ornithology, evolution, genomics, systematics]
+description: "Professional website for Michael G. Harvey detailing research on the origins of avian diversity, primarily with the goal of linking evolutionary processes at the population level with broader dynamics of species diversity."
+tags: [ornithology, evolution, genomics, systematics, Neotropical, birds]
 image:
   feature: tapajos.jpg
 ---
