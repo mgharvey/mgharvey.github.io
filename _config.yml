@@ -1,7 +1,7 @@
 title:            Michael G. Harvey | ornithologist and evolutionary biologist
 description:      Academic Website.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://www.mgharvey.org
+url:              https://www.mgharvey.org
 relative_permalinks: false
 
 # Owner/author information
@@ -34,7 +34,7 @@ links:
   - title: Software/Data
     url: /softwaredata/
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Louisville
 future:      true
 highlighter: rouge
