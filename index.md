@@ -1,6 +1,6 @@
 ---
 layout: page
-description: "Professional website for Michael G. Harvey detailing research on the origins of avian diversity, primarily with the goal of linking evolutionary processes at the population level with broader dynamics of species diversity."
+description: "Professional website for Michael G. Harvey detailing research on the origins of avian diversity. A central research comparing microevolutionary processes among species and linking them with broader patterns of species diversity."
 tags: [ornithology, evolution, genomics, systematics, Neotropical, birds]
 image:
   feature: tapajos.jpg
