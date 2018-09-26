@@ -12,7 +12,7 @@ image:
 
 ***
 
-The unifying themes of my research program are a focus on avian systems, the use of large comparative datasets generated using genomic or high-throughput phenotyping tools, and the integration of insights across temporal, spatial, and taxonomic scales. My projects include studies of:
+My research program spans the fields of evolutionary genomics, population genetics, and macroevolution. My ongoing research projects include:
 <br><br>
 
 ## Causes of population divergence
