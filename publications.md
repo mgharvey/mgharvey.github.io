@@ -16,9 +16,11 @@ image:
 
 # Evolution and Genomics
 
-* Oswald JA, Harvey MG, Remsen RC, Foxworth DU, Dittmann DL, Cardiff SW, Brumfield RT. In revision. **Trans-oceanic colonization and introgressive hybridization in a genus of vagile waterbirds (Aves; *Plegadis*)**.
+* Oliveros CH, Field DJ, Ksepka DT, Barker FK, Aleixo A, Andersen MJ, Alström P, Benz BW, Braun EL, Braun MJ, Bravo GA, Brumfield RT, Chesser RT, Claramunt S, Harvey MG, Hosner PA, Joseph L, Kimball R, Mack AL, Miskelly CM, Peterson AT, Robbins MB, Sheldon FH, Silveira LF, Smith BT, White ND, Moyle RG, Faircloth BC. ** Earth history and the passerine superradiation**. 
 
 * Harvey MG, Rabosky DL. In revision. **Studying trait-dependent diversification using comparative population genetics**.
+
+* Oswald JA, Harvey MG, Remsen RC, Foxworth DU, Dittmann DL, Cardiff SW, Brumfield RT. In press. **Evolutionary dynamics of hybridization and introgression following the recent colonization of Glossy Ibis (Aves; *Plegadis falcinellus*) into the New World**. *Molecular Ecology*.
 
 * Harvey MG, Rabosky DL. 2018. **Continuous traits and speciation rates: Alternatives to state-dependent diversification models**. *Methods in Ecology and Evolution*. 9: 984-993. <a href="https://mgharvey.github.io/docs/HarveyRabosky2018.pdf" target="_blank">(pdf)</a> <a href="https://github.com/mgharvey/ES-sim/tree/1.1" target="_blank">(code/data)</a>
 
