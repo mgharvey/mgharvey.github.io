@@ -20,7 +20,7 @@ image:
 
 * Harvey MG, Rabosky DL. In revision. **Studying trait-dependent diversification using comparative population genetics**.
 
-* Oswald JA, Harvey MG, Remsen RC, Foxworth DU, Dittmann DL, Cardiff SW, Brumfield RT. In press. **Evolutionary dynamics of hybridization and introgression following the recent colonization of Glossy Ibis (Aves; *Plegadis falcinellus*) into the New World**. *Molecular Ecology* doi: 10.1111/mec.15008. <a href="https://mgharvey.github.io/docs/Oswaldetal2019.pdf" target="_blank">(online early pdf)</a>
+* Oswald JA, Harvey MG, Remsen RC, Foxworth DU, Dittmann DL, Cardiff SW, Brumfield RT. In press. **Evolutionary dynamics of hybridization and introgression following the recent colonization of Glossy Ibis (Aves; *Plegadis falcinellus*) into the New World**. *Molecular Ecology* doi: 10.1111/mec.15008. <a href="https://mgharvey.github.io/docs/Oswaldetal2019.pdf" target="_blank">(online early pdf)</a> <a href="https://www.ncbi.nlm.nih.gov//bioproject/506077" target="_blank">(data)</a> 
 
 * Harvey MG, Rabosky DL. 2018. **Continuous traits and speciation rates: Alternatives to state-dependent diversification models**. *Methods in Ecology and Evolution*. 9: 984-993. <a href="https://mgharvey.github.io/docs/HarveyRabosky2018.pdf" target="_blank">(pdf)</a> <a href="https://github.com/mgharvey/ES-sim/tree/1.1" target="_blank">(code/data)</a>
 
