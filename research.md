@@ -36,7 +36,7 @@ Some species contain remarkable variation across their distributions, whereas ot
 <br><br>
 Although diversity within species varies widely, this variation may or may not persist over long evolutionary timescales to impact trends in species diversity. I combine population genetic data on intraspecific diversity with phylogenetic data on species diversity through time to assess links between diversity across timescales. If population-level patterns persist to macroevolutionary timescales, this supports the potential importance of processes at work within species in shaping organismal diversity across space and time. 
 <br><br>
-**Papers:** Harvey and Rabosky in revision, <a href="http://mgharvey.github.io/docs/Harveyetal2017.pdf" target="_blank">Harvey et al. 2017</a>
+**Papers:** Harvey et al. In press, <a href="http://mgharvey.github.io/docs/Harveyetal2017.pdf" target="_blank">Harvey et al. 2017</a>
 <br><br>
 
 ## Avian plumage evolution within and among species
