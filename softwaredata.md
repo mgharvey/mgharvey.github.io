@@ -21,7 +21,7 @@ I try to make all my data and software freely available and easily accessible. S
 
 # <a href="https://github.com/mgharvey/ES-sim" target="_blank">ES-sim</a>
 
-A simple, simulation-based test for trait-dependent diversification (Harvey and Rabosky 2017).
+A simple, simulation-based test for trait-dependent diversification (Harvey and Rabosky 2018).
 
 # <a href="https://github.com/mgharvey/seqcap_pop" target="_blank">seqcap_pop</a>
 
