@@ -40,7 +40,7 @@ image:
 
 * Toews DP, Campagna L, Taylor S, Balakrishnan C, Baldassarre D, Deane-Coe P, Harvey M, Hooper D, Irwin D, Judy C, Mason N, McCormack J, McCracken K, Oliveros C, Safran R, Scordato E, Stryjewski K, Tigano A, Uy A, Winger B. 2016. **Genomic approaches to understanding population divergence and speciation in birds**. *Auk* 133: 13-30. <a href="https://mgharvey.github.io/docs/Toewsetal2016.pdf" target="_blank">(pdf)</a>
 
-* Harvey MG. 2015. Comparative population genomics of Neotropical forest birds. Ph.D. Dissertation, Louisiana State University. <a href="https://etd.lsu.edu/docs/available/etd-11192015-104941/unrestricted/Harvey_Dissertation.pdf" target="_blank">(pdf)</a>
+* Harvey MG. 2015. Comparative population genomics of Neotropical forest birds. Ph.D. Dissertation, Louisiana State University. <a href="https://digitalcommons.lsu.edu/cgi/viewcontent.cgi?article=2698&context=gradschool_dissertations" target="_blank">(pdf)</a>
 
 * Harvey MG, Judy CD, Seeholzer GF, Maley JM, Graves GR, Brumfield RT. 2015. **Similarity thresholds used in DNA sequence assembly from short reads can reduce the comparability of population histories across species**. *PeerJ* 3: e895. <a href="https://peerj.com/articles/895/" target="_blank">(html)</a> <a href="https://peerj.com/articles/895.pdf" target="_blank">(pdf)</a>
 
