@@ -16,9 +16,9 @@ image:
 
 # Evolution and Genomics
 
-* Oliveros CH, Field DJ, Ksepka DT, Barker FK, Aleixo A, Andersen MJ, Alström P, Benz BW, Braun EL, Braun MJ, Bravo GA, Brumfield RT, Chesser RT, Claramunt S, Harvey MG, Hosner PA, Joseph L, Kimball R, Mack AL, Miskelly CM, Peterson AT, Robbins MB, Sheldon FH, Silveira LF, Smith BT, White ND, Moyle RG, Faircloth BC. In press. **Earth history and the passerine superradiation**. *Proceedings of the National Academy of Sciences*.
-
 * Harvey MG, Singhal S, Rabosky DL. In press. **Beyond reproductive isolation: Demographic controls on the speciation process**. *Annual Review of Ecology, Evolution, and Systematics*.
+
+* Oliveros CH, Field DJ, Ksepka DT, Barker FK, Aleixo A, Andersen MJ, Alström P, Benz BW, Braun EL, Braun MJ, Bravo GA, Brumfield RT, Chesser RT, Claramunt S, Harvey MG, Hosner PA, Joseph L, Kimball R, Mack AL, Miskelly CM, Peterson AT, Robbins MB, Sheldon FH, Silveira LF, Smith BT, White ND, Moyle RG, Faircloth BC. 2019. **Earth history and the passerine superradiation**. *Proceedings of the National Academy of Sciences*. doi: 10.1073/pnas.1813206116. <a href="https://www.pnas.org/content/early/2019/03/26/1813206116" target="_blank">(html)</a> <a href="https://www.pnas.org/content/pnas/early/2019/03/26/1813206116.full.pdf" target="_blank">(pdf)</a>
 
 * Oswald JA, Harvey MG, Remsen RC, Foxworth DU, Dittmann DL, Cardiff SW, Brumfield RT. In press. **Evolutionary dynamics of hybridization and introgression following the recent colonization of Glossy Ibis (Aves; *Plegadis falcinellus*) into the New World**. *Molecular Ecology* doi: 10.1111/mec.15008. <a href="https://mgharvey.github.io/docs/Oswaldetal2019.pdf" target="_blank">(online early pdf)</a> <a href="https://www.ncbi.nlm.nih.gov//bioproject/506077" target="_blank">(data)</a> 
 
