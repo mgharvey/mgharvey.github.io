@@ -15,26 +15,26 @@ image:
 I study mechanisms responsible for broad patterns of organismal diversity using comparative studies at the population level. My work spans the fields of evolutionary genomics, population genetics, and macroevolution. Current and ongoing research projects include:
 <br><br>
 
-## Causes of population divergence
+## Comparative research on avian speciation
 ***
 
 ![structure!](/images/structure.png)
 <br><br>
 **Main collaborators:** <a href="https://briantilstonsmith.wordpress.com/" target="_blank">Brian Tilston Smith</a> (AMNH), Glenn Seeholzer (AMNH), Haw Chuan Lim (USNM), Alex Aleixo (MPEG), Camila Ribas (INPA), <a href="https://sites01.lsu.edu/faculty/brumfieldlab/" target="_blank">Robb Brumfield</a> (LSU)
 <br><br>
-Some species contain remarkable variation across their distributions, whereas others are similar from place to place. The extent to which these differences are random or are a result of differences among species in ecological or life history traits is largely unknown. I am examining trait dependence in geographic variation using population genetic data combined with ecological trait data. Comparative analyses of population genetic data allow us to examine the impact of species-specific traits on population divergence.
+Speciation is well characterized in a few systems, mostly in the Temperate Zone. However, speciation may occur quite differently in lineages in the world's tropical regions, the engines of most new species diversity. I use population genomic, phenotypic, behavioral, and ecological data to characterize speciation in tropical bird lineages. I also conduct comparative studies across regions to assess how the process of speciation varies in distinct geographic or taxonomic contexts. This research is critical to evaluate whether current understanding of speciation is of general importance. 
 <br><br>
 **Papers:** <a href="http://mgharvey.github.io/docs/Harveyetal2017b.pdf" target="_blank">Harvey et al. 2017</a>, <a href="http://mgharvey.github.io/docs/Limetal2017.pdf" target="_blank">Lim et al. 2017</a>, <a href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2001073" target="_blank">Smith et al. 2017</a>, <a href="http://mgharvey.github.io/docs/Smithetal2014b.pdf" target="_blank">Smith et al. 2014</a>
 <br><br>
 
-## Population-level processes vs. macroevolution
+## Macroevolutionary impacts of population-level processes
 ***
 
 ![bamm!](/images/bamm.png)
 <br><br>
 **Main collaborators:** <a href="https://briantilstonsmith.wordpress.com/" target="_blank">Brian Tilston Smith</a> (AMNH), Glenn Seeholzer (AMNH), <a href="http://www.raboskylab.org/" target="_blank">Dan Rabosky</a> (UMich), <a href="https://sites01.lsu.edu/faculty/brumfieldlab/" target="_blank">Robb Brumfield</a> (LSU)
 <br><br>
-Although diversity within species varies widely, this variation may or may not persist over long evolutionary timescales to impact trends in species diversity. I combine population genetic data on intraspecific diversity with phylogenetic data on species diversity through time to assess links between diversity across timescales. If population-level patterns persist to macroevolutionary timescales, this supports the potential importance of processes at work within species in shaping organismal diversity across space and time. 
+Although diversity within species varies widely, this variation may or may not persist over long evolutionary timescales to impact trends in species diversity. I combine population genetic data on intraspecific diversity with phylogenetic data on species diversity through time to assess the links between diversity across timescales. If population-level patterns persist to macroevolutionary timescales, this supports the potential importance of processes at work within species in shaping organismal diversity across space and time. Alternatively, population-level processes may be ephemeral and secondary to other limits on species proliferation.
 <br><br>
 **Papers:** Harvey et al. In press, <a href="http://mgharvey.github.io/docs/Harveyetal2017.pdf" target="_blank">Harvey et al. 2017</a>
 <br><br>
