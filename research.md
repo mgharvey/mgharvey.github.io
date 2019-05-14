@@ -49,6 +49,7 @@ Although diversity within species varies widely, this variation may or may not p
 New DNA sequencing technologies are able to produce massive amounts of genetic data, but their application to research in non-model organisms is in its infancy. I have been working to develop and test approaches for obtaining data appropriate for comparative evolutionary studies. We developed a method involving sequence capture of markers linked to highly conserved regions of the genome (<a href="http://www.ultraconserved.org" target="_blank">Ultraconserved elements</a>). I have also been working with restriction digest associated DNA sequencing (RAD-Seq) and whole-genome resequencing. I have developed laboratory protocols, bioinformatics pipelines, and analytical tools that allow these powerful genomic techniques to be brought to bear on non-model species and samples from museum collections.
 <br><br>
 **Papers:** <a href="http://mgharvey.github.io/docs/Harveyetal2016.pdf" target="_blank">Harvey et al. 2016</a>, <a href="http://mgharvey.github.io/docs/Smithetal2014.pdf" target="_blank">Smith et al. 2014</a>, <a href="http://mgharvey.github.io/docs/Fairclothetal2012.pdf" target="_blank">Faircloth et al. 2012</a>
+<br><br>
 
 ## Avian plumage evolution within and among species
 ***
@@ -58,5 +59,4 @@ New DNA sequencing technologies are able to produce massive amounts of genetic d
 **Main collaborators:** <a href="http://www.raboskylab.org/" target="_blank">Dan Rabosky</a> (UMich)
 <br><br>
 Birds have varied and spectacular plumages, but the source of this diversity is still largely unknown. Do plumage differences between species originate from variation within species? At what rates do different plumage characters, such as color or pattern, change through evolutionary time? In order to address these questions, I am developing high-throughput methods to quantify plumage from museum specimens using full-spectrum digital imagery, photogrammetry, and computer vision and machine learning. 
-<br><br>
 
