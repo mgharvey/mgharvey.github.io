@@ -12,7 +12,7 @@ image:
 
 ***
 
-I study mechanisms responsible for broad patterns of organismal diversity using comparative studies at the population level. My work spans the fields of evolutionary genomics, population genetics, and macroevolution. Current and ongoing research projects include:
+I study mechanisms responsible for broad patterns of organismal diversity using a comparative approach. My work spans the fields of evolutionary genomics, population genetics, and macroevolution. Current and ongoing research projects include:
 <br><br>
 
 ## Comparative research on avian speciation
