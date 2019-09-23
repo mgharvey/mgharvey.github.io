@@ -36,7 +36,7 @@ Speciation is well characterized in a few systems, mostly in the Temperate Zone.
 <br><br>
 Although diversity within species varies widely, this variation may or may not persist over long evolutionary timescales to impact trends in species diversity. I combine population genetic data on intraspecific diversity with phylogenetic data on species diversification through time to assess the links between diversity across timescales. If population-level patterns persist to macroevolutionary timescales, this supports the general evolutionary importance of processes at work within species. Alternatively, population-level processes may be ephemeral and secondary to other limits on species proliferation.
 <br><br>
-**Papers:** Harvey et al. In press, <a href="http://mgharvey.github.io/docs/Harveyetal2017.pdf" target="_blank">Harvey et al. 2017</a>
+**Papers:** <a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-110218-024701" target="_blank"><a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-110218-024701" target="_blank">Harvey et al. In press</a>, <a href="http://mgharvey.github.io/docs/Harveyetal2017.pdf" target="_blank">Harvey et al. 2017</a>
 <br><br>
 
 ## Applications of genomic data to comparative studies of non-model organisms
