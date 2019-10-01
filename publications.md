@@ -16,6 +16,8 @@ image:
 
 # Evolution and Genomics
 
+* Harvey MG, Bravo GA, Claramunt S, Cuervo AM, Derryberry GE, Battilana J, Seeholzer GF, Shearer McKay J, Faircloth BC, Edwards SV, Pérez-Emán J, Moyle RG, Sheldon FH, Aleixo A, Smith BT, Chesser RT, Silveira LF, Cracraft J, Brumfield RT, Derryberry EP. In review. The evolution of a tropical biodiversity hotspot.
+
 * Harvey MG, Singhal S, Rabosky DL. 2019 (In press). **Beyond reproductive isolation: Demographic controls on the speciation process**. *Annual Review of Ecology, Evolution, and Systematics*. <a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-110218-024701" target="_blank">(uncorrected proof)</a>
 
 * Oliveros CH, Field DJ, Ksepka DT, Barker FK, Aleixo A, Andersen MJ, Alström P, Benz BW, Braun EL, Braun MJ, Bravo GA, Brumfield RT, Chesser RT, Claramunt S, Harvey MG, Hosner PA, Joseph L, Kimball R, Mack AL, Miskelly CM, Peterson AT, Robbins MB, Sheldon FH, Silveira LF, Smith BT, White ND, Moyle RG, Faircloth BC. 2019. **Earth history and the passerine superradiation**. *Proceedings of the National Academy of Sciences*. 116: 7916-7925. <a href="https://www.pnas.org/content/116/16/7916" target="_blank">(html)</a> <a href="https://www.pnas.org/content/pnas/116/16/7916.full.pdf" target="_blank">(pdf)</a>
