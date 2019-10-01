@@ -16,7 +16,7 @@ image:
 
 # Evolution and Genomics
 
-* Harvey MG, Bravo GA, Claramunt S, Cuervo AM, Derryberry GE, Battilana J, Seeholzer GF, Shearer McKay J, Faircloth BC, Edwards SV, Pérez-Emán J, Moyle RG, Sheldon FH, Aleixo A, Smith BT, Chesser RT, Silveira LF, Cracraft J, Brumfield RT, Derryberry EP. In review. The evolution of a tropical biodiversity hotspot.
+* Harvey MG, Bravo GA, Claramunt S, Cuervo AM, Derryberry GE, Battilana J, Seeholzer GF, Shearer McKay J, Faircloth BC, Edwards SV, Pérez-Emán J, Moyle RG, Sheldon FH, Aleixo A, Smith BT, Chesser RT, Silveira LF, Cracraft J, Brumfield RT, Derryberry EP. In review. **The evolution of a tropical biodiversity hotspot.**
 
 * Harvey MG, Singhal S, Rabosky DL. 2019 (In press). **Beyond reproductive isolation: Demographic controls on the speciation process**. *Annual Review of Ecology, Evolution, and Systematics*. <a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-110218-024701" target="_blank">(uncorrected proof)</a>
 
