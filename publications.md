@@ -16,7 +16,7 @@ image:
 
 # Evolution and Genomics
 
-* Settlecowski AE, Cuervo AM, Tello JG, Harvey MG, Brumfield RT, Derryberry EP. In review. **Investigating the utility of traditional and genomic multi-locus datasets to resolve relationships in Lipaugus and Tijuca (Cotingidae).**
+* Settlecowski AE, Cuervo AM, Tello JG, Harvey MG, Brumfield RT, Derryberry EP. In review. **Investigating the utility of traditional and genomic multi-locus datasets to resolve relationships in *Lipaugus* and *Tijuca* (Cotingidae).**
 
 * Harvey MG, Bravo GA, Claramunt S, Cuervo AM, Derryberry GE, Battilana J, Seeholzer GF, Shearer McKay J, Faircloth BC, Edwards SV, Pérez-Emán J, Moyle RG, Sheldon FH, Aleixo A, Smith BT, Chesser RT, Silveira LF, Cracraft J, Brumfield RT, Derryberry EP. In review. **The evolution of a tropical biodiversity hotspot.**
 
