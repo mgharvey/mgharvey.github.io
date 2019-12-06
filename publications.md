@@ -20,7 +20,7 @@ image:
 
 * Settlecowski AE, Cuervo AM, Tello JG, Harvey MG, Brumfield RT, Derryberry EP. In review. **Investigating the utility of traditional and genomic multi-locus datasets to resolve relationships in *Lipaugus* and *Tijuca* (Cotingidae).**
 
-* Lim HC, Shakya S, Harvey MG, Moyle RG, Fleischer RC, Braun MJ, Sheldon FH. In press. **Opening the door to greater phylogeographic inference in Southeast Asia: Comparative study of five co-distributed rainforest bird species using target capture and historical DNA**. *Ecology and Evolution**. 
+* Lim HC, Shakya S, Harvey MG, Moyle RG, Fleischer RC, Braun MJ, Sheldon FH. In press. **Opening the door to greater phylogeographic inference in Southeast Asia: Comparative study of five co-distributed rainforest bird species using target capture and historical DNA**. *Ecology and Evolution*. 
 
 * Harvey MG, Singhal S, Rabosky DL. 2019. **Beyond reproductive isolation: Demographic controls on the speciation process**. *Annual Review of Ecology, Evolution, and Systematics* 50: 75-95. <a href="https://mgharvey.github.io/docs/Harveyetal2019.pdf" target="_blank">(pdf)</a>
 
