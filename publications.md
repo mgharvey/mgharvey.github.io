@@ -18,7 +18,7 @@ image:
 
 * Harvey MG, Bravo GA, Claramunt S, Cuervo AM, Derryberry GE, Battilana J, Seeholzer GF, Shearer McKay J, Faircloth BC, Edwards SV, Pérez-Emán J, Moyle RG, Sheldon FH, Aleixo A, Smith BT, Chesser RT, Silveira LF, Cracraft J, Brumfield RT, Derryberry EP. In review. **The evolution of a tropical biodiversity hotspot.**
 
-* Settlecowski AE, Cuervo AM, Tello JG, Harvey MG, Brumfield RT, Derryberry EP. In review. **Investigating the utility of traditional and genomic multi-locus datasets to resolve relationships in *Lipaugus* and *Tijuca* (Cotingidae).**
+* Settlecowski AE, Cuervo AM, Tello JG, Harvey MG, Brumfield RT, Derryberry EP. In press. **Investigating the utility of traditional and genomic multi-locus datasets to resolve relationships in *Lipaugus* and *Tijuca* (Cotingidae)**. *Molecular Phylogenetics and Evolution*.
 
 * Lim HC, Shakya S, Harvey MG, Moyle RG, Fleischer RC, Braun MJ, Sheldon FH. In press. **Opening the door to greater phylogeographic inference in Southeast Asia: Comparative study of five co-distributed rainforest bird species using target capture and historical DNA**. *Ecology and Evolution*. 
 
