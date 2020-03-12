@@ -67,6 +67,8 @@ image:
 
 # Biogeography, Natural History, Taxonomy 
 
+* Chesser RT, Harvey MG, Brumfield RT, Derryberry EP. In review. **A revised classification of the Xolmiini (Aves: Tyrannidae: Fluvicolinae), including a new genus for *Muscisaxicola fluviatilis***. 
+
 * Moncrieff AE, Johnson O, Lane DF, Álvarez Alono J, Balta K, Eckhardt K, Armenta J, Valqui T, Hernández Camacho F, Soto Huaira M, Mur C, Harvey MG, Verde-Guerra K, Figueroa Ramírez S. 2019. **Avifaunal surveys along the lower Huallaga River, Region of Loreto, Peru: new distributional records, collection of topotypes, and taxonomic implications**. *Wilson Journal of Ornithology* 131: 486-501. <a href="https://mgharvey.github.io/docs/Moncrieffetal2019.pdf" target="_blank">(pdf)</a>
 
 * Costa TVV, Piacentini VQ, Oliveira DMM, Schunck F, Whitney BM, Rêgo MA, Rubio TC, Oliveira F, Freitas B, Del-Rio G, Seeholzer GF, Harvey MG, Terrill RS, Correa AG, Arantes F, Silveira LF. 2017. **New records of the enigmatic *Clytoctantes atrogularis* (Thamnophilidae) in Amazonian Brazil, with remarks on plumage, natural history, and distribution**. *Wilson Journal of Ornithology* 129: 1-12. <a href="https://mgharvey.github.io/docs/Costaetal2017.pdf" target="_blank">(pdf)</a>
