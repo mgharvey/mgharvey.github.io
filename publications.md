@@ -67,7 +67,9 @@ image:
 
 # Biogeography, Natural History, Taxonomy 
 
-* Chesser RT, Harvey MG, Brumfield RT, Derryberry EP. In press. **A revised classification of the Xolmiini (Aves: Tyrannidae: Fluvicolinae), including a new genus for *Muscisaxicola fluviatilis***. *Proceedings of the Biological Society of Washington*.
+* Moncrieff AE, Johnson O, Felix C, Hiller A, Corbett E, Brady M, Seeholzer G, Bautista E, Lane DF, Harvey MG. In review. **Avifaunal surveys in the central Peruvian Amazon clarify range limits and highlight links between avian and habitat diversity**. 
+
+* Chesser RT, Harvey MG, Brumfield RT, Derryberry EP. 2020. **A revised classification of the Xolmiini (Aves: Tyrannidae: Fluvicolinae), including a new genus for *Muscisaxicola fluviatilis***. *Proceedings of the Biological Society of Washington*. 133: 35-48. <a href="https://mgharvey.github.io/docs/Chesseretal2020.pdf" target="_blank">(pdf)</a>
 
 * Moncrieff AE, Johnson O, Lane DF, Álvarez Alonso J, Balta K, Eckhardt K, Armenta J, Valqui T, Hernández Camacho F, Soto Huaira M, Mur C, Harvey MG, Verde-Guerra K, Figueroa Ramírez S. 2019. **Avifaunal surveys along the lower Huallaga River, Region of Loreto, Peru: new distributional records, collection of topotypes, and taxonomic implications**. *Wilson Journal of Ornithology* 131: 486-501. <a href="https://mgharvey.github.io/docs/Moncrieffetal2019.pdf" target="_blank">(pdf)</a>
 
