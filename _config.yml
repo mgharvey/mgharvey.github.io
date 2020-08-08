@@ -1,4 +1,4 @@
-title:            Harvey Lab | UTEP
+title:            Harvey Lab
 description:      Academic Website.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              https://www.mgharvey.org
@@ -6,7 +6,7 @@ relative_permalinks: false
 
 # Owner/author information
 owner:            
-  name:           Harvey Lab
+  name:           Harvey Lab | UTEP
   avatar:         icon.png
   bio:            ""
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
