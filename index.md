@@ -1,7 +1,7 @@
 ---
 layout: page
-description: "Professional website for Michael G. Harvey detailing research on the origins of avian diversity."
-tags: [ornithology, evolution, genomics, systematics, Neotropical, birds]
+description: "Website for the Harvey Lab detailing research on bird diversity, genomics, and evolution at the University of Texas at El Paso."
+tags: [ornithology, evolution, genomics, systematics, speciation, desert Southwest, Neotropics, birds]
 image:
   feature: tapajos.jpg
 ---
