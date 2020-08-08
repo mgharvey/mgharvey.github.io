@@ -18,7 +18,7 @@ The Harvey lab studies the origins of organismal diversity, often taking a compa
 ## Global dynamics of speciation and diversity in birds
 ***
 
-![bamm!](/images/suboscines.png)
+![tyranni!](/images/suboscines.png)
 <br><br>
 The number of species varies dramatically across geographic regions and among taxonomic groups. New technologies and approaches now allow investigation into the mechanisms responsible for new species formation on a large scale. We are leveraging these data sources to conduct comparative studies of speciation in birds from different groups and geographic areas, including birds from groups or regions that are poorly represented in speciation research. These studies are key to understanding general features of speciation and for highlighting those aspects of speciation that are unique to particular situations. 
 <br><br>
@@ -26,7 +26,7 @@ The number of species varies dramatically across geographic regions and among ta
 ## Population genetics and speciation in Sky Island birds
 ***
 
-![genomics!](/images/sacramentomtns.png)
+![mountains!](/images/sacramentomtns.png)
 <br><br>
 **Main collaborators:** <a href="https://briantilstonsmith.wordpress.com/" target="_blank">Brian Tilston Smith</a> (AMNH), Glenn Seeholzer (AMNH), <a href="http://www.raboskylab.org/" target="_blank">Dan Rabosky</a> (UMich), <a href="https://sites01.lsu.edu/faculty/brumfieldlab/" target="_blank">Robb Brumfield</a> (LSU)
 <br><br>
@@ -44,7 +44,7 @@ New tools and technologies such as massively parallel DNA sequencing and high-th
 ## Avian collections, systematics, ecology, and conservation
 ***
 
-![plumage!](/images/photoscan.png)
+![collections!](/images/photoscan.png)
 <br><br>
 We have diverse, long-term interests in birds and their ecology, taxonomy, and conservation. We also value natural history collections as a living record of changes in the natural world, and use them intensively in our research. These interests have spawned additional projects ranging from inventory work in the Amazon Basin, to monitoring of nocturnal migration, to comparative phylogeography of central Asian birds. We are excited to develop additional projects on birds of the American Southwest. 
 <br><br>
