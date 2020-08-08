@@ -6,7 +6,7 @@ image:
   feature: tapajos.jpg
 ---
 
-Welcome to the website for the Harvey Lab at the University of Texas at El Paso. We study birds with a focus on genomics and evolution. 
+Welcome to the website for the Harvey Lab at the University of Texas at El Paso. We study birds with a focus on diversity, genomics, and evolution. 
 <br><br>
 Principal Investigator:
 <br>
