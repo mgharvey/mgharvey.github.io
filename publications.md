@@ -12,8 +12,6 @@ image:
 
 ***
 
-<a href="https://scholar.google.com/citations?hl=en&user=vV6SsisAAAAJ" target="_blank"><img src="https://mgharvey.github.io/images/scholar_logo_md_2011.gif" width="100" /></a>
-
 * **Harvey MG**, Bravo GA, Claramunt S, Cuervo AM, Derryberry GE, Battilana J, Seeholzer GF, Shearer McKay J, O'Meara BC, Faircloth BC, Edwards SV, Pérez-Emán J, Moyle RG, Sheldon FH, Aleixo A, Smith BT, Chesser RT, Silveira LF, Cracraft J, Brumfield RT, Derryberry EP. In review. **The evolution of a tropical biodiversity hotspot.**
 
 * Moncrieff AE, Johnson O, Felix C, Hiller A, Corbett E, Brady M, Seeholzer G, Bautista E, Lane DF, **Harvey MG**. In review. **Avifaunal surveys in the central Peruvian Amazon clarify range limits and highlight links between avian and habitat diversity**. 
