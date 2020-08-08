@@ -6,7 +6,13 @@ image:
   feature: tapajos.jpg
 ---
 
-Welcome to my website. I am an ornithologist and evolutionary biologist and currently work as a postdoctoral researcher in the lab of <a href="https://derryberrylab.wordpress.com/people/" target="_blank">Liz Derryberry</a> at the University of Tennessee - Knoxville.
+Welcome to the website for the Harvey Lab at the University of Texas at El Paso. We study birds with a focus on genomics and evolution. 
 
+Principal Investigator:
+
+Dr. Michael G. Harvey
+Assistant Professor, Department of Biological Sciences
+Curator, Biodiversity Collections
+The University of Texas at El Paso
 <div markdown="0"><a href="http://mgharvey.github.io/docs/Harvey_CV_7.13.20.pdf" class="btn">Curriculum Vitae</a></div>
 

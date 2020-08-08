@@ -2,16 +2,16 @@
 layout: page
 permalink: /softwaredata/
 title: Software/Data
-tagline: Michael G. Harvey
-tags: [about, research, Michael G. Harvey]
-modified: 5-20-14
+tagline: Harvey Lab
+tags: [about, software, data]
+modified: 8-10-20
 comments: true
 image:
   feature: mauritia.jpg
 ---
 ***
 
-I try to make all my data and software freely available and easily accessible. Scripts are generally available from Github, and data from NCBI, Dryad, or elsewhere. If you notice something I've neglected to post, please <a href="mailto:mgh272@gmail.com" target="_blank">contact me</a>.
+We try to make all our data and software freely available and easily accessible. Scripts are generally available from Github, and data from NCBI, Dryad, or elsewhere. If you notice something that is missing, please <a href="mailto:mgh272@gmail.com" target="_blank">contact us</a>.
 
 <br />
 
@@ -79,6 +79,7 @@ A repository of miscellaneous R code, mostly for analyzing and visualizing data,
 * Audio recordings from the field are available from the <a href="http://macaulaylibrary.org/search?recordist=harvey+michael&recordist_id=1450" target="_blank">Macaulay Library</a>
 
 * Specimens from field work are deposited at the following institutions:
+    - <a href="http://www.utep.edu/biodiversity/" target="_blank">Biodiversity Collections at The University of Texas at El Paso</a>   
     - <a href="http://appl003.lsu.edu/natsci/lmns.nsf/index" target="_blank">Louisiana State University Museum of Natural Science</a>   
     - <a href="http://www.cumv.cornell.edu/" target="_blank">Cornell University Museum of Vertebrates</a>   
     - <a href="http://www.mz.usp.br/" target="_blank">Museu de Zoologia da Universidade de São Paulo</a>  

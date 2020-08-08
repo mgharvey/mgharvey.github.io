@@ -2,9 +2,9 @@
 layout: page
 permalink: /research/
 title: Research
-tagline: Michael G. Harvey
-tags: [about, research, Michael G. Harvey]
-modified: 5-14-19
+tagline: Harvey Lab
+tags: [about, research]
+modified: 8-10-20
 comments: true
 image:
   feature: siberia.jpg
@@ -12,51 +12,47 @@ image:
 
 ***
 
-I study mechanisms responsible for broad patterns of organismal diversity using a comparative approach. My work spans the fields of evolutionary genomics, population genetics, and macroevolution. Current and ongoing research projects include:
+The Harvey lab studies the origins of organismal diversity, often taking a comparative approach and using birds as a study system. Our work spans the fields of evolutionary genomics, population genetics, and macroevolution. Current and ongoing research projects include:
 <br><br>
 
-## Comparative research on avian speciation
-***
-
-![structure!](/images/structure.png)
-<br><br>
-**Main collaborators:** <a href="https://briantilstonsmith.wordpress.com/" target="_blank">Brian Tilston Smith</a> (AMNH), Glenn Seeholzer (AMNH), Haw Chuan Lim (USNM), Alex Aleixo (MPEG), Camila Ribas (INPA), <a href="https://sites01.lsu.edu/faculty/brumfieldlab/" target="_blank">Robb Brumfield</a> (LSU)
-<br><br>
-Speciation is well characterized in a few systems, mostly in the Temperate Zone. However, speciation may progress quite differently in lineages in the world's tropical regions, the engines of most new species diversity. I use population genomic, phenotypic, behavioral, and ecological data to characterize speciation in tropical bird lineages. I also conduct comparative studies across regions to assess how the process of speciation varies in distinct geographic or taxonomic contexts. This research is critical to evaluate whether current understanding of speciation is of general applicability. 
-<br><br>
-**Papers:** <a href="http://mgharvey.github.io/docs/Harveyetal2017b.pdf" target="_blank">Harvey et al. 2017</a>, <a href="http://mgharvey.github.io/docs/Limetal2017.pdf" target="_blank">Lim et al. 2017</a>, <a href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2001073" target="_blank">Smith et al. 2017</a>, <a href="http://mgharvey.github.io/docs/Smithetal2014b.pdf" target="_blank">Smith et al. 2014</a>
-<br><br>
-
-## Macroevolutionary impacts of population-level processes
+## Global dynamics of speciation and diversity in birds
 ***
 
 ![bamm!](/images/bamm.png)
 <br><br>
-**Main collaborators:** <a href="https://briantilstonsmith.wordpress.com/" target="_blank">Brian Tilston Smith</a> (AMNH), Glenn Seeholzer (AMNH), <a href="http://www.raboskylab.org/" target="_blank">Dan Rabosky</a> (UMich), <a href="https://sites01.lsu.edu/faculty/brumfieldlab/" target="_blank">Robb Brumfield</a> (LSU)
-<br><br>
-Although diversity within species varies widely, this variation may or may not persist over long evolutionary timescales to impact trends in species diversity. I combine population genetic data on intraspecific diversity with phylogenetic data on species diversification through time to assess the links between diversity across timescales. If population-level patterns persist to macroevolutionary timescales, this supports the general evolutionary importance of processes at work within species. Alternatively, population-level processes may be ephemeral and secondary to other limits on species proliferation.
-<br><br>
-**Papers:** <a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-110218-024701" target="_blank"><a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-110218-024701" target="_blank">Harvey et al. 2019</a>, <a href="http://mgharvey.github.io/docs/Harveyetal2017.pdf" target="_blank">Harvey et al. 2017</a>
+The number of species varies dramatically across geographic regions and among taxonomic groups. New technologies and approaches now allow investigation into the mechanisms responsible for new species formation on a large scale. We are leveraging these data sources to conduct comparative studies of speciation in birds from different groups and geographic areas, including birds from groups or regions that are poorly represented in speciation research. These studies are key to understanding general features of speciation and for highlighting those aspects of speciation that are unique to particular situations. 
 <br><br>
 
-## Applications of genomic data to comparative studies of non-model organisms
+## Population genetics and speciation in Sky Island birds
+***
+
+![genomics!](/images/sacramentomtns.png)
+<br><br>
+**Main collaborators:** <a href="https://briantilstonsmith.wordpress.com/" target="_blank">Brian Tilston Smith</a> (AMNH), Glenn Seeholzer (AMNH), <a href="http://www.raboskylab.org/" target="_blank">Dan Rabosky</a> (UMich), <a href="https://sites01.lsu.edu/faculty/brumfieldlab/" target="_blank">Robb Brumfield</a> (LSU)
+<br><br>
+The American Southwest is dotted with mountain ranges that rise out of the desert lowlands and sustain patches of high-elevation forest (“Sky Islands”). Populations of birds that live in these forests are separated from one another by the intervening desert, thereby forming a network of many isolated populations. These networks provide a natural laboratory for studying demographic processes including the rates that new populations form, how long they persist, and whether and to what degree they exchange migrants. In an evolutionary context, these processes are key to species formation and persistence, but they have been difficult to study on large spatial scales of evolutionary relevance. Our lab uses field inventories, environmental modeling, and population genomics to quantify these processes. We also leverage the diverse avifauna of Sky Islands to conduct comparative studies addressing general questions about the origins and maintenance of species diversity.  
+<br><br>
+
+## Comparative methods development
 ***
 
 ![genomics!](/images/genomics.png)
 <br><br>
-**Main collaborators:** <a href="http://faircloth-lab.org/" target="_blank">Brant Faircloth</a> (LSU), <a href="http://baddna.org/Welcome.html" target="_blank">Travis Glenn</a> (UGA), <a href="https://briantilstonsmith.wordpress.com/" target="_blank">Brian Tilston Smith</a> (AMNH), <a href="https://sites.oxy.edu/mccormack/" target="_blank">John McCormack</a> (Occidental), <a href="https://sites01.lsu.edu/faculty/brumfieldlab/" target="_blank">Robb Brumfield</a> (LSU)
-<br><br>
-New DNA sequencing technologies are able to produce massive amounts of genetic data, but their application to research in non-model organisms is in its infancy. I have been working to develop and test approaches for obtaining data appropriate for comparative evolutionary studies. We developed a method involving sequence capture of markers linked to highly conserved regions of the genome (<a href="http://www.ultraconserved.org" target="_blank">Ultraconserved elements</a>). I have also been working with restriction digest associated DNA sequencing (RAD-Seq) and whole-genome resequencing. I have developed laboratory protocols, bioinformatics pipelines, and analytical tools that allow these powerful genomic techniques to be brought to bear on non-model species and samples from museum collections.
-<br><br>
-**Papers:** <a href="http://mgharvey.github.io/docs/Harveyetal2016.pdf" target="_blank">Harvey et al. 2016</a>, <a href="http://mgharvey.github.io/docs/Smithetal2014.pdf" target="_blank">Smith et al. 2014</a>, <a href="http://mgharvey.github.io/docs/Fairclothetal2012.pdf" target="_blank">Faircloth et al. 2012</a>
+New tools and technologies such as massively parallel DNA sequencing and high-throughput phenotyping, combined with better and faster computers, are revolutionizing the study of organismal diversity. We develop strategies and tools for leveraging these developments in the study of non-model organisms or for application to comparative multi-species projects. We have developed approaches for obtaining genomic data from non-model organisms, called sequence capture of ultraconserved elements (UCEs), and to develop fast tests for comparative analyses of trait-dependent diversification in large phylogenies. We continue to develop approaches for photogrammetry of museum specimens and other tools, and are excited to see what new tools in the future might be incorporated into diversification research. 
 <br><br>
 
-## Avian plumage evolution within and among species
+## Avian collections, systematics, ecology, and conservation
 ***
 
 ![plumage!](/images/photoscan.png)
 <br><br>
-**Main collaborators:** <a href="http://www.raboskylab.org/" target="_blank">Dan Rabosky</a> (UMich)
+We have diverse, long-term interests in birds and their ecology, taxonomy, and conservation. We also value natural history collections as a living record of changes in the natural world, and use them intensively in our research. These interests have spawned additional projects ranging from inventory work in the Amazon Basin, to monitoring of nocturnal migration, to comparative phylogeography of central Asian birds. We are excited to develop additional projects on birds of the American Southwest. 
 <br><br>
-Birds have varied and spectacular plumages, but the source of this diversity is still largely unknown. Do plumage differences between species originate from variation within species? At what rates do different plumage characters, such as color or pattern, change through evolutionary time? In order to address these questions, I am developing high-throughput methods to quantify plumage from museum specimens using full-spectrum digital imagery, photogrammetry, and computer vision and machine learning. 
 
+## Divergence, speciation, and diversity in the Amazon Basin
+***
+
+![structure!](/images/structure.png)
+<br><br>
+Our lab has a long-term interest in the birds of the Amazon Basin. The Amazon is the most diverse region on the planet, but we know little about its birds and evolutionary history. The sheer diversity of the region, however, provides numerous biological replicates that are invaluable for comparative research. We have worked extensively in the Peruvian, Brazilian, and Bolivian Amazon to understand bird distributions, characterize phylogeographic patterns, and identify rates and patterns of divergence between related populations. 
+<br><br>
