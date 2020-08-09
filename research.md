@@ -28,8 +28,6 @@ The number of species varies dramatically across geographic regions and among ta
 
 ![mountains!](/images/sacramentomtns.png)
 <br><br>
-**Main collaborators:** <a href="https://briantilstonsmith.wordpress.com/" target="_blank">Brian Tilston Smith</a> (AMNH), Glenn Seeholzer (AMNH), <a href="http://www.raboskylab.org/" target="_blank">Dan Rabosky</a> (UMich), <a href="https://sites01.lsu.edu/faculty/brumfieldlab/" target="_blank">Robb Brumfield</a> (LSU)
-<br><br>
 The American Southwest is dotted with mountain ranges that rise out of the desert lowlands and sustain patches of high-elevation forest (“Sky Islands”). Populations of birds that live in these forests are separated from one another by the intervening desert, thereby forming a network of many isolated populations. These networks provide a natural laboratory for studying demographic processes including the rates that new populations form, how long they persist, and whether and to what degree they exchange migrants. In an evolutionary context, these processes are key to species formation and persistence, but they have been difficult to study on large spatial scales of evolutionary relevance. Our lab uses field inventories, environmental modeling, and population genomics to quantify these processes. We also leverage the diverse avifauna of Sky Islands to conduct comparative studies addressing general questions about the origins and maintenance of species diversity.  
 <br><br>
 
