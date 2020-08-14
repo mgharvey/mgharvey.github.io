@@ -17,5 +17,5 @@ Assistant Professor, Department of Biological Sciences
 Curator, Biodiversity Collections
 <br>
 The University of Texas at El Paso
-<div markdown="0"><a href="http://mgharvey.github.io/docs/Harvey_CV_8.14.20.pdf" class="btn">Curriculum Vitae</a></div>
+<div markdown="0"><a href="http://mgharvey.github.io/docs/Harvey_CV.pdf" class="btn">Curriculum Vitae</a></div>
 
