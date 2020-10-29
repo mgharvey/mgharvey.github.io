@@ -12,11 +12,11 @@ image:
 
 ***
 
-* <u>Harvey MG</u>, Bravo GA, Claramunt S, Cuervo AM, Derryberry GE, Battilana J, Seeholzer GF, Shearer McKay J, O'Meara BC, Faircloth BC, Edwards SV, Pérez-Emán J, Moyle RG, Sheldon FH, Aleixo A, Smith BT, Chesser RT, Silveira LF, Cracraft J, Brumfield RT, Derryberry EP. In review. **The evolution of a tropical biodiversity hotspot.**
-
 * Smith BT, Gehara M, <u>Harvey MG</u>. In review. **The demography of extinction in eastern North American birds**.
 
-* Moncrieff AE, Johnson O, Felix C, Hiller A, Corbett E, Brady M, Seeholzer G, Bautista E, Lane DF, <u>Harvey MG</u>. In review. **Avifaunal surveys in the central Peruvian Amazon clarify range limits and highlight links between avian and habitat diversity**. 
+* Moncrieff AE, Johnson O, Felix C, Hiller A, Corbett E, Brady M, Seeholzer G, Bautista E, Lane DF, <u>Harvey MG</u>. In review. **Avifaunal surveys in the central Peruvian Amazon clarify range limits and highlight links between avian and habitat diversity**.
+
+* <u>Harvey MG</u>, Bravo GA, Claramunt S, Cuervo AM, Derryberry GE, Battilana J, Seeholzer GF, Shearer McKay J, O'Meara BC, Faircloth BC, Edwards SV, Pérez-Emán J, Moyle RG, Sheldon FH, Aleixo A, Smith BT, Chesser RT, Silveira LF, Cracraft J, Brumfield RT, Derryberry EP. In press. **The evolution of a tropical biodiversity hotspot.** *Science*.
 
 * Chesser RT, <u>Harvey MG</u>, Brumfield RT, Derryberry EP. 2020. **A revised classification of the Xolmiini (Aves: Tyrannidae: Fluvicolinae), including a new genus for *Muscisaxicola fluviatilis***. *Proceedings of the Biological Society of Washington*. 133: 35-48. <a href="https://mgharvey.github.io/docs/Chesseretal2020.pdf" target="_blank">(pdf)</a>
 
@@ -30,11 +30,11 @@ image:
 
 * Oliveros CH, Field DJ, Ksepka DT, Barker FK, Aleixo A, Andersen MJ, Alström P, Benz BW, Braun EL, Braun MJ, Bravo GA, Brumfield RT, Chesser RT, Claramunt S, <u>Harvey MG</u>, Hosner PA, Joseph L, Kimball R, Mack AL, Miskelly CM, Peterson AT, Robbins MB, Sheldon FH, Silveira LF, Smith BT, White ND, Moyle RG, Faircloth BC. 2019. **Earth history and the passerine superradiation**. *Proceedings of the National Academy of Sciences* 116: 7916-7925. <a href="https://www.pnas.org/content/116/16/7916" target="_blank">(html)</a> <a href="https://www.pnas.org/content/pnas/116/16/7916.full.pdf" target="_blank">(pdf)</a>
 
-* Oswald JA, <u>Harvey MG</u>, Remsen RC, Foxworth DU, Dittmann DL, Cardiff SW, Brumfield RT. 2019. **Evolutionary dynamics of hybridization and introgression following the recent colonization of Glossy Ibis (Aves; *Plegadis falcinellus*) into the New World**. *Molecular Ecology* 28: 1675-1691. <a href="https://mgharvey.github.io/docs/Oswaldetal2019.pdf" target="_blank">(pdf)</a> <a href="https://www.ncbi.nlm.nih.gov//bioproject/506077" target="_blank">(data)</a> 
+* Oswald JA, <u>Harvey MG</u>, Remsen RC, Foxworth DU, Dittmann DL, Cardiff SW, Brumfield RT. 2019. **Evolutionary dynamics of hybridization and introgression following the recent colonization of Glossy Ibis (Aves; *Plegadis falcinellus*) into the New World**. *Molecular Ecology* 28: 1675-1691. <a href="https://mgharvey.github.io/docs/Oswaldetal2019.pdf" target="_blank">(pdf)</a> <a href="https://www.ncbi.nlm.nih.gov//bioproject/506077" target="_blank">(data)</a>
 
 * <u>Harvey MG</u>, Rabosky DL. 2018. **Continuous traits and speciation rates: Alternatives to state-dependent diversification models**. *Methods in Ecology and Evolution* 9: 984-993. <a href="https://mgharvey.github.io/docs/HarveyRabosky2018.pdf" target="_blank">(pdf)</a> <a href="https://github.com/mgharvey/ES-sim/tree/1.1" target="_blank">(code/data)</a>
 
-* <u>Harvey MG</u>, Aleixo A, Ribas CC, Brumfield RT. 2017. **Habitat association predicts genetic diversity and population divergence in Amazonian birds**. *American Naturalist* 190: 631-648. <a href="https://mgharvey.github.io/docs/Harveyetal2017b.pdf" target="_blank">(pdf)</a> <a href="https://mgharvey.github.io/docs/Harveyetal2017b_supplement.zip" target="_blank"> (supplement)</a> <a href="https://www.ncbi.nlm.nih.gov//bioproject/389814" target="_blank">(data)</a> 
+* <u>Harvey MG</u>, Aleixo A, Ribas CC, Brumfield RT. 2017. **Habitat association predicts genetic diversity and population divergence in Amazonian birds**. *American Naturalist* 190: 631-648. <a href="https://mgharvey.github.io/docs/Harveyetal2017b.pdf" target="_blank">(pdf)</a> <a href="https://mgharvey.github.io/docs/Harveyetal2017b_supplement.zip" target="_blank"> (supplement)</a> <a href="https://www.ncbi.nlm.nih.gov//bioproject/389814" target="_blank">(data)</a>
 
 * <u>Harvey MG</u>, Seeholzer GF, Smith BT, Rabosky DL, Cuervo AM, Brumfield RT. 2017. **Positive association between population genetic differentiation and speciation rates in New World birds**. *Proceedings of the National Academy of Sciences* 114: 6328-6333. <a href="https://mgharvey.github.io/docs/Harveyetal2017.pdf" target="_blank">(pdf)</a> <a href="https://github.com/mgharvey/differentiation_speciation" target="_blank">(code/data)</a>
 
@@ -58,7 +58,7 @@ image:
 
 * <u>Harvey MG</u>, Judy CD, Seeholzer GF, Maley JM, Graves GR, Brumfield RT. 2015. **Similarity thresholds used in DNA sequence assembly from short reads can reduce the comparability of population histories across species**. *PeerJ* 3: e895. <a href="https://peerj.com/articles/895/" target="_blank">(html)</a> <a href="https://peerj.com/articles/895.pdf" target="_blank">(pdf)</a>
 
-* <u>Harvey MG</u>, Brumfield RT. 2015. **Genomic variation in a widespread Neotropical bird (*Xenops minutus*) reveals divergence, population expansion, and gene flow**. *Molecular Phylogenetics and Evolution* 83: 305-316. <a href="https://mgharvey.github.io/docs/HarveyBrumfield2014.pdf" target="_blank">(pdf)</a> 
+* <u>Harvey MG</u>, Brumfield RT. 2015. **Genomic variation in a widespread Neotropical bird (*Xenops minutus*) reveals divergence, population expansion, and gene flow**. *Molecular Phylogenetics and Evolution* 83: 305-316. <a href="https://mgharvey.github.io/docs/HarveyBrumfield2014.pdf" target="_blank">(pdf)</a>
 
 * Smith BT, McCormack JE, Cuervo AM, Hickerson MJ, Aleixo A, Cadena CD, Pérez Eman JE, Burney CW, Xie X, <u>Harvey MG</u>, Faircloth BC, Glenn TC, Derryberry EP, Prejean J, Fields S, Brumfield RT. 2014. **The drivers of tropical speciation**. *Nature* 515: 406-409. <a href="https://mgharvey.github.io/docs/Smithetal2014b.pdf" target="_blank">(pdf)</a> <a href="https://mgharvey.github.io/docs/Smithetal2014b_supplemental.pdf" target="_blank">(supplemental)</a>
 
