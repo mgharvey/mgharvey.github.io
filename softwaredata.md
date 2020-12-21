@@ -19,6 +19,10 @@ We try to make all our data and software freely available and easily accessible.
 # Software
 ***
 
+# <a href="https://github.com/mgharvey/tyranni" target="_blank">tyranni</a>
+
+Phylogenies, sequence alignments, and other protocols, data, and code used to examine diversification in suboscine passerines (Harvey et al. 2020).
+
 # <a href="https://github.com/mgharvey/ES-sim" target="_blank">ES-sim</a>
 
 A simple, simulation-based test for trait-dependent diversification (Harvey and Rabosky 2018).
