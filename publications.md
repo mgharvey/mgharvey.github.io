@@ -16,7 +16,7 @@ image:
 
 * Moncrieff AE, Johnson O, Felix C, Hiller A, Corbett E, Brady M, Seeholzer G, Bautista E, Lane DF, <u>Harvey MG</u>. In review. **Avifaunal surveys in the central Peruvian Amazon clarify range limits and highlight links between avian and habitat diversity**.
 
-* <u>Harvey MG</u>, Bravo GA, Claramunt S, Cuervo AM, Derryberry GE, Battilana J, Seeholzer GF, Shearer McKay J, O'Meara BC, Faircloth BC, Edwards SV, Pérez-Emán J, Moyle RG, Sheldon FH, Aleixo A, Smith BT, Chesser RT, Silveira LF, Cracraft J, Brumfield RT, Derryberry EP. In press. **The evolution of a tropical biodiversity hotspot.** *Science* 370: 1343-1348. <a href="http://science.sciencemag.org/cgi/content/full/370/6522/1343?ijkey=nYOWIlTOWovKQ&keytype=ref&siteid=sci" target="_blank">(pdf)</a>
+* <u>Harvey MG</u>, Bravo GA, Claramunt S, Cuervo AM, Derryberry GE, Battilana J, Seeholzer GF, Shearer McKay J, O'Meara BC, Faircloth BC, Edwards SV, Pérez-Emán J, Moyle RG, Sheldon FH, Aleixo A, Smith BT, Chesser RT, Silveira LF, Cracraft J, Brumfield RT, Derryberry EP. In press. **The evolution of a tropical biodiversity hotspot.** *Science* 370: 1343-1348. <a href="http://science.sciencemag.org/cgi/content/full/370/6522/1343?ijkey=nYOWIlTOWovKQ&keytype=ref&siteid=sci" target="_blank">(full text)</a>
 
 * Chesser RT, <u>Harvey MG</u>, Brumfield RT, Derryberry EP. 2020. **A revised classification of the Xolmiini (Aves: Tyrannidae: Fluvicolinae), including a new genus for *Muscisaxicola fluviatilis***. *Proceedings of the Biological Society of Washington* 133: 35-48. <a href="https://mgharvey.github.io/docs/Chesseretal2020.pdf" target="_blank">(pdf)</a>
 
