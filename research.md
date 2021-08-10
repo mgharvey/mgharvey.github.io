@@ -20,7 +20,7 @@ The Harvey lab studies the origins of organismal diversity, often taking a compa
 
 ![tyranni!](/images/suboscines.png)
 <br><br>
-The number of species varies dramatically across geographic regions and among taxonomic groups. New technologies and approaches now allow investigation into the mechanisms responsible for new species formation on a large scale. We are leveraging these data sources to conduct comparative studies of speciation in birds from different groups and geographic areas, including birds from groups or regions that are poorly represented in speciation research. These studies are key to understanding general features of speciation and for highlighting those aspects of speciation that are unique to particular situations. 
+The number of species varies dramatically across geographic regions and among taxonomic groups. New technologies and approaches now allow investigation into the mechanisms responsible for new species formation on a large scale. We are leveraging these data sources to conduct comparative studies of speciation in birds from different groups and geographic areas, including birds from groups or regions that are poorly represented in speciation research. These studies are key to understanding general features of speciation and for highlighting those aspects of speciation that are unique to particular situations.
 <br><br>
 
 ## Population genetics and speciation in Sky Island birds
@@ -36,7 +36,7 @@ The American Southwest is dotted with mountain ranges that rise out of the deser
 
 ![genomics!](/images/genomics.png)
 <br><br>
-New tools and technologies such as massively parallel DNA sequencing and high-throughput phenotyping, combined with better and faster computers, are revolutionizing the study of organismal diversity. We develop strategies and tools for leveraging these developments in the study of non-model organisms or for application to comparative multi-species projects. We have developed approaches for obtaining genomic data from non-model organisms, called sequence capture of ultraconserved elements (UCEs), and to develop fast tests for comparative analyses of trait-dependent diversification in large phylogenies. We continue to develop approaches for photogrammetry of museum specimens and other tools, and are excited to see what new tools might be incorporated into future diversification research. 
+New tools and technologies such as massively parallel DNA sequencing and high-throughput phenotyping, combined with better and faster computers, are revolutionizing the study of organismal diversity. We develop strategies and tools for leveraging these developments in the study of non-model organisms or for application to comparative multi-species projects. We have developed approaches for obtaining genomic data from non-model organisms, called sequence capture of ultraconserved elements (UCEs), and to develop fast tests for comparative analyses of trait-dependent diversification in large phylogenies. We continue to develop approaches for photogrammetry of museum specimens and other tools, and are excited to see what new tools might be incorporated into future diversification research.
 <br><br>
 
 ## Avian collections, systematics, ecology, and conservation
@@ -44,7 +44,7 @@ New tools and technologies such as massively parallel DNA sequencing and high-th
 
 ![collections!](/images/photoscan.png)
 <br><br>
-We have diverse, long-term interests in birds and their ecology, taxonomy, and conservation. We also value natural history collections as a living record of changes in the natural world, and use them intensively in our research. These interests have spawned additional projects ranging from inventory work in the Amazon Basin, to monitoring of nocturnal migration, to comparative phylogeography of central Asian birds. We are excited to develop additional projects on birds of the American Southwest. 
+We have diverse, long-term interests in birds and their ecology, taxonomy, and conservation. We also value natural history collections as a living record of changes in the natural world, and use them intensively in our research. These interests have spawned additional projects ranging from inventory work in the Amazon Basin, to monitoring of nocturnal migration, to comparative phylogeography of central Asian birds. We are excited to develop additional projects on birds of the American Southwest.
 <br><br>
 
 ## Divergence, speciation, and diversity in the Amazon Basin
@@ -52,5 +52,5 @@ We have diverse, long-term interests in birds and their ecology, taxonomy, and c
 
 ![structure!](/images/structure.png)
 <br><br>
-Our lab has a long-term interest in the birds of the Amazon Basin. The Amazon is the most diverse region on the planet, but we know little about its birds and evolutionary history. The sheer diversity of the region, however, provides numerous biological replicates that are invaluable for comparative research. We have worked extensively in the Peruvian, Brazilian, and Bolivian Amazon to understand bird distributions, characterize phylogeographic patterns, and identify rates and patterns of divergence between related populations. 
+Our lab has a long-term interest in the birds of the Amazon Basin. The Amazon is the most diverse region on the planet, but we know little about its birds and evolutionary history. The sheer diversity of the region, however, provides numerous biological replicates that are invaluable for comparative research. We have worked extensively in the Peruvian, Brazilian, and Bolivian Amazon to understand bird distributions, characterize phylogeographic patterns, and identify rates and patterns of divergence between related populations.
 <br><br>
