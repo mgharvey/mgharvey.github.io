@@ -5,13 +5,13 @@ url:              https://www.mgharvey.org
 relative_permalinks: false
 
 # Owner/author information
-owner:            
+owner:
   name:           Harvey Lab | UTEP
   avatar:         logo.png
   bio:            ""
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   email: mgh272@gmail.com
-  twitter: michaelgharvey
+  twitter: harveylab1
   github: mgharvey
   google-scholar: citations?user=vV6SsisAAAAJ&hl=en
 
