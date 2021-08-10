@@ -17,7 +17,7 @@ image:
 We are seeking motivated graduate students as well as a lab manager/technician. For more information, please contact mgharvey@utep.edu.
 <br><br>
 
-<img align="left" src="/images/harvey.jpg">
+<img align="left" src="/images/harvey.jpg" alt="harvey" width="200"/>
 # Mike Harvey (Principal Investigator)
 <br><br>
 Dr. Harvey is interested in the origins and maintenance of diversity at all taxonomic and geographic scales.
@@ -31,7 +31,7 @@ Dr. Johnson is coming to the lab as an NSF Postdoctoral Research in Biology fell
 <br><br>
 <a href="https://www.oscarjohnson.net/" target="_blank">Personal Website</a>
 
-![Buontempo](/images/buontempo.jpg)
+![Buontempo](/images/buontempo.jpeg)
 # Michael Buontempo (PhD Student)
 <br><br>
 Michael is pursuing doctoral research on the geographic variation and phylogeography of snakes in the Sierra Madre Occidental and Madrean Sky Islands of the desert southwest. He is co-advised with <a href="https://www.utep.edu/science/lavretskylab/" target="_blank">Dr. Phil Lavretsky</a>.
