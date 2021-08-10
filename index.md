@@ -6,16 +6,12 @@ image:
   feature: tapajos.jpg
 ---
 
-Welcome to the website for the Harvey Lab at the University of Texas at El Paso. We study birds with a focus on diversity, genomics, and evolution. 
-<br><br>
-Principal Investigator:
-<br>
-Dr. Michael G. Harvey
-<br>
-Assistant Professor, Department of Biological Sciences
-<br>
-Curator, Biodiversity Collections
-<br>
-The University of Texas at El Paso
-<div markdown="0"><a href="http://mgharvey.github.io/docs/Harvey_CV.pdf" class="btn">Curriculum Vitae</a></div>
+Welcome to the website for the Harvey Lab at the University of Texas at El Paso. We study birds with a focus on diversity, genomics, and evolution.
 
+# News!
+
+***
+
+### The lab is expanding!
+We are seeking motivated graduate students as well as a lab manager/technician. For more information, please contact us (see contact links in the sidebar).
+<br><br>

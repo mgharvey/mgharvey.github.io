@@ -13,7 +13,7 @@ image:
 ***
 
 ### The lab is expanding!
-We are seeking motivated graduate students as well as a lab manager/technician. For more information, please contact mgharvey@utep.edu.
+We are seeking motivated graduate students as well as a lab manager/technician. For more information, please contact us (see contact links in the sidebar).
 <br><br>
 
 ***
