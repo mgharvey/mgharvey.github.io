@@ -13,15 +13,15 @@ image:
 ***
 
 # The lab is expanding!
-<br><br>
+<br>
 We are seeking motivated graduate students as well as a lab manager/technician. For more information, please contact mgharvey@utep.edu.
 <br><br>
 
-<img align="left" src="/images/harvey.jpg" alt="harvey" width="200"/>
+<img align="left" src="/images/harvey.jpg" alt="harvey" width="200" hspace="50"/>
 # Mike Harvey (Principal Investigator)
-<br><br>
+<br>
 Dr. Harvey is interested in the origins and maintenance of diversity at all taxonomic and geographic scales.
-<br><br>
+<br>
 <a href="http://mgharvey.github.io/docs/Harvey_CV.pdf" target="_blank">Curriculum Vitae</a>
 
 ![Johnson](/images/johnson.jpg)
