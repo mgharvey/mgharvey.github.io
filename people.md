@@ -28,7 +28,7 @@ See his <a href="http://mgharvey.github.io/docs/Harvey_CV.pdf" target="_blank">C
 
 <img align="left" src="/images/johnson.jpg" alt="johnson" width="140" hspace="10"/>
 ### Oscar Johnson (Postdoctoral Fellow)
-Oscar is coming to the lab as an NSF Postdoctoral Research in Biology fellow. He will build off his doctoral research on phylogenetics and the biogeography of speciation to study the macroevolutionary dynamics of avian migration and its impact on diversity. See his <a href="https://www.oscarjohnson.net/" target="_blank">website</a> for more info.
+Oscar is coming to the lab as an NSF Postdoctoral Fellow. He will build off his doctoral research on phylogenetics and the biogeography of speciation to study the macroevolutionary dynamics of avian migration and its impact on diversity. See his <a href="https://www.oscarjohnson.net/" target="_blank">website</a> for more info.
 <br><br>
 
 ***
