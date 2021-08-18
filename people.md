@@ -35,7 +35,7 @@ Oscar is coming to the lab as an NSF Postdoctoral Fellow. He will build off his 
 
 <img align="left" src="/images/buontempo.jpeg" alt="buontempo" width="140" hspace="10"/>
 ### Michael Buontempo (PhD Student)
-Michael is pursuing doctoral research on the geographic variation and phylogeography of snakes in the Sierra Madre Occidental and Madrean Sky Islands of the desert southwest. He is co-advised with <a href="https://www.utep.edu/science/lavretskylab/" target="_blank">Dr. Phil Lavretsky</a>.
+Michael is pursuing doctoral research on the geographic variation and phylogeography of montane rattlesnakes in the Sierra Madre Occidental and Madrean Sky Islands of the desert southwest. He is co-advised with <a href="https://www.utep.edu/science/lavretskylab/" target="_blank">Dr. Phil Lavretsky</a>.
 <br><br>
 
 ***
