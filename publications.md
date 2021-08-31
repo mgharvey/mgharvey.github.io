@@ -12,9 +12,9 @@ image:
 
 ***
 
-* Singhal S, Derryberry GE, Bravo GA, Derryberry EP, Brumfield RT, <u>Harvey MG</u>. In review. **The dynamics of introgression across an avian radiation**.
+* Singhal S, Derryberry GE, Bravo GA, Derryberry EP, Brumfield RT, <u>Harvey MG</u>. In press. **The dynamics of introgression across an avian radiation**. *Evolution Letters*.
 
-* Stopiglia R, Barbosa W, Ferreira M, Raposo MA Dubois A, <u>Harvey MG</u>, Kirwan GM, Forcato G, Bockmann FA, Ribas CC. In review. **Taxonomic challenges posed by discordant evolutionary scenarios supported by molecular and morphological data in the Amazonian *Synallaxis rutilans* group (Aves: Furnariidae)**.
+* Stopiglia R, Barbosa W, Ferreira M, Raposo MA Dubois A, <u>Harvey MG</u>, Kirwan GM, Forcato G, Bockmann FA, Ribas CC. In press. **Taxonomic challenges posed by discordant evolutionary scenarios supported by molecular and morphological data in the Amazonian *Synallaxis rutilans* group (Aves: Furnariidae)**. *Zoological Journal of the Linnean Society*.
 
 * Moncrieff AE, Johnson O, Felix C, Hiller A, Corbett E, Brady M, Seeholzer G, Bautista E, Lane DF, <u>Harvey MG</u>. In press. **Avifaunal surveys in the central Peruvian Amazon clarify range limits and highlight links between avian and habitat diversity**. *Wilson Journal of Ornithology*.
 
