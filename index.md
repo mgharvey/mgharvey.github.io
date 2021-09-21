@@ -13,5 +13,5 @@ Welcome to the website for the Harvey Lab at the University of Texas at El Paso.
 ***
 
 ### The lab is expanding!
-We are seeking motivated graduate students as well as a lab manager/technician. For more information, please contact us (see contact links in the sidebar).
+We are seeking motivated graduate students as well as a lab manager/technician. Please see the People page for more information.
 <br><br>

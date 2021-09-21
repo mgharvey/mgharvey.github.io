@@ -13,7 +13,13 @@ image:
 ***
 
 ### The lab is expanding!
-We are seeking motivated graduate students as well as a lab manager/technician. For more information, please contact us (see contact links in the sidebar).
+
+We are seeking motivated graduate students as well as a post-bac lab manager/technician. 
+
+### Graduate Positions
+
+Are you interested in birds, genetics, evolution, the desert southwest, or the Neotropics? We are looking for motivated graduate students (Ph.D. or Master's) to start Fall 2022. Potential projects include phylogenomics and diversification of suboscine birds, dispersal and population structure of bird communities in the borderland region, computational and comparative methods development, and other projects related at least loosely to the work done in the lab (see projects below). We are committed to supporting a diverse group of scientists, including poeple of color, students from underrepresented regions and first-generation students, LGBTQIA+ students, and others. We will support students in developing diverse research skills for careers in academia or industry or nonprofit careers. Ph.D. students have guaranteed support through RA's/TA's. El Paso is a fantastic place to live and work with dynamic culture and food, friendly people, mountains and desert right around the city, and access within a few hours to areas as diverse as southeastern Arizona, the mountains of New Mexico, Big Bend, and the Sierra Madre Occidental in Chihuahua. Applications are due in January, but please reach out in advance if you are interested or want more information (see contact links in the sidebar).
+
 <br><br>
 
 ***
