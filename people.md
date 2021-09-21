@@ -7,7 +7,7 @@ tags: [about, people]
 modified: 8-10-21
 comments: true
 image:
-  feature: boat.jpg
+  feature: elpaso.jpg
 ---
 
 ***
