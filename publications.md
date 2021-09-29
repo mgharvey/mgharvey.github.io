@@ -12,13 +12,13 @@ image:
 
 ***
 
-* Singhal S, Derryberry GE, Bravo GA, Derryberry EP, Brumfield RT, <u>Harvey MG</u>. In press. **The dynamics of introgression across an avian radiation**. *Evolution Letters*.
+* Singhal S, Derryberry GE, Bravo GA, Derryberry EP, Brumfield RT, <u>Harvey MG</u>. In press. **The dynamics of introgression across an avian radiation**. *Evolution Letters*. <a href="https://mgharvey.github.io/docs/Singhaletal2021.pdf" target="_blank">(pdf)</a>
 
 * Stopiglia R, Barbosa W, Ferreira M, Raposo MA Dubois A, <u>Harvey MG</u>, Kirwan GM, Forcato G, Bockmann FA, Ribas CC. In press. **Taxonomic challenges posed by discordant evolutionary scenarios supported by molecular and morphological data in the Amazonian *Synallaxis rutilans* group (Aves: Furnariidae)**. *Zoological Journal of the Linnean Society*.
 
-* Moncrieff AE, Johnson O, Felix C, Hiller A, Corbett E, Brady M, Seeholzer G, Bautista E, Lane DF, <u>Harvey MG</u>. In press. **Avifaunal surveys in the central Peruvian Amazon clarify range limits and highlight links between avian and habitat diversity**. *Wilson Journal of Ornithology*.
+* Moncrieff AE, Johnson O, Felix C, Hiller A, Corbett E, Brady M, Seeholzer G, Bautista E, Lane DF, <u>Harvey MG</u>. In press. **Avifaunal surveys in the central Peruvian Amazon clarify range limits and highlight links between avian and habitat diversity**. *Wilson Journal of Ornithology* 132: 934-951. <a href="https://mgharvey.github.io/docs/Moncrieffetal2020.pdf" target="_blank">(pdf)</a>
 
-* Smith BT, Gehara M, <u>Harvey MG</u>. 2021. **The demography of extinction in eastern North American birds**. *Proceedings of the Royal Society B* 1944: 20201945.
+* Smith BT, Gehara M, <u>Harvey MG</u>. 2021. **The demography of extinction in eastern North American birds**. *Proceedings of the Royal Society B* 288: 20201945. <a href="https://mgharvey.github.io/docs/Smithetal2021.pdf" target="_blank">(pdf)</a>
 
 * <u>Harvey MG</u>, Bravo GA, Claramunt S, Cuervo AM, Derryberry GE, Battilana J, Seeholzer GF, Shearer McKay J, O'Meara BC, Faircloth BC, Edwards SV, Pérez-Emán J, Moyle RG, Sheldon FH, Aleixo A, Smith BT, Chesser RT, Silveira LF, Cracraft J, Brumfield RT, Derryberry EP. 2020. **The evolution of a tropical biodiversity hotspot.** *Science* 370: 1343-1348. <a href="http://science.sciencemag.org/cgi/content/full/370/6522/1343?ijkey=nYOWIlTOWovKQ&keytype=ref&siteid=sci" target="_blank">(full text)</a> <a href="https://mgharvey.github.io/docs/Harveyetal2020_Fig1_tree_HiRes.pdf" target="_blank">(hi-res tree)</a>
 
