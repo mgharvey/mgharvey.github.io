@@ -1,4 +1,4 @@
-r---
+---
 layout: page
 permalink: /people/
 title: People
@@ -14,7 +14,7 @@ image:
 
 ### The lab is expanding!
 
-We are seeking motivated graduate students as well as a post-bac lab manager/technician. 
+We are seeking motivated graduate students as well as a post-bac lab manager/technician.
 
 ### Graduate Positions
 
