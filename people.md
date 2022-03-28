@@ -81,8 +81,9 @@ Pablo is a DETAILS UTEP undergraduate student pursuing DETAILS. He is interested
 <br><br>
 
 ***
-### Past People
 
+<br><br>
+### Past People
 ***
 
 <img align="left" src="/images/beres.jpg" alt="beres" width="140" hspace="10"/>
