@@ -9,9 +9,6 @@ comments: true
 image:
   feature: elpaso.jpg
 ---
-
-
-### Current People
 ***
 
 <img align="left" src="/images/harvey.jpg" alt="harvey" width="140" hspace="10"/>
