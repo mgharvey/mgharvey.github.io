@@ -13,7 +13,7 @@ image:
 
 <img align="left" src="/images/harvey.jpg" alt="harvey" width="140" hspace="10"/>
 ### Mike Harvey (Principal Investigator)
-Dr. Harvey is interested in the origins and maintenance of diversity at all taxonomic and geographic scales. He has been a birder most of his life, and fell in love with evolutionary biology in college. He also enjoys trail running, rock climbing, baking, and live music.
+Mike is interested in the origins and maintenance of diversity at all taxonomic and geographic scales. He has been a birder most of his life, and fell in love with evolutionary biology in college. He also enjoys trail running, rock climbing, baking, and live music.
 See his <a href="http://mgharvey.github.io/docs/Harvey_CV.pdf" target="_blank">CV</a> for more info.
 <br><br>
 
