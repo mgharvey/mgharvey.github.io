@@ -42,42 +42,42 @@ Michael is pursuing doctoral research on the geographic variation and phylogeogr
 
 <img align="left" src="/images/larrieu.jpg" alt="larrieu" width="140" hspace="10"/>
 ### Ximena Larrieu (Undergraduate Student)
-Ximena is a DETAILS UTEP undergraduate student pursuing DETAILS. She is interested in DETAILS.
+Ximena is a third-year UTEP undergraduate student pursuing a degree in Environmental Sciences. She is interested in diverse aspects of sky island biology.
 <br><br>
 
 ***
 
 <img align="left" src="/images/rodriguez.jpg" alt="rodriguez" width="140" hspace="10"/>
 ### Eduardo Rodriguez (Undergraduate Student)
-Eduardo is a DETAILS UTEP undergraduate student pursuing DETAILS. He is interested in DETAILS.
+Eduardo is a third-year UTEP undergraduate student pursuing a degree in Biological Sciences with a Biomedicine concentration. He is interested in pursuing an MD/PhD.
 <br><br>
 
 ***
 
 <img align="left" src="/images/santillana.jpg" alt="santillana" width="140" hspace="10"/>
 ### Uriel Santillana (Undergraduate Student)
-Uriel is a DETAILS UTEP undergraduate student pursuing DETAILS. He is interested in DETAILS.
+Uriel is a senior UTEP undergraduate student pursuing a degree in Biological Sciences with a Biomedicine concentration. He is interested in birds and museum work.
 <br><br>
 
 ***
 
 <img align="left" src="/images/sarinana.jpg" alt="sarinana" width="140" hspace="10"/>
 ### Andrea Sarinana (Undergraduate Student)
-Andrea is a DETAILS UTEP undergraduate student pursuing DETAILS. She is interested in DETAILS.
+Andrea is a third-year UTEP undergraduate student pursuing a degree in Biological Sciences with a Biomedicine concentration. She is interested in medicine and oncology.
 <br><br>
 
 ***
 
 <img align="left" src="/images/solism.jpg" alt="solism" width="140" hspace="10"/>
 ### Miguel Solis (Undergraduate Student)
-Miguel is a DETAILS UTEP undergraduate student pursuing DETAILS. He is interested in DETAILS.
+Miguel is a fourth-year UTEP undergraduate student pursuing a degree in Biological Sciences with a Ecology and Evolutionary Biology concentration. He is interested in bioinformatics and computational science.
 <br><br>
 
 ***
 
 <img align="left" src="/images/solisp.jpg" alt="solisp" width="140" hspace="10"/>
 ### Pablo Solis (Undergraduate Student)
-Pablo is a DETAILS UTEP undergraduate student pursuing DETAILS. He is interested in DETAILS.
+Pablo is a third-year UTEP undergraduate student pursuing in Forensic Biology. He is interested in molecular biology and genetics.
 <br><br>
 
 ***
