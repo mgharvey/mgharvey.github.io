@@ -88,5 +88,5 @@ Pablo is a DETAILS UTEP undergraduate student pursuing DETAILS. He is interested
 
 <img align="left" src="/images/beres.jpg" alt="beres" width="140" hspace="10"/>
 ### Bonnie Raechal Beres (Undergraduate REU Student)
-Bonnie Raechal is an undergraduate student from Saint Norbert College working in the lab for the summer of 2021 as part of the <a href="https://www.utep.edu/couri/programs/cdb-reu/" target="_blank">Chihuahuan Desert Biodiversity REU</a>. She is studying comparative population genetic structure in Sky Island birds of the borderlands region.
+Bonnie Raechal is an undergraduate student from Saint Norbert College who worked in the lab for the summer of 2021 as part of the <a href="https://www.utep.edu/couri/programs/cdb-reu/" target="_blank">Chihuahuan Desert Biodiversity REU</a>. She studied comparative population genetic structure in Sky Island birds of the borderlands region.
 <br><br>
