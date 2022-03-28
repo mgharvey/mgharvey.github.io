@@ -22,6 +22,7 @@ Are you interested in birds, genomics, evolution, the desert southwest, or the N
 
 <br><br>
 
+### Current People
 ***
 
 <img align="left" src="/images/harvey.jpg" alt="harvey" width="140" hspace="10"/>
@@ -39,6 +40,13 @@ Oscar is coming to the lab as an NSF Postdoctoral Fellow. He will build off his 
 
 ***
 
+<img align="left" src="/images/brady.jpg" alt="brady" width="140" hspace="10"/>
+### Matthew Brady (Collections Specialist)
+Matt is responsible for collections and laboratory management in the lab and in the avian holdings of the <a href="https://www.utep.edu/biodiversity/" target="_blank">UTEP Biodiversity Collections</a>. Matt has a long-term interest in ornithology, field work, and museum research.
+<br><br>
+
+***
+
 <img align="left" src="/images/buontempo.jpeg" alt="buontempo" width="140" hspace="10"/>
 ### Michael Buontempo (PhD Student)
 Michael is pursuing doctoral research on the geographic variation and phylogeography of montane rattlesnakes in the Sierra Madre Occidental and Madrean Sky Islands of the desert southwest. He is co-advised with <a href="https://www.utep.edu/science/lavretskylab/" target="_blank">Dr. Phil Lavretsky</a>.
@@ -46,9 +54,52 @@ Michael is pursuing doctoral research on the geographic variation and phylogeogr
 
 ***
 
+<img align="left" src="/images/larrieu.jpg" alt="larrieu" width="140" hspace="10"/>
+### Ximena Larrieu (Undergraduate Student)
+Ximena is a DETAILS UTEP undergraduate student pursuing DETAILS. She is interested in DETAILS.
+<br><br>
+
+***
+
+<img align="left" src="/images/rodriguez.jpg" alt="rodriguez" width="140" hspace="10"/>
+### Eduardo Rodriguez (Undergraduate Student)
+Eduardo is a DETAILS UTEP undergraduate student pursuing DETAILS. He is interested in DETAILS.
+<br><br>
+
+***
+
+<img align="left" src="/images/santillana.jpg" alt="santillana" width="140" hspace="10"/>
+### Uriel Santillana (Undergraduate Student)
+Uriel is a DETAILS UTEP undergraduate student pursuing DETAILS. He is interested in DETAILS.
+<br><br>
+
+***
+
+<img align="left" src="/images/sarinana.jpg" alt="sarinana" width="140" hspace="10"/>
+### Andrea Sarinana (Undergraduate Student)
+Andrea is a DETAILS UTEP undergraduate student pursuing DETAILS. She is interested in DETAILS.
+<br><br>
+
+***
+
+<img align="left" src="/images/solism.jpg" alt="solism" width="140" hspace="10"/>
+### Miguel Solis (Undergraduate Student)
+Miguel is a DETAILS UTEP undergraduate student pursuing DETAILS. He is interested in DETAILS.
+<br><br>
+
+***
+
+<img align="left" src="/images/solisp.jpg" alt="solisp" width="140" hspace="10"/>
+### Pablo Solis (Undergraduate Student)
+Pablo is a DETAILS UTEP undergraduate student pursuing DETAILS. He is interested in DETAILS.
+<br><br>
+
+***
+### Past People
+
+***
+
 <img align="left" src="/images/beres.jpg" alt="beres" width="140" hspace="10"/>
 ### Bonnie Raechal Beres (Undergraduate REU Student)
 Bonnie Raechal is an undergraduate student from Saint Norbert College working in the lab for the summer of 2021 as part of the <a href="https://www.utep.edu/couri/programs/cdb-reu/" target="_blank">Chihuahuan Desert Biodiversity REU</a>. She is studying comparative population genetic structure in Sky Island birds of the borderlands region.
 <br><br>
-
-***
