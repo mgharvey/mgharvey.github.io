@@ -7,11 +7,3 @@ image:
 ---
 
 Welcome to the website for the Harvey Lab at the University of Texas at El Paso. We study birds with a focus on diversity, genomics, and evolution.
-
-# News
-
-***
-
-### The lab is expanding!
-We are seeking motivated graduate students as well as a lab manager/technician. Please see the People page for more information.
-<br><br>

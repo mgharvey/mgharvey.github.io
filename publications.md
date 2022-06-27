@@ -12,11 +12,11 @@ image:
 
 ***
 
-* Tobias JA, et al (115 authors). In press. **AVONET: morphological, ecological, and geographical data for all birds**. *Ecology Letters*.
+* Tobias JA, et al (115 authors). 2022. **AVONET: morphological, ecological, and geographical data for all birds**. *Ecology Letters*. <a href="https://mgharvey.github.io/docs/Tobiasetal2022.pdf" target="_blank">(pdf)</a>
 
-* Singhal S, Derryberry GE, Bravo GA, Derryberry EP, Brumfield RT, <u>Harvey MG</u>. In press. **The dynamics of introgression across an avian radiation**. *Evolution Letters*. <a href="https://mgharvey.github.io/docs/Singhaletal2021.pdf" target="_blank">(pdf)</a>
+* Stopiglia R, Barbosa W, Ferreira M, Raposo MA Dubois A, <u>Harvey MG</u>, Kirwan GM, Forcato G, Bockmann FA, Ribas CC. 2022. **Taxonomic challenges posed by discordant evolutionary scenarios supported by molecular and morphological data in the Amazonian *Synallaxis rutilans* group (Aves: Furnariidae)**. *Zoological Journal of the Linnean Society*. <a href="https://mgharvey.github.io/docs/Stopigliaetal2022.pdf" target="_blank">(pdf)</a>
 
-* Stopiglia R, Barbosa W, Ferreira M, Raposo MA Dubois A, <u>Harvey MG</u>, Kirwan GM, Forcato G, Bockmann FA, Ribas CC. In press. **Taxonomic challenges posed by discordant evolutionary scenarios supported by molecular and morphological data in the Amazonian *Synallaxis rutilans* group (Aves: Furnariidae)**. *Zoological Journal of the Linnean Society*.
+* Singhal S, Derryberry GE, Bravo GA, Derryberry EP, Brumfield RT, <u>Harvey MG</u>. 2021. **The dynamics of introgression across an avian radiation**. *Evolution Letters*. <a href="https://mgharvey.github.io/docs/Singhaletal2021.pdf" target="_blank">(pdf)</a>
 
 * Smith BT, Gehara M, <u>Harvey MG</u>. 2021. **The demography of extinction in eastern North American birds**. *Proceedings of the Royal Society B* 288: 20201945. <a href="https://mgharvey.github.io/docs/Smithetal2021.pdf" target="_blank">(pdf)</a>
 
