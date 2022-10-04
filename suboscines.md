@@ -16,7 +16,7 @@ As part of an NSF-funded project on suboscine bird diversification...
 <br />
 
 
-# Taxonomuy
+# Taxonomy
 ***
 
 <br />
