@@ -34,6 +34,8 @@ links:
     url: /publications/
   - title: Software/Data
     url: /softwaredata/
+  - title: Suboscines
+    url: /suboscines/
 
 # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Denver
