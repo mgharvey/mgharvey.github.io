@@ -40,6 +40,16 @@ Michael is pursuing doctoral research on the geographic variation and phylogeogr
 
 ***
 
+### Emily Johns (PhD Student)
+<br><br>
+
+***
+
+### Manuelita Sotelo (PhD Student)
+<br><br>
+
+***
+
 <img align="left" src="/images/larrieu.jpg" alt="larrieu" width="140" hspace="10"/>
 ### Ximena Larrieu (Undergraduate Student)
 Ximena is a third-year UTEP undergraduate student pursuing a degree in Environmental Sciences. She is interested in diverse aspects of sky island biology.
@@ -80,6 +90,14 @@ Miguel is a fourth-year UTEP undergraduate student pursuing a degree in Biologic
 Pablo is a third-year UTEP undergraduate student pursuing in Forensic Biology. He is interested in molecular biology and genetics.
 <br><br>
 
+### Deandra Silva (Undergraduate Student)
+<br><br>
+
+***
+
+### Adriana Hinojos (Undergraduate Student)
+<br><br>
+
 ***
 
 <br>
@@ -89,4 +107,9 @@ Pablo is a third-year UTEP undergraduate student pursuing in Forensic Biology. H
 <img align="left" src="/images/beres.jpg" alt="beres" width="140" hspace="10"/>
 ### Bonnie Raechal Beres (Undergraduate REU Student)
 Bonnie Raechal is an undergraduate student from Saint Norbert College who worked in the lab for the summer of 2021 as part of the <a href="https://www.utep.edu/couri/programs/cdb-reu/" target="_blank">Chihuahuan Desert Biodiversity REU</a>. She studied comparative population genetic structure in Sky Island birds of the borderlands region.
+<br><br>
+
+***
+
+### Connor O'Brien (Undergraduate REU Student)
 <br><br>
