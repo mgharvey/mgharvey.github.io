@@ -4,7 +4,7 @@ permalink: /people/
 title: People
 tagline: Harvey Lab
 tags: [about, people]
-modified: 8-10-21
+modified: 10-7-22
 comments: true
 image:
   feature: elpaso.jpg
@@ -45,7 +45,9 @@ Michael is pursuing doctoral research on the geographic variation and phylogeogr
 
 ***
 
+<img align="left" src="/images/sotelo.jpg" alt="sotelo" width="140" hspace="10"/>
 ### Manuelita Sotelo (PhD Student)
+Manuelita  is a first-year UTEP student in the Ecology and Evolutionary Biology PhD program. She is interested in the study of the macro- and microevolutionary processes underlying diversification in birds. She also likes hiking, live music, Italian food and Primitivo.
 <br><br>
 
 ***
@@ -90,7 +92,11 @@ Miguel is a fourth-year UTEP undergraduate student pursuing a degree in Biologic
 Pablo is a third-year UTEP undergraduate student pursuing in Forensic Biology. He is interested in molecular biology and genetics.
 <br><br>
 
+***
+
+<img align="left" src="/images/silva.jpeg" alt="silva" width="140" hspace="10"/>
 ### Deandra Silva (Undergraduate Student)
+Deandra is a senior majoring in Biological Sciences and interested in becoming a PA. She plans to specialize in Dermatology.
 <br><br>
 
 ***
