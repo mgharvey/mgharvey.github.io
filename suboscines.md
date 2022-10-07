@@ -7,7 +7,7 @@ tags: [about, suboscines]
 modified: 10-2-22
 comments: true
 image:
-  feature: mauritia.jpg
+  feature: PithysAlbifrons.jpg
 ---
 ***
 
