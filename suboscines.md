@@ -12,7 +12,7 @@ image:
 ***
 
 <img align="left" src="/images/nsflogo.png" alt="nsflogo" width="30" hspace="10"/>
-As part of collaborative, NSF-funded project on suboscine birds (Aves; Passeriformes; Tyranni), we are working to estimate a comprehensive phylogeny of all currently recognized suboscine taxa and distinct forms and use this to refine classification and reconstruct diversification in the group. This new phylogeny will serve as a key resource for researchers from diverse disciplines and conservationists working to identify and save distinct or evolutionarily important populations.
+As part of a collaborative, NSF-funded project on suboscine birds (Aves; Passeriformes; Tyranni), we are working to estimate a comprehensive phylogeny of all currently recognized suboscine taxa and distinct forms and use this to refine classification and reconstruct diversification in the group. This new phylogeny will serve as a key resource for researchers from diverse disciplines and conservationists working to identify and save distinct or evolutionarily important populations.
 
 <br />
 
