@@ -12,7 +12,7 @@ image:
 ***
 
 <img align="left" src="/images/nsflogo.png" alt="nsflogo" width="30" hspace="10"/>
-As part of collaborative, international project on suboscine bird (Aves; Passeriformes; Tyranni) diversification, we are working to estimate a comprehensive phylogeny of all suboscine taxa and use this to refine classification and reconstruct diversification in the group.
+As part of collaborative, NSF-funded project on suboscine bird (Aves; Passeriformes; Tyranni) diversification, we are working to estimate a comprehensive phylogeny of all suboscine taxa and use this to refine classification and reconstruct diversification in the group.
 
 <br />
 
