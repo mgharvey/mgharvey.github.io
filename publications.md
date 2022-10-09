@@ -12,7 +12,7 @@ image:
 
 ***
 
-* Herman RA, Winger BM, Dittmann DL, <u>Harvey MG</u>. 2022. **Fine-scale population genetic structure and barriers to gene flow in a widespread seabird *Ardenna pacifica* **. *Biological Journal of the Linnean Society*. <a href="https://mgharvey.github.io/docs/Hermanetal2022.pdf" target="_blank">(pdf)</a>
+* Herman RA, Winger BM, Dittmann DL, <u>Harvey MG</u>. 2022. **Fine-scale population genetic structure and barriers to gene flow in a widespread seabird *Ardenna pacifica*.** *Biological Journal of the Linnean Society*. <a href="https://mgharvey.github.io/docs/Hermanetal2022.pdf" target="_blank">(pdf)</a>
 
 * Tobias JA, et al (115 authors). 2022. **AVONET: morphological, ecological, and geographical data for all birds**. *Ecology Letters*. <a href="https://mgharvey.github.io/docs/Tobiasetal2022.pdf" target="_blank">(pdf)</a>
 

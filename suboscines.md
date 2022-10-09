@@ -32,7 +32,7 @@ This project would be impossible without a strong collaborative effort across co
 
 | Taxon/Form  | Range | Type Locality |
 | --- | --- | --- |
-| Smithornis sharpei sharpei | Bioko (Gulf of Guinea) | Mt. Ysabel, 4000 feet, Fernando Po. Col. pi., Ibis, 1903, pi. 7. |
+| *Smithornis sharpei sharpei* | Bioko (Gulf of Guinea) | Mt. Ysabel, 4000 feet, Fernando Po. Col. pi., Ibis, 1903, pi. 7. |
 | Erythropitta rufiventris bernsteini | Gebe I. (east of Halmahera) | Gebe |
 | Hydrornis soror douglasi | Hainan I. (Seven Finger Mountains) | Seven Finger Mountains, Hainan |
 | Pitta maxima morotaiensis | Morotai I. (n Moluccas) | Minoe-Minoe Ajer, Morotai |
