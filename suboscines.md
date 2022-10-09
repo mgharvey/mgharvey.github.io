@@ -33,22 +33,22 @@ This project would be impossible without a strong collaborative effort across co
 | Taxon/Form  | Range | Type Locality |
 | --- | --- | --- |
 | *Smithornis sharpei sharpei* | Bioko (Gulf of Guinea) | Mt. Ysabel, 4000 feet, Fernando Po. Col. pi., Ibis, 1903, pi. 7. |
-| Erythropitta rufiventris bernsteini | Gebe I. (east of Halmahera) | Gebe |
-| Hydrornis soror douglasi | Hainan I. (Seven Finger Mountains) | Seven Finger Mountains, Hainan |
-| Pitta maxima morotaiensis | Morotai I. (n Moluccas) | Minoe-Minoe Ajer, Morotai |
-| Myrmotherula assimilis transamazonica | Amazonian Brazil, along the Amazon River in extreme western Pará (east to the mouth of the Tapajós River) | Urucurituba, Rio Amazon (opposite Santarém), State of Pará, Brazil |
-| Scytalopus krabbei | 5 localities in 3 widely separated areas in the Central Andes of north-central Peru: Cordillera Colán in Amazonas, the type locality (Cerro Patricia) in northern San Martín, and central Huánuco at Bosque Unchog and between Zapatagocha and Huaylaspampa | Peru: San Martín/Amazonas border: east slope of Cerro Patricia, ~22 km ENE of Florida, Camp Buena Vista Social Club, Bosque de Proteccion Alto Mayo, coordinates: 5.723°S, 77.754°W, elevation: 2,975 m |
-| Scytalopus whitneyi | 2 geographically separate populations in Peru: eastern Ayacucho south of Río Mantaro and Apurímac between the Río Apurímac and Río Pampas | Peru: depto. Apurímac: mountains north-northeast of Abancay: Cerro Turronmocco, coordinates: 13.518°S, 72.888°W, elevation: 3,500 m |
-| Scytalopus frankeae | 2 geographically separate populations in Peru: in Huánuco (above Millpo, Pagancho, and above Schismay) and Pasco (Chipa), and to the south in Junín at Maraynioc, Río Satipo near Toldopampa, Apaya-Andamarca road, Runatullo, 12.8 km after the fork to Acobamba, and Chilifruta | Peru: Huánuco: Maria, Millpo, LSU field camp on the trail from Pozuzo to Chaglla, coordinates: 9.894°S, 75.747°W, elevation: 3,675 m |
-| Geositta rufipennis fragai | Northwest Argentina (Cerro Famatina in La Rioja) | Cerro Famatina, 28°48 S-67° 42'W, La Rioja, Argentina. |
-| Xiphocolaptes promeropirhynchus fortis | Known from a single specimen of unknown location | No locality |
-| Xiphorhynchus ocellatus lineatocapilla | Range uncertain: possibly along Río Orinoco in n Venezuela | Angostura [now Ciudad Bolivar], Venezuela |
-| Cinclodes pabsti espinhacensis | east central Brazil (Serra do Espinhaço Meridional, Minas Gerais) | Tainhas, Rio Grande do Sul, Espinhaço Range, southeastern Brazil |
-| Cinclodes albiventris yzurietae | Andes of nw Argentina (Sierra de Manchao in se Catamarca) | Cerro El Manchao, Ambato, Catamarca, 28°16'S, 66°02'W. Argentina. |
-| Cinclodes albiventris riojanus | Andes of nw Argentina (Sierra de Famatina in La Rioja) | Cerro Famantina, 28°48'S, 67°42 La Rioja, Argentina. |
-| Thripadectes virgaticeps sumaco | Subtropical e Ecuador (w Napo) | Subtropical zone of Mt. Sumaco, eastern Ecuador. |
-| Asthenes modesta serrana | C Argentina (south to Santa Cruz) | Cerro Famantina, La Rioja, Argentina. |
-| Pseudasthenes humicola goodalli | Andes of n Chile (sw Antofogasta) | Quebrada Paposo; Provincia de Antofagasta, Chile. |
-| Contopus nigrescens canescens (E pop) | s Guyana (Acari Mts.) and e Amaz. Brazil | N/A |
-| Neoxolmis salinarum | Arid salinas of nw Argentina | Monte de las Barrancas, Salinas Grandes del noroeste de Córdoba, Argentina |
-| Myiozetetes cayanensis rufipennis | E Colombia to n Venezuela and e Ecuador | Valencia, Carabobo, Venezuela. |
+| *Erythropitta rufiventris bernsteini* | Gebe I. (east of Halmahera) | Gebe |
+| *Hydrornis soror douglasi* | Hainan I. (Seven Finger Mountains) | Seven Finger Mountains, Hainan |
+| *Pitta maxima morotaiensis* | Morotai I. (n Moluccas) | Minoe-Minoe Ajer, Morotai |
+| *Myrmotherula assimilis transamazonica* | Amazonian Brazil, along the Amazon River in extreme western Pará (east to the mouth of the Tapajós River) | Urucurituba, Rio Amazon (opposite Santarém), State of Pará, Brazil |
+| *Scytalopus krabbei* | 5 localities in 3 widely separated areas in the Central Andes of north-central Peru: Cordillera Colán in Amazonas, the type locality (Cerro Patricia) in northern San Martín, and central Huánuco at Bosque Unchog and between Zapatagocha and Huaylaspampa | Peru: San Martín/Amazonas border: east slope of Cerro Patricia, ~22 km ENE of Florida, Camp Buena Vista Social Club, Bosque de Proteccion Alto Mayo, coordinates: 5.723°S, 77.754°W, elevation: 2,975 m |
+| *Scytalopus whitneyi* | 2 geographically separate populations in Peru: eastern Ayacucho south of Río Mantaro and Apurímac between the Río Apurímac and Río Pampas | Peru: depto. Apurímac: mountains north-northeast of Abancay: Cerro Turronmocco, coordinates: 13.518°S, 72.888°W, elevation: 3,500 m |
+| *Scytalopus frankeae* | 2 geographically separate populations in Peru: in Huánuco (above Millpo, Pagancho, and above Schismay) and Pasco (Chipa), and to the south in Junín at Maraynioc, Río Satipo near Toldopampa, Apaya-Andamarca road, Runatullo, 12.8 km after the fork to Acobamba, and Chilifruta | Peru: Huánuco: Maria, Millpo, LSU field camp on the trail from Pozuzo to Chaglla, coordinates: 9.894°S, 75.747°W, elevation: 3,675 m |
+| *Geositta rufipennis fragai* | Northwest Argentina (Cerro Famatina in La Rioja) | Cerro Famatina, 28°48 S-67° 42'W, La Rioja, Argentina. |
+| *Xiphocolaptes promeropirhynchus fortis* | Known from a single specimen of unknown location | No locality |
+| *Xiphorhynchus ocellatus lineatocapilla* | Range uncertain: possibly along Río Orinoco in n Venezuela | Angostura [now Ciudad Bolivar], Venezuela |
+| *Cinclodes pabsti espinhacensis* | east central Brazil (Serra do Espinhaço Meridional, Minas Gerais) | Tainhas, Rio Grande do Sul, Espinhaço Range, southeastern Brazil |
+| *Cinclodes albiventris yzurietae* | Andes of nw Argentina (Sierra de Manchao in se Catamarca) | Cerro El Manchao, Ambato, Catamarca, 28°16'S, 66°02'W. Argentina. |
+| *Cinclodes albiventris riojanus* | Andes of nw Argentina (Sierra de Famatina in La Rioja) | Cerro Famantina, 28°48'S, 67°42 La Rioja, Argentina. |
+| *Thripadectes virgaticeps sumaco* | Subtropical e Ecuador (w Napo) | Subtropical zone of Mt. Sumaco, eastern Ecuador. |
+| *Asthenes modesta serrana* | C Argentina (south to Santa Cruz) | Cerro Famantina, La Rioja, Argentina. |
+| *Pseudasthenes humicola goodalli* | Andes of n Chile (sw Antofogasta) | Quebrada Paposo; Provincia de Antofagasta, Chile. |
+| *Contopus nigrescens canescens* (E pop) | s Guyana (Acari Mts.) and e Amaz. Brazil | N/A |
+| *Neoxolmis salinarum* | Arid salinas of nw Argentina | Monte de las Barrancas, Salinas Grandes del noroeste de Córdoba, Argentina |
+| *Myiozetetes cayanensis rufipennis* | E Colombia to n Venezuela and e Ecuador | Valencia, Carabobo, Venezuela. |
