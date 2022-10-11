@@ -101,8 +101,9 @@ Deandra is a senior majoring in Biological Sciences and interested in becoming a
 
 ***
 
+<img align="left" src="/images/hinojos.jpeg" alt="hinojos" width="140" hspace="10"/>
 ### Adriana Hinojos (Undergraduate Student)
-<br><br>
+Adriana is a fourth-year UTEP undergraduate student pursuing a degree in Biological Sciences with a Biomedicine concentration. She is interested in becoming an optometrist and enjoys playing tennis.<br><br>
 
 ***
 
@@ -117,5 +118,7 @@ Bonnie Raechal is an undergraduate student from Saint Norbert College who worked
 
 ***
 
+<img align="left" src="/images/obrien.jpeg" alt="obrien" width="140" hspace="10"/>
 ### Connor O'Brien (Undergraduate REU Student)
+Connor is an undergraduate student from Eckerd College who worked in the lab for the summer of 2022 as part of the <a href="https://www.utep.edu/couri/programs/cdb-reu/" target="_blank">Chihuahuan Desert Biodiversity REU</a>. He studied hybridization between Yellow-eyed and "Red-backed" Dark-eyed Juncos using a population genetic approach.
 <br><br>
