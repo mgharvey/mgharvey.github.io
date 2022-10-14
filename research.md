@@ -20,7 +20,7 @@ The Harvey lab studies the origins of organismal diversity, often taking a compa
 
 ![tyranni!](/images/suboscines.png)
 <br><br>
-The number of species varies dramatically across geographic regions and among taxonomic groups. New technologies and approaches now allow investigation into the mechanisms responsible for new species formation on a large scale. We are leveraging these data sources to conduct comparative studies of speciation in birds from different groups and geographic areas, including birds from groups or regions that are poorly represented in speciation research. These studies are key to understanding general features of speciation and for highlighting those aspects of speciation that are unique to particular situations.
+The number of species varies dramatically across geographic regions and among taxonomic groups. New technologies and approaches now allow investigation into the mechanisms responsible for new species formation on a large scale. We are leveraging these data sources to conduct comparative studies of speciation in birds from different groups and geographic areas, including birds from groups or regions that are poorly represented in speciation research. These studies are key to understanding general features of speciation and for highlighting those aspects of speciation that are unique to particular situations. A major project in this research area is focused specifically on the suboscine radiation of birds (>1,300 species). See our [dedicated suboscines page](/suboscines/) for more information on that project.
 <br><br>
 
 ## Population genetics and speciation in Sky Island birds
