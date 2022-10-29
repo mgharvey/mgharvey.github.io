@@ -74,7 +74,7 @@ Uriel is a senior UTEP undergraduate student pursuing a degree in Biological Sci
 ***
 
 <img align="left" src="/images/sarinana.jpg" alt="sarinana" width="140" hspace="10"/>
-### Andrea Sarinana (Undergraduate Student)
+### Andrea Sariñana (Undergraduate Student)
 Andrea is a third-year UTEP undergraduate student pursuing a degree in Biological Sciences with a Biomedicine concentration. She is interested in medicine and oncology.
 <br><br>
 
@@ -121,4 +121,13 @@ Bonnie Raechal is an undergraduate student from Saint Norbert College who worked
 <img align="left" src="/images/obrien.jpg" alt="obrien" width="140" hspace="10"/>
 ### Connor O'Brien (Undergraduate REU Student)
 Connor is an undergraduate student from Eckerd College who worked in the lab for the summer of 2022 as part of the <a href="https://www.utep.edu/couri/programs/cdb-reu/" target="_blank">Chihuahuan Desert Biodiversity REU</a>. He studied hybridization between Yellow-eyed and "Red-backed" Dark-eyed Juncos using a population genetic approach.
+<br><br>
+
+***
+
+<br>
+### Prospective students
+***
+
+I am not currently taking new graduate students. I anticipate having space and funding for new students in a few years, so please watch this space!
 <br><br>
