@@ -16,13 +16,13 @@ Suboscine passerines (Aves; Passeriformes; Tyranni) represent more than ten perc
 
 <br />
 
-
 # Taxonomy
 ***
 
 <br />
 Our initial set of target species and subspecies is based on the 2022 version of the <a href="https://www.birds.cornell.edu/clementschecklist/download/" target="_blank">eBird/Clements checklist</a> (also implemented in <a href="https://birdsoftheworld.org/bow/home" target="_blank">Birds of the World</a>). To this, we are adding other undescribed taxa, distinct forms, and disjunct populations with the goal of sampling every distinct evolutionary unit within the group. If you are aware of populations or forms that look or sound different but are not recognized as subspecies by eBird/Clements, please feel free to <a href="mailto:mgharvey@utep.edu" target="_blank">let us know</a> and we will consider adding them to the study!
 
+<br />
 
 # Sampling
 ***
