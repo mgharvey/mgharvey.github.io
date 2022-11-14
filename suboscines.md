@@ -4,7 +4,7 @@ permalink: /suboscines/
 title: Suboscines
 tagline: Harvey Lab
 tags: [about, suboscines]
-modified: 10-8-22
+modified: 11-14-22
 comments: true
 image:
   feature: MyiopagisCaniceps.jpeg
@@ -21,31 +21,21 @@ Suboscine passerines (Aves; Passeriformes; Tyranni) represent more than ten perc
 ***
 
 <br />
-Our initial set of target species and subspecies is based on the 2021 version of the <a href="https://www.birds.cornell.edu/clementschecklist/download/" target="_blank">eBird/Clements checklist</a>. To this, we are adding other undescribed taxa, distinct forms, and disjunct populations with the goal of sampling every distinct evolutionary unit within the group. If you are aware of populations or forms that may have been overlooked but merit inclusion, please feel free to <a href="mailto:mgh272@gmail.com" target="_blank">contact us</a>. Our current list of forms (as of October 2022) is <a href="https://mgharvey.github.io/docs/suboscine_taxa.xlsx" target="_blank">here (downloadable Excel file)</a>.
+Our initial set of target species and subspecies is based on the 2022 version of the <a href="https://www.birds.cornell.edu/clementschecklist/download/" target="_blank">eBird/Clements checklist</a> (also implemented in <a href="https://birdsoftheworld.org/bow/home" target="_blank">Birds of the World</a>). To this, we are adding other undescribed taxa, distinct forms, and disjunct populations with the goal of sampling every distinct evolutionary unit within the group. If you are aware of populations or forms that look or sound different but are not recognized as subspecies by eBird/Clements, please feel free to <a href="mailto:mgharvey@utep.edu" target="_blank">let us know</a> and we will consider adding them to the study!
 
 
 # Sampling
 ***
 
 <br />
-This project would be impossible without a strong collaborative effort across countries and institutions. Through this network, we have been able to identify genetic samples from nearly all target populations. That said, some of the samples are from old or degraded material. If you are aware of new genetic material or data from a population you think may be poorly represented, please <a href="mailto:mgh272@gmail.com" target="_blank">contact us</a>. Also, as of October 2022, we are still entirely lacking material for the following taxa (please contact us if you are aware of any):
+This project would be impossible without a strong collaborative effort across countries and institutions. Through this network, we have been able to identify samples for genetic analysis from nearly all remaining target taxa and populations. Most of these samples are high-quality samples in genetic resource collections. For a smaller number of taxa (427 as of November 2022) we have identified only low-quality sources of genetic material (e.g., old study skins). That list is <a href="https://mgharvey.github.io/docs/suboscine_missing_tissues.xlsx" target="_blank">here (downloadable Excel file)</a>. If you are aware of higher-quality samples (e.g., blood samples, recently collected feathers, tissue samples) for any of these taxa/populations, feel free to <a href="mailto:mgharvey@utep.edu" target="_blank">contact us</a>. We are entirely lacking sources of genetic material (even low-quality sources) for just a few taxa:
 
 | Taxon/Form  | Range | Type Locality |
 | --- | --- | --- |
 | *Smithornis sharpei sharpei* | Bioko (Gulf of Guinea) | Mt. Ysabel, 4000 feet, Fernando Po |
-| *Erythropitta rufiventris bernsteini* | Gebe I. (east of Halmahera) | Gebe |
 | *Hydrornis soror douglasi* | Hainan I. (Seven Finger Mountains) | Seven Finger Mountains, Hainan |
-| *Pitta maxima morotaiensis* | Morotai I. (n Moluccas) | Minoe-Minoe Ajer, Morotai |
-| *Myrmotherula assimilis transamazonica* | Amazonian Brazil, along the Amazon River in extreme western Pará (east to the mouth of the Tapajós River) | Urucurituba, Rio Amazon (opposite Santarém), State of Pará, Brazil |
-| *Geositta rufipennis fragai* | Northwest Argentina (Cerro Famatina in La Rioja) | Cerro Famatina, La Rioja, Argentina |
 | *Xiphocolaptes promeropirhynchus fortis* | Known from a single specimen of unknown location | No locality |
 | *Xiphorhynchus ocellatus lineatocapilla* | Range uncertain: possibly along Río Orinoco in n Venezuela | Angostura (now Ciudad Bolivar), Venezuela |
-| *Cinclodes pabsti espinhacensis* | east central Brazil (Serra do Espinhaço Meridional, Minas Gerais) | Tainhas, Rio Grande do Sul, Espinhaço Range, southeastern Brazil |
-| *Cinclodes albiventris yzurietae* | Andes of nw Argentina (Sierra de Manchao in se Catamarca) | Cerro El Manchao, Ambato, Catamarca, Argentina |
-| *Cinclodes albiventris riojanus* | Andes of nw Argentina (Sierra de Famatina in La Rioja) | Cerro Famantina, La Rioja, Argentina |
-| *Thripadectes virgaticeps sumaco* | Subtropical e Ecuador (w Napo) | Subtropical zone of Mt. Sumaco, eastern Ecuador |
-| *Asthenes modesta serrana* | C Argentina (south to Santa Cruz) | Cerro Famantina, La Rioja, Argentina |
-| *Pseudasthenes humicola goodalli* | Andes of n Chile (sw Antofogasta) | Quebrada Paposo; Provincia de Antofagasta, Chile |
-| *Contopus nigrescens canescens* (E pop) | s Guyana (Acari Mts.) and e Amaz. Brazil | N/A |
 | *Neoxolmis salinarum* | Arid salinas of nw Argentina | Monte de las Barrancas, Salinas Grandes del noroeste de Córdoba, Argentina |
-| *Myiozetetes cayanensis rufipennis* | E Colombia to n Venezuela and e Ecuador | Valencia, Carabobo, Venezuela |
+
+Please let us know if you know of any sources for genetic data for these!
