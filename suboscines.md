@@ -36,6 +36,5 @@ This project would be impossible without a strong collaborative effort across co
 | *Hydrornis soror douglasi* | Hainan I. (Seven Finger Mountains) | Seven Finger Mountains, Hainan |
 | *Xiphocolaptes promeropirhynchus fortis* | Known from a single specimen of unknown location | No locality |
 | *Xiphorhynchus ocellatus lineatocapilla* | Range uncertain: possibly along Río Orinoco in n Venezuela | Angostura (now Ciudad Bolivar), Venezuela |
-| *Neoxolmis salinarum* | Arid salinas of nw Argentina | Monte de las Barrancas, Salinas Grandes del noroeste de Córdoba, Argentina |
 
 Please let us know if you know of any sources for genetic data for these!
