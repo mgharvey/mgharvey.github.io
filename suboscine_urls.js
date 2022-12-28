@@ -1,4 +1,3 @@
-<script type="text/javascript">
 var randomlinks = [];
 randomlinks[0]="https://birdsoftheworld.org/bow/species/afrbro1/cur/introduction";
 randomlinks[1]="https://birdsoftheworld.org/bow/species/gyhbro1/cur/introduction";
@@ -1372,3 +1371,7 @@ randomlinks[1368]="https://birdsoftheworld.org/bow/species/logkin/cur/introducti
 randomlinks[1369]="https://birdsoftheworld.org/bow/species/giakin1/cur/introduction";
 randomlinks[1370]="https://birdsoftheworld.org/bow/species/sctfly/cur/introduction";
 randomlinks[1371]="https://birdsoftheworld.org/bow/species/fotfly/cur/introduction";
+
+function randomlink(){
+  window.open(randomlinks[Math.floor(Math.random()*randomlinks.length)]);
+}
