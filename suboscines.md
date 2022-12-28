@@ -27,12 +27,20 @@ function randomlink(){
 
 
 <form method="post">
-    <p><input type="button" name="B1" value="Random Link >>" onclick="randomlink()"></p>
+    <p><input type="button" name="B1" value="Random Suboscine" onclick="randomlink()"></p>
 </form>
 
 <br />
 
-<a href="#" onclick="randomlink()">Random Link</a>
+<a href="#" onclick="randomlink()">Random Suboscine</a>
+
+<br />
+
+[button url="randomlink()"]
+
+<br />
+
+[Random Suboscine](randomlink()){: .btn}
 
 <br />
 
