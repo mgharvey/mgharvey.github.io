@@ -14,7 +14,7 @@ image:
 <img align="left" src="/images/nsflogo.png" alt="nsflogo" width="30" hspace="10"/>
 Suboscine passerines (Aves; Passeriformes; Tyranni) represent more than ten percent of all birds globally, and roughly one in three of all birds in the bird-rich Neotropics. They vary widely in biology, occur in every terrestrial habitat, and have been considered a model for studies of evolutionary radiation. As part of a collaborative, NSF-funded project on suboscines, we are working to estimate a phylogeny of all currently recognized taxa (including subspecies) and distinct forms and use this to revise classification and reconstruct diversification in the group. The project builds on and expands the work reported in <a href="http://science.sciencemag.org/cgi/content/full/370/6522/1343?ijkey=nYOWIlTOWovKQ&keytype=ref&siteid=sci" target="_blank">our 2020 paper</a>. The resulting comprehensive phylogeny will serve as a key resource for researchers from diverse disciplines and conservationists working to identify and save distinct or evolutionarily important populations.
 
-
+<script type="text/javascript">
 var randomlinks = [];
 randomlinks[0]="https://birdsoftheworld.org/bow/species/afrbro1/cur/introduction";
 randomlinks[1]="https://birdsoftheworld.org/bow/species/gyhbro1/cur/introduction";
@@ -23,11 +23,15 @@ randomlinks[2]="https://birdsoftheworld.org/bow/species/rusbro1/cur/introduction
 function randomlink(){
   window.open(randomlinks[Math.floor(Math.random()*randomlinks.length)]);
 }
+</script>
+
 
 <form method="post">
     <p><input type="button" name="B1" value="Random Link >>" onclick="randomlink()"></p>
 </form>
-    or
+
+<br />
+
 <a href="#" onclick="randomlink()">Random Link</a>
 
 <br />
