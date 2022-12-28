@@ -44,7 +44,7 @@ function randomlink(){
 
 <br />
 
-<div markdown="0"><a href="randomlink()" class="btn">Curriculum Vitae</a></div>
+<div markdown="0"><a href="randomlink()" class="btn">Random Suboscine</a></div>
 
 <br />
 
