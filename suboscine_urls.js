@@ -1,4 +1,4 @@
-function randomlink(){
+function randomlink() {
   var randomlinks = [];
   randomlinks[0]="https://birdsoftheworld.org/bow/species/afrbro1/cur/introduction";
   randomlinks[1]="https://birdsoftheworld.org/bow/species/gyhbro1/cur/introduction";
