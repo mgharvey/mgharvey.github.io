@@ -16,7 +16,7 @@ Suboscine birds represent one of the major divisions within the perching birds (
 
 <script type="text/javascript" src="suboscine_urls.js"></script>
 <form method="post">
-   <p><input type="button" style="background:black;color:white" value=" Random Suboscine " onclick="randomlink()"></p>
+   <p><input type="button" style="background:black;color:white" value=" Random Suboscine " onclick="randomlink()"/></p>
 </form>
 <br />
 
