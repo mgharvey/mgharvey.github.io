@@ -14,11 +14,9 @@ image:
 Suboscine birds represent one of the major divisions within the perching birds (Passeriformes). The groups contains nearly 1,400 species distributed across 17 avian families. These families include the tyrant flycatchers (Tyrannidae), familiar to many North American birders, as well as a suite of primarily tropical families such as the ovenbirds and woodcreepers (Furnariidae), antbirds (Thamnophilidae), cotingas (Cotingidae), and pittas (Pittidae). In fact, although suboscines represent about 10 percent of all birds globally, they represent one-third of all birds in the bird-rich Neotropics. Suboscine birds vary widely in biology, occur in every terrestrial habitat, and have been considered a model for studies of evolutionary radiation. To explore suboscine birds further, click the button to view the <a href="https://birdsoftheworld.org/bow/home" target="_blank">Birds of the World</a> page for a randomly selected suboscine species:
 
 <script type="text/javascript" src="suboscine_urls.js"></script>
-<script>
 <form method="post">
    <p><input type="button" style="background:black;color:white" value=" Random Suboscine " onclick="randomlink()"></p>
 </form>
-</script>
 <br />
 
 # Project
