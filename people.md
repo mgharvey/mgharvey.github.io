@@ -40,14 +40,16 @@ Michael is pursuing doctoral research on the geographic variation and phylogeogr
 
 ***
 
-### Emily Johns (PhD Student)
+<img align="left" src="/images/sotelo.jpg" alt="sotelo" width="140" hspace="10"/>
+### Manuelita Sotelo (PhD Student)
+Manuelita  is a first-year UTEP student in the Ecology and Evolutionary Biology PhD program. She is interested in the study of the macro- and microevolutionary processes underlying diversification in birds. She also likes hiking, live music, Italian food and Primitivo.
 <br><br>
 
 ***
 
-<img align="left" src="/images/sotelo.jpg" alt="sotelo" width="140" hspace="10"/>
-### Manuelita Sotelo (PhD Student)
-Manuelita  is a first-year UTEP student in the Ecology and Evolutionary Biology PhD program. She is interested in the study of the macro- and microevolutionary processes underlying diversification in birds. She also likes hiking, live music, Italian food and Primitivo.
+<img align="left" src="/images/johns.jpeg" alt="johns" width="140" hspace="10"/>
+### Emily Johns (PhD Student)
+Emily is a doctoral student in the Ecology and Evolutionary Biology program. Her research focuses on understanding the impact of climate on avian migration over time and how climate change is projected to influence future migration patterns. She hopes that her work can improve conservation efforts and protect avian biodiversity. In her free time, she enjoys cooking, outdoor activities, and spending time with her cats.
 <br><br>
 
 ***
