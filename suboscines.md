@@ -1403,7 +1403,7 @@ function randomlink() {
 ***
 
 <br />
-As part of a collaborative, NSF-funded project on suboscines, we are working to estimate a phylogeny of all currently recognized taxa (including subspecies) and distinct forms and use this to revise classification and reconstruct diversification in the group. The project builds on and expands the work reported in <a href="http://science.sciencemag.org/cgi/content/full/370/6522/1343?ijkey=nYOWIlTOWovKQ&keytype=ref&siteid=sci" target="_blank">our 2020 paper</a>. The resulting comprehensive phylogeny will serve as a key resource for researchers from diverse disciplines and conservationists working to identify and save distinct or evolutionarily important populations.
+As part of a collaborative, NSF-funded project on suboscines, we are working to estimate a phylogeny of all currently recognized taxa (including subspecies) and distinct forms and use this to revise classification and reconstruct diversification in the group. The project builds on and expands the work reported in <a href="http://science.sciencemag.org/cgi/content/full/370/6522/1343?ijkey=nYOWIlTOWovKQ&keytype=ref&siteid=sci" target="_blank">our 2020 paper</a> (see a high-resolution pdf version of the existing phylogeny <a href="https://mgharvey.github.io/docs/Harveyetal2020_Fig1_tree_HiRes.pdf" target="_blank">here</a>). The resulting comprehensive phylogeny will serve as a key resource for researchers from diverse disciplines and conservationists working to identify and save distinct or evolutionarily important populations.
 
 # Classification
 ***
