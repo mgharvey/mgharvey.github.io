@@ -1440,7 +1440,7 @@ Please let us know if you know of any sources for genetic data for these!
 
 <br />
 
-We plan to publish a revised suboscine phylogeny and comprehensive systematic revisions of the group (many of which are underway). If you are interested in suboscine taxonomy and are considering working on any taxonomic revisions in the group, please reach out to us to coordinate.
+We plan to publish a revised suboscine phylogeny and comprehensive systematic revisions of the group (many of which are underway). If you are interested in suboscine taxonomy and are considering working on any taxonomic revisions in the group, please <a href="mailto:mgharvey@utep.edu" target="_blank">reach out to us</a> to coordinate.
 
 <br />
 
