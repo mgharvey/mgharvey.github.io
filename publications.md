@@ -12,6 +12,8 @@ image:
 
 ***
 
+* Johnson O, Ribas CC, Aleixo A, Naka LN, <u>Harvey MG</u>, Brumfield RT. 2023. **Amazonian birds in more dynamic habitats have less population genetic structure and higher gene flow.** *Molecular Ecology* DOI:10.1111/mec.16886. <a href="https://mgharvey.github.io/docs/Johnsonetal2023.pdf" target="_blank">(pdf)</a>
+
 * Herman RA, Winger BM, Dittmann DL, <u>Harvey MG</u>. 2022. **Fine-scale population genetic structure and barriers to gene flow in a widespread seabird (*Ardenna pacifica*).** *Biological Journal of the Linnean Society* 137: 125-136. <a href="https://mgharvey.github.io/docs/Hermanetal2022.pdf" target="_blank">(pdf)</a>
 
 * Tobias JA, et al (115 authors). 2022. **AVONET: morphological, ecological, and geographical data for all birds**. *Ecology Letters* 25: 581-597. <a href="https://mgharvey.github.io/docs/Tobiasetal2022.pdf" target="_blank">(pdf)</a>
