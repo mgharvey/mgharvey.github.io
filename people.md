@@ -4,7 +4,7 @@ permalink: /people/
 title: People
 tagline: Harvey Lab
 tags: [about, people]
-modified: 10-7-22
+modified: 4-13-23
 comments: true
 image:
   feature: elpaso.jpg
@@ -22,6 +22,13 @@ See his <a href="http://mgharvey.github.io/docs/Harvey_CV.pdf" target="_blank">C
 <img align="left" src="/images/johnson.jpg" alt="johnson" width="140" hspace="10"/>
 ### Oscar Johnson (Postdoctoral Fellow)
 Oscar is an NSF Postdoctoral Fellow. He is building off his doctoral research on phylogenetics and the biogeography of speciation to study the macroevolutionary dynamics of avian migration and its impact on diversity. See his <a href="https://www.oscarjohnson.net/" target="_blank">website</a> for more info.
+<br><br>
+
+***
+
+<img align="left" src="/images/rego.jpg" alt="rego" width="140" hspace="10"/>
+### Marco Rego (Postdoctoral Researcher)
+Marco is a Postdoctoral Researcher on the NSF-funded suboscine project. He is working to database and georeference material and to conduct spatial analyses for the project with the goal of examining the geography of diversity and diversification. Check out his <a href="https://scholar.google.com/citations?user=DdmZhLoAAAAJ&hl=en" target="_blank">Google Scholar page</a>.
 <br><br>
 
 ***
@@ -56,42 +63,28 @@ Emily is a doctoral student in the Ecology and Evolutionary Biology program. Her
 
 <img align="left" src="/images/larrieu.jpg" alt="larrieu" width="140" hspace="10"/>
 ### Ximena Larrieu (Undergraduate Student)
-Ximena is a third-year UTEP undergraduate student pursuing a degree in Environmental Sciences. She is interested in diverse aspects of sky island biology.
-<br><br>
-
-***
-
-<img align="left" src="/images/rodriguez.jpg" alt="rodriguez" width="140" hspace="10"/>
-### Eduardo Rodriguez (Undergraduate Student)
-Eduardo is a third-year UTEP undergraduate student pursuing a degree in Biological Sciences with a Biomedicine concentration. He is interested in pursuing an MD/PhD.
-<br><br>
-
-***
-
-<img align="left" src="/images/santillana.jpg" alt="santillana" width="140" hspace="10"/>
-### Uriel Santillana (Undergraduate Student)
-Uriel is a senior UTEP undergraduate student pursuing a degree in Biological Sciences with a Biomedicine concentration. He is interested in birds and museum work.
+Ximena is a fourth-year UTEP undergraduate student pursuing a degree in Environmental Sciences. She is interested in diverse aspects of sky island biology.
 <br><br>
 
 ***
 
 <img align="left" src="/images/sarinana.jpg" alt="sarinana" width="140" hspace="10"/>
 ### Andrea Sariñana (Undergraduate Student)
-Andrea is a third-year UTEP undergraduate student pursuing a degree in Biological Sciences with a Biomedicine concentration. She is interested in medicine and oncology.
+Andrea is a fourth-year UTEP undergraduate student pursuing a degree in Biological Sciences with a Biomedicine concentration. She is interested in medicine and oncology.
 <br><br>
 
 ***
 
 <img align="left" src="/images/solism.jpg" alt="solism" width="140" hspace="10"/>
 ### Miguel Solis (Undergraduate Student)
-Miguel is a fourth-year UTEP undergraduate student pursuing a degree in Biological Sciences with a Ecology and Evolutionary Biology concentration. He is interested in bioinformatics and computational science.
+Miguel completed a degree in Biological Sciences with a Ecology and Evolutionary Biology concentration, and is now conducting research in the lab as a post-bac NSF-PRELS Fellow. His focus is on bioinformatics and computational science.
 <br><br>
 
 ***
 
 <img align="left" src="/images/solisp.jpg" alt="solisp" width="140" hspace="10"/>
 ### Pablo Solis (Undergraduate Student)
-Pablo is a third-year UTEP undergraduate student pursuing in Forensic Biology. He is interested in molecular biology and genetics.
+Pablo is a fourth-year UTEP undergraduate student pursuing in Forensic Biology. He is interested in molecular biology and genetics.
 <br><br>
 
 ***
@@ -111,6 +104,20 @@ Adriana is a fourth-year UTEP undergraduate student pursuing a degree in Biologi
 
 <br>
 ### Past People
+***
+
+<img align="left" src="/images/rodriguez.jpg" alt="rodriguez" width="140" hspace="10"/>
+### Eduardo Rodriguez (Undergraduate Student)
+Eduardo completed a degree in Biological Sciences with a Biomedicine concentration. He is interested in pursuing an MD/PhD.
+<br><br>
+
+***
+
+<img align="left" src="/images/santillana.jpg" alt="santillana" width="140" hspace="10"/>
+### Uriel Santillana (Undergraduate Student)
+Uriel completed a degree in Biological Sciences with a Biomedicine concentration. He is interested in birds and museum work.
+<br><br>
+
 ***
 
 <img align="left" src="/images/beres.jpg" alt="beres" width="140" hspace="10"/>
