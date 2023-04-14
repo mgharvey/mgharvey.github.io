@@ -27,7 +27,7 @@ Oscar is an NSF Postdoctoral Fellow. He is building off his doctoral research on
 ***
 
 <img align="left" src="/images/rego.jpg" alt="rego" width="140" hspace="10"/>
-### Marco Rego (Postdoctoral Researcher)
+### Marco Antonio Rego (Postdoctoral Researcher)
 Marco is a Postdoctoral Researcher on the NSF-funded suboscine project. He is working to database and georeference material and to conduct spatial analyses for the project with the goal of examining the geography of diversity and diversification. Check out his <a href="https://scholar.google.com/citations?user=DdmZhLoAAAAJ&hl=en" target="_blank">Google Scholar page</a>.
 <br><br>
 
