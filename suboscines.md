@@ -1402,8 +1402,6 @@ function randomlink() {
 # Project
 ***
 
-<br />
-
 As part of a collaborative, NSF-funded project on suboscines, we are working to estimate a phylogeny of all currently recognized taxa (including subspecies) and distinct forms and use this to revise classification and reconstruct diversification in the group. The project builds on and expands the work reported in <a href="http://science.sciencemag.org/cgi/content/full/370/6522/1343?ijkey=nYOWIlTOWovKQ&keytype=ref&siteid=sci" target="_blank">our 2020 paper</a> (see a high-resolution pdf version of the existing phylogeny <a href="https://mgharvey.github.io/docs/Harveyetal2020_Fig1_tree_HiRes.pdf" target="_blank">here</a>). The resulting comprehensive phylogeny will serve as a key resource for researchers from diverse disciplines and conservationists working to identify and save distinct or evolutionarily important populations.
 
 <br />
@@ -1411,16 +1409,12 @@ As part of a collaborative, NSF-funded project on suboscines, we are working to 
 # Classification
 ***
 
-<br />
-
 Our initial set of target species and subspecies is based on the 2022 version of the <a href="https://www.birds.cornell.edu/clementschecklist/download/" target="_blank">eBird/Clements checklist</a> (also implemented in <a href="https://birdsoftheworld.org/bow/home" target="_blank">Birds of the World</a>). To this, we are adding other undescribed taxa, distinct forms, and disjunct populations with the goal of sampling every distinct evolutionary unit within the group. If you are aware of populations or forms that look or sound different but are not recognized as subspecies by eBird/Clements, please feel free to <a href="mailto:mgharvey@utep.edu" target="_blank">let us know</a> and we will consider adding them to the study!
 
 <br />
 
 # Sampling
 ***
-
-<br />
 
 This project would be impossible without a strong collaborative effort across countries and institutions. Through this network, we have been able to identify samples for genetic analysis from nearly all remaining target taxa and populations. Most of these are high-quality samples in genetic resource collections. For a smaller number of taxa (426 as of December 2022) we have identified only low-quality sources of genetic material (e.g., old study skins). That list is <a href="https://mgharvey.github.io/docs/suboscine_missing_tissues.pdf" target="_blank">here (pdf)</a>. If you are aware of higher-quality samples (e.g., blood samples, recently collected feathers, tissue samples) for any of these taxa/populations, feel free to <a href="mailto:mgharvey@utep.edu" target="_blank">contact us</a>. We are entirely lacking sources of genetic material (even low-quality sources) for just a few taxa:
 
@@ -1437,8 +1431,6 @@ Please let us know if you know of any sources for genetic data for these!
 
 # Products
 ***
-
-<br />
 
 We plan to publish a revised suboscine phylogeny and comprehensive systematic revisions of the group (many of which are underway). If you are interested in suboscine taxonomy and are considering working on any taxonomic revisions in the group, please <a href="mailto:mgharvey@utep.edu" target="_blank">reach out to us</a> to coordinate.
 
