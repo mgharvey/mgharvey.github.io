@@ -135,5 +135,5 @@ Connor is an undergraduate student from Eckerd College who worked in the lab for
 ### Prospective students
 ***
 
-I am not currently taking new graduate students. I anticipate having space and funding for new students in a few years, so please watch this space!
+We are not currently taking new graduate students. We anticipate having space and funding for new students in a year or two, so please watch this space!
 <br><br>
