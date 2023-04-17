@@ -102,7 +102,6 @@ Adriana is a fourth-year UTEP undergraduate student pursuing a degree in Biologi
 <br><br>
 
 <br>
-<br>
 ### Past People
 ***
 
@@ -132,7 +131,6 @@ Bonnie Raechal is an undergraduate student from Saint Norbert College who worked
 Connor is an undergraduate student from Eckerd College who worked in the lab for the summer of 2022 as part of the <a href="https://www.utep.edu/couri/programs/cdb-reu/" target="_blank">Chihuahuan Desert Biodiversity REU</a>. He studied hybridization between Yellow-eyed and "Red-backed" Dark-eyed Juncos using a population genetic approach.
 <br><br>
 
-<br>
 <br>
 ### Prospective students
 ***
