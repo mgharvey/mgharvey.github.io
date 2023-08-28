@@ -33,13 +33,6 @@ Marco is a Postdoctoral Researcher on the NSF-funded suboscine project. He is wo
 
 ***
 
-<img align="left" src="/images/brady.jpg" alt="brady" width="140" hspace="10"/>
-### Matthew Brady (Collections Specialist)
-Matt is responsible for collections and laboratory management in the lab and in the avian holdings of the <a href="https://www.utep.edu/biodiversity/" target="_blank">UTEP Biodiversity Collections</a>. Matt has a long-term interest in ornithology, field work, and museum research.
-<br><br>
-
-***
-
 <img align="left" src="/images/buontempo.jpeg" alt="buontempo" width="140" hspace="10"/>
 ### Michael Buontempo (PhD Student)
 Michael is pursuing doctoral research on the geographic variation and phylogeography of montane rattlesnakes in the Sierra Madre Occidental and Madrean Sky Islands of the desert southwest. He is co-advised with <a href="https://www.utep.edu/science/lavretskylab/" target="_blank">Dr. Phil Lavretsky</a>.
@@ -94,6 +87,15 @@ Pablo is a fourth-year UTEP undergraduate student pursuing in Forensic Biology. 
 Deandra is a senior majoring in Biological Sciences and interested in becoming a PA. She plans to specialize in Dermatology.
 <br><br>
 
+<br>
+### Past People
+***
+
+<img align="left" src="/images/brady.jpg" alt="brady" width="140" hspace="10"/>
+### Matthew Brady (Collections Specialist)
+Matt is responsible for collections and laboratory management in the lab and in the avian holdings of the <a href="https://www.utep.edu/biodiversity/" target="_blank">UTEP Biodiversity Collections</a>. Matt has a long-term interest in ornithology, field work, and museum research.
+<br><br>
+
 ***
 
 <img align="left" src="/images/hinojos.jpg" alt="hinojos" width="140" hspace="10"/>
@@ -101,8 +103,6 @@ Deandra is a senior majoring in Biological Sciences and interested in becoming a
 Adriana is a fourth-year UTEP undergraduate student pursuing a degree in Biological Sciences with a Biomedicine concentration. She is interested in becoming an optometrist and enjoys playing tennis.<br><br>
 <br><br>
 
-<br>
-### Past People
 ***
 
 <img align="left" src="/images/rodriguez.jpg" alt="rodriguez" width="140" hspace="10"/>
@@ -135,5 +135,5 @@ Connor is an undergraduate student from Eckerd College who worked in the lab for
 ### Prospective students
 ***
 
-We are not currently taking new graduate students. We anticipate having space and funding for new students in a year or two, so please watch this space!
+We are currently considering applications for new graduate students in the lab. The deadline for applying isn't until early 2024 (<a href="https://www.utep.edu/science/eeb/Academic%20Programs/phd.html" target="_blank">details here</a>), but prospective applicants are encouraged to reach out to Dr. Harvey well in advance to coordinate.
 <br><br>
