@@ -93,14 +93,14 @@ Deandra is a senior majoring in Biological Sciences and interested in becoming a
 
 <img align="left" src="/images/brady.jpg" alt="brady" width="140" hspace="10"/>
 ### Matthew Brady (Collections Specialist)
-Matt is responsible for collections and laboratory management in the lab and in the avian holdings of the <a href="https://www.utep.edu/biodiversity/" target="_blank">UTEP Biodiversity Collections</a>. Matt has a long-term interest in ornithology, field work, and museum research.
+Matt came to UTEP in 2022-2023 to coordinate reorganization of the bird collection (see <a href="https://www.utep.edu/biodiversity/" target="_blank">UTEP Biodiversity Collections</a>), field work, and training students in museum science. Matt has a long-term interest in ornithology, field work, and museum research.
 <br><br>
 
 ***
 
 <img align="left" src="/images/hinojos.jpg" alt="hinojos" width="140" hspace="10"/>
 ### Adriana Hinojos (Undergraduate Student)
-Adriana is a fourth-year UTEP undergraduate student pursuing a degree in Biological Sciences with a Biomedicine concentration. She is interested in becoming an optometrist and enjoys playing tennis.<br><br>
+Adriana completed her Bachelor's degree in Biological Sciences with a Biomedicine concentration. She is working to become an optometrist and enjoys playing tennis.<br><br>
 <br><br>
 
 ***
