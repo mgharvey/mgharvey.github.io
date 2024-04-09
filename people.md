@@ -70,9 +70,9 @@ Sebastian is a is a fourth-year UTEP undergraduate student pursuing a degree in 
 
 <br><br>
 
-***
 
 ### Past People
+***
 
 <img align="left" src="/images/johnson.jpg" alt="johnson" width="140" hspace="10"/>
 ### Oscar Johnson (Postdoctoral Fellow)
