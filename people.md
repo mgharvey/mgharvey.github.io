@@ -111,7 +111,7 @@ Pablo is a fourth-year UTEP undergraduate student pursuing in Forensic Biology. 
 
 <img align="left" src="/images/hinojos.jpg" alt="hinojos" width="140" hspace="10"/>
 ### Adriana Hinojos (Undergraduate Student)
-Adriana completed her Bachelor's degree in Biological Sciences with a Biomedicine concentration. She is working to become an optometrist and enjoys playing tennis.<br><br>
+Adriana completed her Bachelor's degree in Biological Sciences with a Biomedicine concentration. She is working to become an optometrist and enjoys playing tennis.
 <br><br>
 
 ***
