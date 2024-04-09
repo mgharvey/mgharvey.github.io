@@ -12,6 +12,10 @@ image:
 
 ***
 
+* Sangster G, <u>Harvey MG</u>, Gaudin J, Claramunt S. 2023. **A new genus for Philydor erythrocercum and P. fuscipenne (Aves: Furnariidae).** *Zootaxa* 5361: 297-300. <a href="https://mgharvey.github.io/docs/Sangsteretal2023.pdf" target="_blank">(pdf)</a>
+
+* Van Els P, <u>Harvey MG</u>, Capurucho JMG, Brumfield RT, Whitney BM, Pacheco JF. 2023. **Systematics of the Neopelminae (Aves: Passeriformes: Pipridae) with description of a new genus** *Zootaxa* 5361: 135-141. <a href="https://mgharvey.github.io/docs/VanElsetal2023.pdf" target="_blank">(pdf)</a>
+
 * <u>Johnson O</u>, Ribas CC, Aleixo A, Naka LN, <u>Harvey MG</u>, Brumfield RT. 2023. **Amazonian birds in more dynamic habitats have less population genetic structure and higher gene flow.** *Molecular Ecology* DOI:10.1111/mec.16886. <a href="https://mgharvey.github.io/docs/Johnsonetal2023.pdf" target="_blank">(pdf)</a>
 
 * Herman RA, Winger BM, Dittmann DL, <u>Harvey MG</u>. 2022. **Fine-scale population genetic structure and barriers to gene flow in a widespread seabird (*Ardenna pacifica*).** *Biological Journal of the Linnean Society* 137: 125-136. <a href="https://mgharvey.github.io/docs/Hermanetal2022.pdf" target="_blank">(pdf)</a>
