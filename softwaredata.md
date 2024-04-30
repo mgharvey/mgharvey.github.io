@@ -86,7 +86,7 @@ A repository of miscellaneous R code, mostly for analyzing and visualizing data,
 
 * **Audio recordings, images, and video from the field** are available from the <a href="https://search.macaulaylibrary.org/catalog?view=grid&userId=USER51707" target="_blank">Macaulay Library</a>.
 
-* **Specimens from field work** are deposited at the following institutions:
+* **Specimens and samples from field work** are deposited at the following institutions:
     - <a href="http://www.utep.edu/biodiversity/" target="_blank">Biodiversity Collections at The University of Texas at El Paso</a>   
     - <a href="https://pagina.fciencias.unam.mx/vida-en-ciencias/instalaciones/instalaciones-academicas/museos/museo-zoologia-colecciones" target="_blank">Colecciones del Museo de Zoología Alfonso L. Herrera, UNAM</a>  
     - <a href="https://scientific-collections.gbif.org/institution/68d85ac1-b19a-476e-a63b-0c06e632b7c1" target="_blank">Centre de Recherche en Sciences Naturelles (CRSN/Lwiro)</a>  
