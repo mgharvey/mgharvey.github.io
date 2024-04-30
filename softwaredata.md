@@ -21,7 +21,7 @@ We try to make all our data and software freely available and easily accessible.
 
 # <a href="https://github.com/mgharvey/tyranni" target="_blank">tyranni</a>
 
-Phylogenies, sequence alignments, and other protocols, data, and code used to examine diversification in suboscine passerines (Harvey et al. 2020).
+Code plus phylogenies, sequence alignments, and other data used to examine diversification in suboscine passerines (Harvey et al. 2020).
 
 # <a href="https://github.com/mgharvey/ES-sim" target="_blank">ES-sim</a>
 
@@ -63,6 +63,8 @@ A repository of miscellaneous R code, mostly for analyzing and visualizing data,
 
 # Data
 ***
+
+* <a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA655842" target="_blank">Raw reads </a> and <a href="https://github.com/mgharvey/tyranni" target="_blank">sequence alignments </a>from 1940 suboscine passerines (Harvey et al. 2020, Science)
 
 * <a href="https://www.ncbi.nlm.nih.gov//bioproject/389814" target="_blank">Raw reads from sequence capture in 464 Amazonian birds used for comparative phylogeography of upland and floodplain habitats </a>(Harvey et al. 2017, Am. Nat.)
 
