@@ -4,7 +4,7 @@ permalink: /people/
 title: People
 tagline: Harvey Lab
 tags: [about, people]
-modified: 4-13-23
+modified: 4-13-24
 comments: true
 image:
   feature: elpaso.jpg
@@ -54,14 +54,14 @@ Andrea is a fourth-year UTEP undergraduate student pursuing a degree in Biologic
 
 ***
 
-<img align="left" src="/images/kalman.jpg" alt="sarinana" width="140" hspace="10"/>
+<img align="left" src="/images/kalman.jpg" alt="kalman" width="140" hspace="10"/>
 ### Matt Kalman (Undergraduate Student)
 Matt is a fourth-year UTEP undergraduate student pursuing a degree in Ecology and Evolutionary Biology. He is interested in evolution, speciation, phylogenetics, population genetics, and phenotypes. He enjoys hiking, wildlife photography, and cooking Mediterranean food in his spare time.
 <br><br>
 
 ***
 
-<img align="left" src="/images/escobar.jpg" alt="sarinana" width="140" hspace="10"/>
+<img align="left" src="/images/escobar.jpg" alt="escobar" width="140" hspace="10"/>
 ### Sebastian Escobar (Undergraduate Student)
 Sebastian is a is a fourth-year UTEP undergraduate student pursuing a degree in Biological Sciences. He is interested in evolution and genetics.
 <br><br>

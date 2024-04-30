@@ -78,12 +78,14 @@ A repository of miscellaneous R code, mostly for analyzing and visualizing data,
 
 * <a href="http://datadryad.org/resource/doi:10.5061/dryad.sd080" target="_blank">UCE alignments from 32 Neoavian birds</a> (McCormack et al. 2013)
 
-* Field observational data are available from the <a href="http://www.avianknowledge.net/" target="_blank">Avian Knowledge Network</a>
+* Field observational data are available from <a href="https://ebird.org/profile/NTE3MDc/world" target="_blank">eBird</a> and the <a href="http://www.avianknowledge.net/" target="_blank">Avian Knowledge Network</a>
 
-* Audio recordings from the field are available from the <a href="http://macaulaylibrary.org/search?recordist=harvey+michael&recordist_id=1450" target="_blank">Macaulay Library</a>
+* Audio recordings from the field are available from the <a href="https://search.macaulaylibrary.org/catalog?view=grid&userId=USER51707" target="_blank">Macaulay Library</a>
 
 * Specimens from field work are deposited at the following institutions:
     - <a href="http://www.utep.edu/biodiversity/" target="_blank">Biodiversity Collections at The University of Texas at El Paso</a>   
+    - <a href="https://pagina.fciencias.unam.mx/vida-en-ciencias/instalaciones/instalaciones-academicas/museos/museo-zoologia-colecciones" target="_blank">Colecciones del Museo de Zoología Alfonso L. Herrera, UNAM</a>  
+    - <a href="https://scientific-collections.gbif.org/institution/68d85ac1-b19a-476e-a63b-0c06e632b7c1" target="_blank">Centre de Recherche en Sciences Naturelles (CRSN/Lwiro)</a>  
     - <a href="http://appl003.lsu.edu/natsci/lmns.nsf/index" target="_blank">Louisiana State University Museum of Natural Science</a>   
     - <a href="http://www.cumv.cornell.edu/" target="_blank">Cornell University Museum of Vertebrates</a>   
     - <a href="http://www.mz.usp.br/" target="_blank">Museu de Zoologia da Universidade de São Paulo</a>  
