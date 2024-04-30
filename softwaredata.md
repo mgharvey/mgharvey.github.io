@@ -4,7 +4,7 @@ permalink: /softwaredata/
 title: Software/Data
 tagline: Harvey Lab
 tags: [about, software, data]
-modified: 8-10-20
+modified: 4-30-24
 comments: true
 image:
   feature: mauritia.jpg
@@ -18,6 +18,8 @@ We try to make all our data and software freely available and easily accessible.
 
 # Software
 ***
+
+*Note that most of this code is not actively maintained, and it may depend on obsolete or deprecated releases or packages. It is provided as-is, generally under a 3-clause BSD license.
 
 # <a href="https://github.com/mgharvey/tyranni" target="_blank">tyranni</a>
 
