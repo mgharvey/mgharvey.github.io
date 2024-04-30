@@ -82,7 +82,7 @@ A repository of miscellaneous R code, mostly for analyzing and visualizing data,
 
 * Field observational data are available from <a href="https://ebird.org/profile/NTE3MDc/world" target="_blank">eBird</a> and the <a href="http://www.avianknowledge.net/" target="_blank">Avian Knowledge Network</a>
 
-* Audio recordings from the field are available from the <a href="https://search.macaulaylibrary.org/catalog?view=grid&userId=USER51707" target="_blank">Macaulay Library</a>
+* Audio recordings, images, and video from the field are available from the <a href="https://search.macaulaylibrary.org/catalog?view=grid&userId=USER51707" target="_blank">Macaulay Library</a>
 
 * Specimens from field work are deposited at the following institutions:
     - <a href="http://www.utep.edu/biodiversity/" target="_blank">Biodiversity Collections at The University of Texas at El Paso</a>   
