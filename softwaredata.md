@@ -64,7 +64,7 @@ A repository of miscellaneous R code, mostly for analyzing and visualizing data,
 # Data
 ***
 
-* <a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA655842" target="_blank">Raw reads </a> and <a href="https://github.com/mgharvey/tyranni" target="_blank">sequence alignments </a>from 1940 suboscine passerines (Harvey et al. 2020, Science)
+* <a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA655842" target="_blank">Raw reads </a> and <a href="https://github.com/mgharvey/tyranni" target="_blank">sequence alignments </a>from sequence capture in 1940 suboscine passerines (Harvey et al. 2020, Science)
 
 * <a href="https://www.ncbi.nlm.nih.gov//bioproject/389814" target="_blank">Raw reads from sequence capture in 464 Amazonian birds used for comparative phylogeography of upland and floodplain habitats </a>(Harvey et al. 2017, Am. Nat.)
 
@@ -80,11 +80,11 @@ A repository of miscellaneous R code, mostly for analyzing and visualizing data,
 
 * <a href="http://datadryad.org/resource/doi:10.5061/dryad.sd080" target="_blank">UCE alignments from 32 Neoavian birds</a> (McCormack et al. 2013)
 
-* Field observational data are available from <a href="https://ebird.org/profile/NTE3MDc/world" target="_blank">eBird</a> and the <a href="http://www.avianknowledge.net/" target="_blank">Avian Knowledge Network</a>
+* **Field observational data** are available from <a href="https://ebird.org/profile/NTE3MDc/world" target="_blank">eBird</a> and the <a href="http://www.avianknowledge.net/" target="_blank">Avian Knowledge Network</a>
 
-* Audio recordings, images, and video from the field are available from the <a href="https://search.macaulaylibrary.org/catalog?view=grid&userId=USER51707" target="_blank">Macaulay Library</a>
+* **Audio recordings, images, and video from the field** are available from the <a href="https://search.macaulaylibrary.org/catalog?view=grid&userId=USER51707" target="_blank">Macaulay Library</a>
 
-* Specimens from field work are deposited at the following institutions:
+* **Specimens from field work** are deposited at the following institutions:
     - <a href="http://www.utep.edu/biodiversity/" target="_blank">Biodiversity Collections at The University of Texas at El Paso</a>   
     - <a href="https://pagina.fciencias.unam.mx/vida-en-ciencias/instalaciones/instalaciones-academicas/museos/museo-zoologia-colecciones" target="_blank">Colecciones del Museo de Zoología Alfonso L. Herrera, UNAM</a>  
     - <a href="https://scientific-collections.gbif.org/institution/68d85ac1-b19a-476e-a63b-0c06e632b7c1" target="_blank">Centre de Recherche en Sciences Naturelles (CRSN/Lwiro)</a>  
