@@ -21,20 +21,20 @@ See his <a href="http://mgharvey.github.io/docs/Harvey_CV.pdf" target="_blank">C
 
 <img align="left" src="/images/sotelo.jpg" alt="sotelo" width="140" hspace="10"/>
 ### Manuelita Sotelo (PhD Student)
-Manuelita  is a first-year UTEP student in the Ecology and Evolutionary Biology PhD program. She is interested in the study of the macro- and microevolutionary processes underlying diversification in birds. She also likes hiking, live music, Italian food and Primitivo.
+Manuelita  is a second-year UTEP student in the Ecology and Evolutionary Biology PhD program. She is interested in the study of the macro- and microevolutionary processes underlying diversification in birds. She also likes hiking, live music, Italian food and Primitivo.
 <br><br>
 
 ***
 
 <img align="left" src="/images/johns.jpeg" alt="johns" width="140" hspace="10"/>
-### Emily Johns (PhD Student)
+### Emily Johns (PhD Candidate)
 Emily is a doctoral student in the Ecology and Evolutionary Biology program. Her research focuses on understanding the impact of climate on avian migration over time and how climate change is projected to influence future migration patterns. She hopes that her work can improve conservation efforts and protect avian biodiversity. In her free time, she enjoys cooking, outdoor activities, and spending time with her cats.
 <br><br>
 
 ***
 
 <img align="left" src="/images/buontempo.jpeg" alt="buontempo" width="140" hspace="10"/>
-### Michael Buontempo (MS Student)
+### Michael Buontempo (MS Candidate)
 Michael is pursuing doctoral research on the geographic variation and phylogeography of montane rattlesnakes in the Sierra Madre Occidental and Madrean Sky Islands of the desert southwest. He is co-advised with <a href="https://www.utep.edu/science/lavretskylab/" target="_blank">Dr. Phil Lavretsky</a>.
 <br><br>
 
