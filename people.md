@@ -26,7 +26,7 @@ Manuelita is a third-year UTEP student in the Ecology and Evolutionary Biology P
 
 ***
 
-<img align="left" src="/images/lima.jpeg" alt="johns" width="140" hspace="10"/>
+<img align="left" src="/images/lima.jpg" alt="lima" width="140" hspace="10"/>
 ### Rafael Lima (PhD Student)
 Rafael is a PhD student in the Ecology and Evolutionary Biology program with broad interests in systematics, evolution, and ecology. His current research focuses on coexistence theory. Outside academia, he enjoys birding, photography, and hiking.
 <br><br>
