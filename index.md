@@ -9,4 +9,4 @@ image:
 Welcome to the website for the Harvey Lab at the University of Texas at El Paso. We study birds with a focus on diversity, genomics, and evolution.
 
 ### News:
-We are currently considering applications for new graduate students in the lab. The deadline for applying isn't until early 2025 (<a href="https://www.utep.edu/science/eeb/Academic%20Programs/phd.html" target="_blank">details here</a>), but prospective applicants are encouraged to reach out to Dr. Harvey well in advance to coordinate.
+We are currently considering applications for new graduate students in the lab (<a href="https://www.utep.edu/science/eeb/Academic%20Programs/phd.html" target="_blank">details here</a>).

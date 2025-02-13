@@ -68,11 +68,7 @@ Maximiliano is a first-year UTEP undergraduate student pursuing a degree in Ecol
 Grace is a second-year UTEP undergraduate student pursuing a degree in Environmental Sciences with a concentration in biology. She is co-advised with Dr. Elizabeth La Rue. While interested in many fields including ornithology, she also enjoys hiking, clay sculpting, and photography.
 <br><br>
 
-***
-
 <br><br>
-
-
 
 ### Past People
 ***
@@ -180,10 +176,9 @@ Connor is an undergraduate student from Eckerd College who worked in the lab for
 Deandra is a senior majoring in Biological Sciences and interested in becoming a PA. She plans to specialize in Dermatology.
 <br><br>
 
-<br>
+<br><br>
+
 ### Prospective students
 ***
 
-
-We are currently considering applications for new graduate students in the lab. The deadline for applying isn't until early 2025 (<a href="https://www.utep.edu/science/eeb/Academic%20Programs/phd.html" target="_blank">details here</a>), but prospective applicants are encouraged to reach out to Dr. Harvey well in advance to coordinate.
-<br><br>
+We are currently considering applications for new graduate students in the lab (<a href="https://www.utep.edu/science/eeb/Academic%20Programs/phd.html" target="_blank">details here</a>).
