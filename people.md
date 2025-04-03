@@ -34,7 +34,7 @@ Rafael is a PhD student in the Ecology and Evolutionary Biology program with bro
 ***
 
 <img align="left" src="/images/kalman.jpg" alt="kalman" width="140" hspace="10"/>
-### Matt Kalman (Undergraduate Student)
+### Matt Kalman (Post-baccalaureate Fellow)
 Matt is a NSF-funded ROADS post-baccalaureate fellow. He is interested in evolution, speciation, phylogenetics, population genetics, and phenotypes. He enjoys hiking, wildlife photography, and cooking Mediterranean food in his spare time.
 <br><br>
 
