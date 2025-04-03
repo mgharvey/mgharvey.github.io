@@ -184,4 +184,4 @@ Deandra is a senior majoring in Biological Sciences and interested in becoming a
 ### Prospective students
 ***
 
-We will consider prospective students in the coming cycle. More info on the UTEP EEB graduate programs including deadlines (when they become available) here (<a href="https://www.utep.edu/science/eeb/Academic%20Programs/phd.html" target="_blank">details here</a>). Feel free to reach out to Dr. Harvey in advance to discuss the current situation.
+We will consider prospective students in the coming cycle. More info on the UTEP EEB graduate programs including deadlines (when they become available) <a href="https://www.utep.edu/science/eeb/Academic%20Programs/phd.html" target="_blank">at this link</a>. Feel free to reach out to Dr. Harvey in advance to discuss the current situation.
