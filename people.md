@@ -9,6 +9,9 @@ comments: true
 image:
   feature: elpaso.jpg
 ---
+
+**News:** We are hiring a postdoc on our NSF grant on suboscine bird diversification! Details here: <a href="https://shorturl.at/RkYkE" target="_blank">https://shorturl.at/RkYkE</a>.
+
 ***
 
 <img align="left" src="/images/harvey.jpg" alt="harvey" width="140" hspace="10"/>
@@ -181,4 +184,4 @@ Deandra is a senior majoring in Biological Sciences and interested in becoming a
 ### Prospective students
 ***
 
-We are currently considering applications for new graduate students in the lab (<a href="https://www.utep.edu/science/eeb/Academic%20Programs/phd.html" target="_blank">details here</a>).
+We will consider prospective students in the coming cycle. More info on the UTEP EEB graduate programs including deadlines (when they become available) here (<a href="https://www.utep.edu/science/eeb/Academic%20Programs/phd.html" target="_blank">details here</a>). Feel free to reach out to Dr. Harvey in advance to discuss the current situation.
