@@ -12,6 +12,8 @@ image:
 
 ***
 
+* Johns E, Johnson O, <u>Harvey MG</u>. Accepted. **Migration evolves in response to distinct regimes of climate seasonality in tropical versus temperate-breeding suboscine birds.** *Ecology and Evolution*. 
+
 * LaRue EA, Downing AG, Saucedo S, Rocha A, Vargas SA, Mata-Silva V, <u>Harvey MG</u>. 2023. **Diversity-volume relationships: adding structural arrangement and volume to species-area relationships across forest macrosystems.** *Ecography* 10: e06723. <a href="https://mgharvey.github.io/docs/LaRueetal2023.pdf" target="_blank">(pdf)</a>
 
 * Sangster G, <u>Harvey MG</u>, Gaudin J, Claramunt S. 2023. **A new genus for *Philydor erythrocercum* and *P. fuscipenne* (Aves: Furnariidae).** *Zootaxa* 5361: 297-300. <a href="https://mgharvey.github.io/docs/Sangsteretal2023.pdf" target="_blank">(pdf)</a>
