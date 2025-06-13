@@ -9,4 +9,4 @@ image:
 Welcome to the website for the Harvey Lab at the University of Texas at El Paso. We study birds with a focus on diversity, genomics, and evolution.
 
 ### News:
-We are open to graduate school applicants during the upcoming admissions cycle. Additional information will appear here as it becomes available <a href="https://www.utep.edu/science/biology/academic-programs/apply-here.html" target="_blank">UTEP Biology Application Page</a>.
+We are open to graduate school applicants during the upcoming admissions cycle. Additional information will appear here as it becomes available: <a href="https://www.utep.edu/science/biology/academic-programs/apply-here.html" target="_blank">UTEP Biology Application Page</a>.
