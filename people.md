@@ -10,8 +10,6 @@ image:
   feature: elpaso.jpg
 ---
 
-**News:** We are hiring a postdoc on our NSF grant on suboscine bird diversification! Details here: <a href="https://shorturl.at/RkYkE" target="_blank">https://shorturl.at/RkYkE</a>.
-
 ***
 
 <img align="left" src="/images/harvey.jpg" alt="harvey" width="140" hspace="10"/>
