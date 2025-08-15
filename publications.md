@@ -12,7 +12,7 @@ image:
 
 ***
 
-* Johns E, Johnson O, <u>Harvey MG</u>. Accepted. **Migration evolves in response to distinct regimes of climate seasonality in tropical versus temperate-breeding suboscine birds.** *Ecology and Evolution*. 
+* Johns E, Johnson O, <u>Harvey MG</u>. 2025. **Migration evolves in response to distinct regimes of climate seasonality in tropical versus temperate-breeding suboscine birds.** *Ecology and Evolution* 15: e71745. <a href="https://mgharvey.github.io/docs/Johnsetal2025.pdf" target="_blank">(pdf)</a>
 
 * LaRue EA, Downing AG, Saucedo S, Rocha A, Vargas SA, Mata-Silva V, <u>Harvey MG</u>. 2023. **Diversity-volume relationships: adding structural arrangement and volume to species-area relationships across forest macrosystems.** *Ecography* 10: e06723. <a href="https://mgharvey.github.io/docs/LaRueetal2023.pdf" target="_blank">(pdf)</a>
 
