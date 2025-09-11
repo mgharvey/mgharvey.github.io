@@ -12,6 +12,14 @@ image:
 
 ***
 
+
+
+* <u>Harvey MG</u>, Jumakanova Z, Herman RW, Weeks BC, Sotelo-Muñoz M, Larrieu X, Aldaiarov N. In review. **Comparative phylogeography of co-distributed forest birds across Kyrgyz mountain ranges.** 
+
+* Buontempo MJ, Lavretsky P, Rautsauw RM, McFarland LM, Rosales-Garcia RA, Strickland JL, Borja M, Jones J, Ramírez-Chaparro R, Bryson Jr. RW, Parkinson CL, <u>Harvey MG</u>. In review. **Evolutionary history of Ridge-nosed Rattlesnakes (Crotalus willardi): a specialized and diverse montane species.** 
+
+* Zhao M, Thom G, Faircloth BC, Andersen MJ, Barker FK, Benz BW, Braun MJ, Bravo GA, Brumfield RT, Chesser RT, Derryberry EP, Glenn TC, <u>Harvey MG</u>, Hosner PA, Imfeld TS, Joseph L, Manthey JD, McCormack JE, McCullough JM, Moyle RG, Oliveros CH, White Carreiro ND, Winker K, Field DJ, Ksepka DT, Braun EL, Kimball RT, Smith BT. In review. **Efficient Inference of macrophylogenies: Insights from the avian tree of life.** 
+
 * Johns E, Johnson O, <u>Harvey MG</u>. 2025. **Migration evolves in response to distinct regimes of climate seasonality in tropical versus temperate-breeding suboscine birds.** *Ecology and Evolution* 15: e71745. <a href="https://mgharvey.github.io/docs/Johnsetal2025.pdf" target="_blank">(pdf)</a>
 
 * LaRue EA, Downing AG, Saucedo S, Rocha A, Vargas SA, Mata-Silva V, <u>Harvey MG</u>. 2023. **Diversity-volume relationships: adding structural arrangement and volume to species-area relationships across forest macrosystems.** *Ecography* 10: e06723. <a href="https://mgharvey.github.io/docs/LaRueetal2023.pdf" target="_blank">(pdf)</a>
@@ -20,7 +28,7 @@ image:
 
 * Van Els P, <u>Harvey MG</u>, Capurucho JMG, Brumfield RT, Whitney BM, Pacheco JF. 2023. **Systematics of the Neopelminae (Aves: Passeriformes: Pipridae) with description of a new genus** *Zootaxa* 5361: 135-141. <a href="https://mgharvey.github.io/docs/VanElsetal2023.pdf" target="_blank">(pdf)</a>
 
-* <u>Johnson O</u>, Ribas CC, Aleixo A, Naka LN, <u>Harvey MG</u>, Brumfield RT. 2023. **Amazonian birds in more dynamic habitats have less population genetic structure and higher gene flow.** *Molecular Ecology* DOI:10.1111/mec.16886. <a href="https://mgharvey.github.io/docs/Johnsonetal2023.pdf" target="_blank">(pdf)</a>
+* Johnson O, Ribas CC, Aleixo A, Naka LN, <u>Harvey MG</u>, Brumfield RT. 2023. **Amazonian birds in more dynamic habitats have less population genetic structure and higher gene flow.** *Molecular Ecology* DOI:10.1111/mec.16886. <a href="https://mgharvey.github.io/docs/Johnsonetal2023.pdf" target="_blank">(pdf)</a>
 
 * Herman RA, Winger BM, Dittmann DL, <u>Harvey MG</u>. 2022. **Fine-scale population genetic structure and barriers to gene flow in a widespread seabird (*Ardenna pacifica*).** *Biological Journal of the Linnean Society* 137: 125-136. <a href="https://mgharvey.github.io/docs/Hermanetal2022.pdf" target="_blank">(pdf)</a>
 
