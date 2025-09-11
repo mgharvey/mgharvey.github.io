@@ -16,7 +16,7 @@ image:
 
 * <u>Harvey MG</u>, Jumakanova Z, Herman RW, Weeks BC, Sotelo-Muñoz M, Larrieu X, Aldaiarov N. In review. **Comparative phylogeography of co-distributed forest birds across Kyrgyz mountain ranges.** 
 
-* Buontempo MJ, Lavretsky P, Rautsauw RM, McFarland LM, Rosales-Garcia RA, Strickland JL, Borja M, Jones J, Ramírez-Chaparro R, Bryson Jr. RW, Parkinson CL, <u>Harvey MG</u>. In review. **Evolutionary history of Ridge-nosed Rattlesnakes (Crotalus willardi): a specialized and diverse montane species.** 
+* Buontempo MJ, Lavretsky P, Rautsauw RM, McFarland LM, Rosales-Garcia RA, Strickland JL, Borja M, Jones J, Ramírez-Chaparro R, Bryson Jr. RW, Parkinson CL, <u>Harvey MG</u>. In review. **Evolutionary history of Ridge-nosed Rattlesnakes (*Crotalus willardi*): a specialized and diverse montane species.** 
 
 * Zhao M, Thom G, Faircloth BC, Andersen MJ, Barker FK, Benz BW, Braun MJ, Bravo GA, Brumfield RT, Chesser RT, Derryberry EP, Glenn TC, <u>Harvey MG</u>, Hosner PA, Imfeld TS, Joseph L, Manthey JD, McCormack JE, McCullough JM, Moyle RG, Oliveros CH, White Carreiro ND, Winker K, Field DJ, Ksepka DT, Braun EL, Kimball RT, Smith BT. In review. **Efficient Inference of macrophylogenies: Insights from the avian tree of life.** 
 
