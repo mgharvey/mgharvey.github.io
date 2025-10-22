@@ -34,40 +34,26 @@ Rafael is a PhD student in the Ecology and Evolutionary Biology program with bro
 
 ***
 
-<img align="left" src="/images/kalman.jpg" alt="kalman" width="140" hspace="10"/>
-### Matt Kalman (Post-baccalaureate Fellow)
-Matt is a NSF-funded ROADS post-baccalaureate fellow. He is interested in evolution, speciation, phylogenetics, population genetics, and phenotypes. He enjoys hiking, wildlife photography, and cooking Mediterranean food in his spare time.
+<img align="left" src="/images/durham.jpg" alt="durham" width="140" hspace="10"/>
+### Morgan Durham (MS Student)
+Morgan is an MS student in the Biological Sciences program with an Ecology and Evolutionary Biology focus. She is interested in microevolution, speciation, and behavior in birds. In her free time she enjoys birding, running, knitting, and hockey. 
 <br><br>
 
 ***
 
-<img align="left" src="/images/escobar.jpg" alt="escobar" width="140" hspace="10"/>
-### Sebastian Escobar (Undergraduate Student)
-Sebastian is a is a fourth-year UTEP undergraduate student pursuing a degree in Biological Sciences. He is interested in evolution and genetics.
-<br><br>
-
-***
-
-<img align="left" src="/images/gonzalez.jpg" alt="escobar" width="140" hspace="10"/>
-### Camila Gonzalez (Undergraduate Student)
-Camila is a third-year UTEP undergraduate pursuing a degree in biological sciences with a biomedical concentration. She is interested in cardiology and medicine. She enjoys solving puzzles and playing the viola in her free time.
-<br><br>
-
-***
-
-
-<img align="left" src="/images/sharboneau.jpg" alt="escobar" width="140" hspace="10"/>
+<img align="left" src="/images/sharboneau.jpg" alt="sharboneau" width="140" hspace="10"/>
 ### Maximiliano Sharboneau (Undergraduate Student)
 Maximiliano is a first-year UTEP undergraduate student pursuing a degree in Ecology and Evolutionary Biology. He is interested in microevolution, macroevolution, genetics, and chameleons.
 <br><br>
 
 ***
 
-
-<img align="left" src="/images/lee.jpg" alt="escobar" width="140" hspace="10"/>
-### Grace Lee (Undergraduate Student)
-Grace is a second-year UTEP undergraduate student pursuing a degree in Environmental Sciences with a concentration in biology. She is co-advised with Dr. Elizabeth La Rue. While interested in many fields including ornithology, she also enjoys hiking, clay sculpting, and photography.
+<img align="left" src="/images/trujillo.jpg" alt="trujillo" width="140" hspace="10"/>
+### Maxine Trujillo (Undergraduate Student)
+Maxine is a fourth-year UTEP undergraduate studying Anthropology with a minor in Biology. Alongside having a concentration in Archaeology, she is interested in evolution and population genetics in both humans and animals. She enjoys hiking and rock music.
 <br><br>
+
+***
 
 <br><br>
 
@@ -105,6 +91,34 @@ Emily completed an MS studying the impact of climate on avian migration over tim
 <img align="left" src="/images/buontempo.jpeg" alt="buontempo" width="140" hspace="10"/>
 ### Michael Buontempo (MS Graduate)
 Michael completed an MS studying geographic variation and phylogeography of montane rattlesnakes in the Sierra Madre Occidental and Madrean Sky Islands of the desert southwest. He was co-advised with Dr. Phil Lavretsky.
+<br><br>
+
+***
+
+<img align="left" src="/images/kalman.jpg" alt="kalman" width="140" hspace="10"/>
+### Matt Kalman (Post-baccalaureate Fellow)
+Matt is a NSF-funded ROADS post-baccalaureate fellow. He is interested in evolution, speciation, phylogenetics, population genetics, and phenotypes. He enjoys hiking, wildlife photography, and cooking Mediterranean food in his spare time.
+<br><br>
+
+***
+
+<img align="left" src="/images/escobar.jpg" alt="escobar" width="140" hspace="10"/>
+### Sebastian Escobar (Undergraduate Student)
+Sebastian is a fourth-year UTEP undergraduate student pursuing a degree in Biological Sciences. He is interested in evolution and genetics.
+<br><br>
+
+***
+
+<img align="left" src="/images/gonzalez.jpg" alt="escobar" width="140" hspace="10"/>
+### Camila Gonzalez (Undergraduate Student)
+Camila completed an undergraduate degree in biological sciences with a biomedical concentration. She is interested in cardiology and medicine. She enjoys solving puzzles and playing the viola in her free time.
+<br><br>
+
+***
+
+<img align="left" src="/images/lee.jpg" alt="escobar" width="140" hspace="10"/>
+### Grace Lee (Undergraduate Student)
+Grace is a third-year UTEP undergraduate student pursuing a degree in Environmental Sciences with a concentration in biology. She is co-advised with Dr. Elizabeth La Rue. While interested in many fields including ornithology, she also enjoys hiking, clay sculpting, and photography.
 <br><br>
 
 ***
