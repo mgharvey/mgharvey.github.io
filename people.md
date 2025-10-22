@@ -53,8 +53,6 @@ Maximiliano is a first-year UTEP undergraduate student pursuing a degree in Ecol
 Maxine is a fourth-year UTEP undergraduate studying Anthropology with a minor in Biology. Alongside having a concentration in Archaeology, she is interested in evolution and population genetics in both humans and animals. She enjoys hiking and rock music.
 <br><br>
 
-***
-
 <br><br>
 
 ### Past People
