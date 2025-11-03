@@ -53,6 +53,13 @@ Maximiliano is a first-year UTEP undergraduate student pursuing a degree in Ecol
 Maxine is a fourth-year UTEP undergraduate studying Anthropology with a minor in Biology. Alongside having a concentration in Archaeology, she is interested in evolution and population genetics in both humans and animals. She enjoys hiking and rock music.
 <br><br>
 
+***
+
+<img align="left" src="/images/monzon.jpg" alt="monzon" width="140" hspace="10"/>
+### Isaiah Monzon (Undergraduate Student)
+Isaiah is a 5th year undergraduate student majoring in Ecology and Evolutionary Biology. He's interested in animal conservation and animal behavior.
+<br><br>
+
 <br><br>
 
 ### Past People
