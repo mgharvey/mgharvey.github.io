@@ -60,6 +60,13 @@ Maxine is a fourth-year UTEP undergraduate studying Anthropology with a minor in
 Isaiah is a 5th year undergraduate student majoring in Ecology and Evolutionary Biology. He's interested in animal conservation and animal behavior.
 <br><br>
 
+***
+
+<img align="left" src="/images/lasalde.jpg" alt="monzon" width="140" hspace="10"/>
+### Lyanne LaSalde (Undergraduate Student)
+Lyanne is a Biomedical Science major at the University of Texas at El Paso and a proud member of the UTEP Honors Society. Her interests include human anatomy, evolution and medical genetics. She plans to pursue medical school following the MCAT. Outside of academics, she enjoys reading, gaming, and deepening her understanding of biology.
+<br><br>
+
 <br><br>
 
 ### Past People
