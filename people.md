@@ -20,6 +20,13 @@ See his <a href="http://mgharvey.github.io/docs/Harvey_CV.pdf" target="_blank">C
 
 ***
 
+<img align="left" src="/images/vinciguerra.jpg" alt="vinciguerra" width="140" hspace="10"/>
+### Nick Vinciguerra (Postdoctoral Researcher)
+Nick is a Postdoctoral Researcher working on the NSF-funded suboscine project. His long-standing interests include ornithology, systematics, field biology, and museum collections. He is an affiliate of the Museum of Southwestern Biology at the University of New Mexico. His publications can be found on <a href="https://scholar.google.com/citations?user=L8GWiY0AAAAJ&hl=en" target="_blank">Google Scholar</a>.
+<br><br>
+
+***
+
 <img align="left" src="/images/sotelo.jpg" alt="sotelo" width="140" hspace="10"/>
 ### Manuelita Sotelo (PhD Student)
 Manuelita is a third-year UTEP student in the Ecology and Evolutionary Biology PhD program. She is interested in the study of the macro- and microevolutionary processes underlying diversification in birds. She also likes hiking, live music, Italian food and Primitivo.
