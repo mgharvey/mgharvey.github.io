@@ -210,9 +210,3 @@ Connor is an undergraduate student from Eckerd College who worked in the lab for
 Deandra is a senior majoring in Biological Sciences and interested in becoming a PA. She plans to specialize in Dermatology.
 <br><br>
 
-<br><br>
-
-### Prospective students
-***
-
-We will consider prospective students in the coming cycle. More info on the UTEP EEB graduate programs including deadlines (when they become available) <a href="https://www.utep.edu/science/eeb/Academic%20Programs/phd.html" target="_blank">at this link</a>. Feel free to reach out to Dr. Harvey in advance to discuss the current situation.
